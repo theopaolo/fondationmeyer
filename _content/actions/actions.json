@@ -1,4 +1,4 @@
 {
   "tags": "action",
-  "layout": "base.hbs"
+  "layout": "page.hbs"
 }
