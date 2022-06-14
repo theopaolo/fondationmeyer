@@ -6,6 +6,7 @@ module.exports = (config) => {
     markdownTemplateEngine: 'hbs',
     dir: {
       includes: '../_includes/',
+      data: '../_data',
       input: '_content',
       output: '_site'
     }
