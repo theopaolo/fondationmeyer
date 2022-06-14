@@ -10,10 +10,15 @@ You will need to install the dependencies first :
 npm i
 ```
 
-To run the project watching changes, including those from your SCSS :
+To run the project watching changes, including changes from your SCSS :
 
 ```sh
 npm run start
 ```
 
 It will be available at [http:///localhost:8080/](http://localhost:8080/) by default.
+
+## TODO
+- [ ] beneficiaries
+  - [ ] dynamic search
+  - [ ] template use
