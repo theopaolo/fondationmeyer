@@ -1,0 +1,42 @@
+@use 'sass:list'
+@use 'system'
+
+$aligns: ( start, center, end, stretch)
+
+.grid
+  display: grid
+  gap: var(--grid-gap)
+  grid-template-columns: repeat(system.$grid-cols-count, 1fr)
+
+  &.even-cols
+    auto-flow: column
+    auto-columns: 1fr
+
+@for $span from 2 through system.$grid-cols-count
+  .col-span-#{$span}
+    grid-column-end: span $span
+
+@for $start from 1 through system.$grid-cols-count
+  .col-start-#{$start}
+    grid-column-start: $start
+    
+@for $start from 1 through 12
+  .row-start-#{$start}
+    grid-row-start: $start
+
+@each $align in $aligns
+  .align-self-#{$align}
+    align-self: $align
+
+@each $align in $aligns
+  .justify-self-#{$align}
+    justify-self: $align
+
+@each $align in $aligns
+  .align-items-#{$align}
+    align-items: $align
+
+@each $align in $aligns
+  .justify-items-#{$align}
+    justify-items: $align
+

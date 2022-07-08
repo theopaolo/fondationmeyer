@@ -1,0 +1,14 @@
+<nav class="col-start-2 row-start-2 col-span-3" aria-role="Primary">
+  <ul role="list" class="primary">
+    <li><a href="/" {% if page.url == '/' %}aria-current="home"{% endif %}>Fondation Meyer</a></li>
+    <li>Actions
+      <ul role="list" class="secondary">
+        {% for action in collections.action %}
+          <li><a href="{{ action.url }}" {% if page.url == action.url %}aria-current="{{ action.data.title }}"{% endif %}>{{ action.data.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% set regExp = r/^\/news.*/mi %}
+    <li><a href="/news" {% if regExp.test(page.url) %}aria-current="news"{% endif %}>News</a></li>
+ </ul>
+</nav>

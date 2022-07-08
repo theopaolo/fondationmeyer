@@ -10,25 +10,33 @@
   <!-- javascript -->
   <script src="/assets/js/client.js" type="module"></script>
 </head>
-<body>
-<nav>
-  <ul>
-    <li><a href="/">Fondation Meyer</a></li>
+<body class="grid">
+
+  <a href="/" class="col-start-2 col-span-3 row-start-1 logo"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
+  <nav class="col-start-2 row-start-2 col-span-3" aria-role="Primary">
+  <ul role="list" class="primary">
+    <li><a href="/" >Fondation Meyer</a></li>
     <li>Actions
-      <ul>
-          <li><a href="/actions/le-conservatoire-de-paris/">Le Conservatoire de Paris</a></li>
-          <li><a href="/actions/ecoles-amies-des-musees/">Ecoles amies de musées</a></li>
+      <ul role="list" class="secondary">
+        
+          <li><a href="/actions/ecoles-amies-des-musees/" aria-current="Ecoles amies de musées">Ecoles amies de musées</a></li>
+        
+          <li><a href="/actions/le-conservatoire-de-paris/" >Le Conservatoire de Paris</a></li>
+        
       </ul>
     </li>
-    <li>News
-      <ul>
-          <li><a href="/news/website-redesign/">New Website</a></li>
-      </ul>
-    </li>
+    
+    <li><a href="/news" >News</a></li>
  </ul>
 </nav>
 
-<main>
+
+  <header class="col-start-5 col-span-7 row-start-1 align-self-end">
+    <h1 class="font-size-600 font-uppercase clr-neutral-400">Ecoles amies de musées</h1>
+  </header>
+
+  <main class="col-span-8 col-start-5 row-start-2">
+    
   <p><img src="http://www.fondationmeyer.org/images/uploads/ecoiles-ames-des-musees-01.jpg" alt=""></p>
 <p><a href="http://www.paris.fr/accueil/Portal.lut?page_id=9651&amp;document_type_id=4&amp;document_id=85171&amp;portlet_id=23756">Ecoles amies des musées</a></p>
 <p>Par sa contribution au projet de la Mairie de Paris, « l’Art pour grandir », destiné à développer l’accès des enfants à la culture et à ses institutions, la Fondation Meyer soutient un principe qui lui tient à cœur : le patrimoine français appartient à tous ceux qui vivent sur son sol, comme leur appartient le droit d’y avoir accès, c’est à dire de le connaître et de l’apprécier. Plus encore, la notion de patrimoine dépassant largement le cadre muséographique, la Fondation est attachée à ce que chacun, l’enfant le tout premier, se reconnaisse comme étant dépositaire et responsable de ce patrimoine. Dans certains quartiers défavorisés de Paris, cet accès n’est pas prioritaire, tant à cause des arbitrages financiers délicats des caisses d’école qu’à cause du souci bien compréhensible que peuvent avoir les enseignants de privilégier d’autres aspects des bases scolaires et sociales, entre autres la maîtrise de la langue.</p>
@@ -38,9 +46,10 @@
 <p>– Danièle Pourtant, Adjointe au maire de Paris chargée du patrimoine, janvier 2011</p>
 <p><a href="http://www.paris.fr/accueil/Portal.lut?page_id=9651&amp;document_type_id=4&amp;document_id=85171&amp;portlet_id=23756">Cliquez ici pour plus d'infos</a></p>
 
-</main>
 
-<footer>
+  </main>
+
+  <footer class="col-start-2 col-span-3">
   <p>
     Reconnue dʼutilité publique par décret du 4 Janvier 1995
   </p>

@@ -1,0 +1,33 @@
+@use 'sass:math'
+@use 'sass:map'
+
+/* Colour Styles */
+$clrs-neutral: ( "100": #FFFFFF, "200": #DADADA, "400": #808080, "900": #000000 )
+
+/* Type Styles */
+$font-family-primary: 'Inter', sans-serif
+$font-size-base: 20px
+$font-scale: 1.333
+$font-line-height-base: 1.75
+
+/* Grid defaults */
+$grid-cols-count: 12
+$grid-gap: var(--font-size-300)
+
+:root
+  @each $clr, $val in $clrs-neutral
+    --clr-neutral-#{$clr}: #{$val}
+
+  --font-family-primary: #{$font-family-primary}
+  --font-scale: #{$font-scale}
+  --paragraph-spacing: calc(1em * var(--font-scale))
+
+  @for $fs from 3 through 1
+    --font-size-#{400 - $fs * 100}: #{math.div($font-size-base, math.pow($font-scale, $fs))}
+
+  @for $fs from 0 through 5
+    --font-size-#{$fs * 100 + 400}: #{$font-size-base * math.pow($font-scale, $fs)}
+
+  --grid-gap: var(--font-size-200)
+
+

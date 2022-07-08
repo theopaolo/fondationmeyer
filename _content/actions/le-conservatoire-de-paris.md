@@ -2,8 +2,6 @@
 title: Le Conservatoire de Paris
 ---
 
-![](http://www.fondationmeyer.org/images/uploads/conservatoire-02.jpg)
-
 [Le Conservatoire](http://www.cnsmdp.fr/)
 
 Initiée en 1995 par Vincent Meyer et Marc Olivier Dupin, alors directeur de l’établissement, l’action de la Fondation Meyer en faveur du CNSMD a d’abord concerné les seuls étudiants étrangers, alors exclus du système des bourses. Très vite, elle s’est étendue à l’ensemble des étudiants en cycle de perfectionnement en accordant une aide capitale, destinée à financer deux étapes essentielles dans la vie d’un musicien : acquérir un bon instrument et enregistrer un CD, de manière à pouvoir se positionner sur le marché du travail.
@@ -12,9 +10,9 @@ Aujourd’hui, six actions majeures bénéficient directement du soutien de la F
 
 Enjeu de premier ordre dans la vie du CNSMD, le partenariat Fondation Meyer a permis, à ce jour, à plus de 500 étudiants d’intégrer un parcours professionnel d’excellence et d’accéder à la carrière de leurs rêves.
 
-« Je souhaite que perdure la relation avec le Conservatoire. Le soutien de la Fondation a changé la vie de centaines de jeunes musiciens qui n’ont ni le temps ni l'opportunité de trouver un travail durant leurs études. Je trouve très gratifiant de leur permettre de passer leurs diplômes avec plus de sérénité. »
-
-– Vincent Meyer, président de la Fondation  Meyer, Janvier 2012
+> « Je souhaite que perdure la relation avec le Conservatoire. Le soutien de la Fondation a changé la vie de centaines de jeunes musiciens qui n’ont ni le temps ni l'opportunité de trouver un travail durant leurs études. Je trouve très gratifiant de leur permettre de passer leurs diplômes avec plus de sérénité. »
+>
+> – Vincent Meyer, président de la Fondation  Meyer, Janvier 2012
 
 [Cliquez ici pour plus d'infos](http://www.cnsmdp.fr/conservatoire/mecenes/ils_nous_soutiennent.htm)
 [Liste bénéficiaires](http://www.fondationmeyer.org/index.php/beneficiaries/index)

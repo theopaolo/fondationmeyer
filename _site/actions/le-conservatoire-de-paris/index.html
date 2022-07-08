@@ -10,38 +10,48 @@
   <!-- javascript -->
   <script src="/assets/js/client.js" type="module"></script>
 </head>
-<body>
-<nav>
-  <ul>
-    <li><a href="/">Fondation Meyer</a></li>
+<body class="grid">
+
+  <a href="/" class="col-start-2 col-span-3 row-start-1 logo"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
+  <nav class="col-start-2 row-start-2 col-span-3" aria-role="Primary">
+  <ul role="list" class="primary">
+    <li><a href="/" >Fondation Meyer</a></li>
     <li>Actions
-      <ul>
-          <li><a href="/actions/le-conservatoire-de-paris/">Le Conservatoire de Paris</a></li>
-          <li><a href="/actions/ecoles-amies-des-musees/">Ecoles amies de musées</a></li>
+      <ul role="list" class="secondary">
+        
+          <li><a href="/actions/ecoles-amies-des-musees/" >Ecoles amies de musées</a></li>
+        
+          <li><a href="/actions/le-conservatoire-de-paris/" aria-current="Le Conservatoire de Paris">Le Conservatoire de Paris</a></li>
+        
       </ul>
     </li>
-    <li>News
-      <ul>
-          <li><a href="/news/website-redesign/">New Website</a></li>
-      </ul>
-    </li>
+    
+    <li><a href="/news" >News</a></li>
  </ul>
 </nav>
 
-<main>
-  <p><img src="http://www.fondationmeyer.org/images/uploads/conservatoire-02.jpg" alt=""></p>
-<p><a href="http://www.cnsmdp.fr/">Le Conservatoire</a></p>
+
+  <header class="col-start-5 col-span-7 row-start-1 align-self-end">
+    <h1 class="font-size-600 font-uppercase clr-neutral-400">Le Conservatoire de Paris</h1>
+  </header>
+
+  <main class="col-span-8 col-start-5 row-start-2">
+    
+  <p><a href="http://www.cnsmdp.fr/">Le Conservatoire</a></p>
 <p>Initiée en 1995 par Vincent Meyer et Marc Olivier Dupin, alors directeur de l’établissement, l’action de la Fondation Meyer en faveur du CNSMD a d’abord concerné les seuls étudiants étrangers, alors exclus du système des bourses. Très vite, elle s’est étendue à l’ensemble des étudiants en cycle de perfectionnement en accordant une aide capitale, destinée à financer deux étapes essentielles dans la vie d’un musicien : acquérir un bon instrument et enregistrer un CD, de manière à pouvoir se positionner sur le marché du travail.</p>
 <p>Aujourd’hui, six actions majeures bénéficient directement du soutien de la Fondation : aides aux élèves, réparties entre les bourses d’etudes et les aides aux projets particuliers; aide à la venue d’artistes internationaux pour des master classes; aide aux élèves participant aux sessions de European Chamber Music Academy (ECMA); soutien à la réalisation de 6 CD/DVD « Jeunes solistes » par an, permettant aux étudiants de disposer d’un support à l’attention des prescripteurs et organisateurs de concert; aide à la réalisation du concours des Avant scènes offrant la possibilité de se produire en public. Directement ou indirectement, toutes ces contributions tendent vers un but unique : combler le hiatus, parfois très difficile à surmonter, entre la fin des études musicales et le début de la vie professionnelle.</p>
 <p>Enjeu de premier ordre dans la vie du CNSMD, le partenariat Fondation Meyer a permis, à ce jour, à plus de 500 étudiants d’intégrer un parcours professionnel d’excellence et d’accéder à la carrière de leurs rêves.</p>
+<blockquote>
 <p>« Je souhaite que perdure la relation avec le Conservatoire. Le soutien de la Fondation a changé la vie de centaines de jeunes musiciens qui n’ont ni le temps ni l'opportunité de trouver un travail durant leurs études. Je trouve très gratifiant de leur permettre de passer leurs diplômes avec plus de sérénité. »</p>
 <p>– Vincent Meyer, président de la Fondation  Meyer, Janvier 2012</p>
+</blockquote>
 <p><a href="http://www.cnsmdp.fr/conservatoire/mecenes/ils_nous_soutiennent.htm">Cliquez ici pour plus d'infos</a>
 <a href="http://www.fondationmeyer.org/index.php/beneficiaries/index">Liste bénéficiaires</a></p>
 
-</main>
 
-<footer>
+  </main>
+
+  <footer class="col-start-2 col-span-3">
   <p>
     Reconnue dʼutilité publique par décret du 4 Janvier 1995
   </p>

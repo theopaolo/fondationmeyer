@@ -5,21 +5,15 @@ pagination:
 permalink: beneficiaries/{{ pagination.items }}/
 ---
 
-{{> partials/head }}
-{{> partials/nav }}
-
 <h1>Bénéficiaries du {{ pagination.items }}</h1>
 
 <ul>
-{{#each beneficiaries.conservatoire as | year |}}
-  <li>{{ @key }}
+{% for year in beneficiaries.conservatoire %}
+  <li>
     <ul>
-    {{#each year as | bene |}}
-      <li>{{bene.Prénom}} {{ bene.Nom }}</li>
-    {{/each}}
+    {% for bene in year %}
+      <li>{{bene.Prenom}} {{ bene.Nom }}</li>
+    {% endfor %}
     </ul>
   </li>
-{{/each}}
-
-{{> partials/footer }}
-{{> partials/foot }}
+{% endfor %}

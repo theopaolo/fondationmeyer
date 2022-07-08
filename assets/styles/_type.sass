@@ -1,0 +1,29 @@
+@use 'sass:math'
+@use 'system'
+
+body 
+  font-family: var(--font-family-primary)
+  font-size: var(--font-size-400)
+
+p ~ p,
+* ~ blockquote,
+* ~ img
+  margin-block-start: var(--paragraph-spacing)
+
+blockquote
+  font-style: italic
+
+@each $clr, $val in system.$clrs-neutral
+  .clr-neutral-#{$clr}
+    color: $val
+    
+@for $fs from 3 through 1
+  .font-size-#{400 - $fs * 100}
+    font-size: #{math.div(system.$font-size-base, math.pow(system.$font-scale, $fs))}
+
+@for $fs from 0 through 5
+  .font-size-#{$fs * 100 + 400}
+    font-size: #{system.$font-size-base * math.pow(system.$font-scale, $fs)}
+
+.font-uppercase
+  text-transform: uppercase

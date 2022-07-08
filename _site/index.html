@@ -10,30 +10,39 @@
   <!-- javascript -->
   <script src="/assets/js/client.js" type="module"></script>
 </head>
-<body>
-<nav>
-  <ul>
-    <li><a href="/">Fondation Meyer</a></li>
+<body class="grid">
+
+  <a href="/" class="col-start-2 col-span-3 row-start-1 logo"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
+  <nav class="col-start-2 row-start-2 col-span-3" aria-role="Primary">
+  <ul role="list" class="primary">
+    <li><a href="/" aria-current="home">Fondation Meyer</a></li>
     <li>Actions
-      <ul>
-          <li><a href="/actions/le-conservatoire-de-paris/">Le Conservatoire de Paris</a></li>
-          <li><a href="/actions/ecoles-amies-des-musees/">Ecoles amies de musées</a></li>
+      <ul role="list" class="secondary">
+        
+          <li><a href="/actions/ecoles-amies-des-musees/" >Ecoles amies de musées</a></li>
+        
+          <li><a href="/actions/le-conservatoire-de-paris/" >Le Conservatoire de Paris</a></li>
+        
       </ul>
     </li>
-    <li>News
-      <ul>
-          <li><a href="/news/website-redesign/">New Website</a></li>
-      </ul>
-    </li>
+    
+    <li><a href="/news" >News</a></li>
  </ul>
 </nav>
 
-<main>
+
+  <header class="col-start-5 col-span-7 row-start-1 align-self-end">
+    <h1 class="font-size-600 font-uppercase clr-neutral-400">La Fondation</h1>
+  </header>
+
+  <main class="col-span-8 col-start-5 row-start-2">
+    
   <p>La Fondation Meyer pour le développement culturel et artistique a été reconnue d’utilité publique en 1995. Elle est née du désir de ses fondateurs, Philippe Meyer (1923 – 2009) et Vincent Meyer, de créer une entité philanthropique pérenne au sein de laquelle leur famille pourra soutenir les projets qui lui tiennent à cœur, quel que soit l’éclectisme de ses domaines d’intervention. Comme son nom l’indique, l’action principale de la Fondation s’articule autour de cette activité humaine qu’est la culture. Elle se situe à la croisée de deux grands chemins, l’un représentant un aspect collectif – le développement des connaissances humaines - l’autre un aspect plus individuel – l’expression artistique. De petite taille comparée aux grandes fondations familiales américaines, mais proche de ces dernières dans l’esprit qui l’anime, la Fondation Meyer s’efforce de distribuer ses dons à des projets relativement modestes mais de grande qualité, s’échelonnant de l’école primaire à la recherche post-doctorale pour ce qui concerne les projets éducatifs.</p>
 
-</main>
 
-<footer>
+  </main>
+
+  <footer class="col-start-2 col-span-3">
   <p>
     Reconnue dʼutilité publique par décret du 4 Janvier 1995
   </p>

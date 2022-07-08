@@ -3,7 +3,7 @@ module.exports = (config) => {
   config.addPassthroughCopy('./assets/js/')
 
   return {
-    markdownTemplateEngine: 'hbs',
+    markdownTemplateEngine: 'njk',
     dir: {
       includes: '../_includes/',
       data: '../_data',
