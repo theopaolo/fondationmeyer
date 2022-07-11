@@ -37,10 +37,67 @@ a
 
 main
   padding-inline-end: var(--font-size-400)
-  max-width: 75ch
+  max-width: 100%
+
+  p
+    max-width: 75ch
 
 nav,
 main
   >:first-child
     margin-block-start: var(--font-size-600)
 
+
+/* CUSTOM ELEMENTS */
+.row
+  display: grid
+  grid-template-columns: 22ch 10ch 1.25fr 0.5fr 0.5fr 1fr
+  gap: var(--font-size-200)
+  margin-block: var(--font-size-200)
+
+  &.heading
+    font-weight: 600
+    border-bottom: 1px solid var(--clr-neutral-400)
+
+
+.year-scroller
+  position: relative
+  overflow: hidden
+
+
+  font-size: var(--font-size-600)
+  color: var(--clr-neutral-400)
+
+  &::after
+    content: ''
+    display: block
+    position: absolute
+    top: 0
+    bottom: 0
+    right: 0
+    height: 100%
+    width: var(--font-size-900)
+    background-image: linear-gradient(90deg, rgba(255,255,255,0), var(--clr-neutral-100))
+    pointer-events: none
+
+  .year-list
+    overflow: auto
+    display: grid
+    grid-auto-flow: column
+    grid-auto-columns: 1fr
+    gap: var(--font-size-200)
+
+    scroll-behavior: smooth
+    scroll-snap-type: inline proximity
+
+    .year
+      display: block
+      padding-block: var(--font-size-200)
+      scroll-snap-align: none start 
+
+      &:last-of-type
+        margin-inline-end: 30vw
+
+      &[aria-current]
+        text-decoration: none
+        color: var(--clr-neutral-900)
