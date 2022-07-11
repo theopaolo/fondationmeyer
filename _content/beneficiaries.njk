@@ -1,0 +1,37 @@
+---
+layout: "page.njk"
+pagination:
+  data: beneficiaries
+  size: 1
+permalink: "beneficiaries/{{ pagination.items }}/"
+eleventyComputed:
+  title: Béneficiaires du {{ pagination.items }}
+---
+
+<div class="year-scroller">
+  <div class="year-list">
+  {% for y in beneficiaries[pagination.items].getYears() %}
+    <a class="year" href="?year={{y}}" @click="$store.year.select">{{ y }}</a>
+  {% endfor %}
+  </div>
+</div>
+
+<div class="row heading">
+  <div class="nom">Prénom <strong>NOM</strong></div>
+    <div class="discipline">Discipline</div>
+    <div class="etudes">Stage des études</div>
+    <div class="annee">Année</div>
+    <div class="aide">Aide</div>
+    <div class="description">Titre / Description</div>
+</div>
+{% for b in beneficiaries[pagination.items].all %}
+  <div class="row beneficiary">
+    <div class="nom">{{ b.prenom }} <strong>{{ b.nom }}</strong></div>
+    <div class="discipline">{{ b.discipline }}</div>
+    <div class="etudes">{{ b.etudes }}</div>
+    <div class="annee">{{ b.annee }}</div>
+    <div class="aide">{{ b.aide }}</div>
+    <div class="description">{{ b.description }}</div>
+  </div>
+{% endfor %}
+

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Fondation Meyer : {{ title }}</title>
+
+  <!-- stylesheet -->
+  <link rel="stylesheet" href="/assets/css/main.css">
+
+  <!-- javascript -->
+  <script src="/assets/js/client.js" type="module"></script>
+</head>
+<body class="grid">
+
+  <a href="/" class="col-start-2 col-span-3 row-start-1 logo"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
+  {% include 'partials/nav.njk' %}
+
+  <header class="col-start-5 col-span-7 row-start-1 align-self-end">
+    <h1 class="font-size-600 font-uppercase clr-neutral-400">{{ title }}</h1>
+  </header>
+
+  <main class="col-span-8 col-start-5 row-start-2">
+    {% block content %}{% endblock %}
+  </main>
+
+  {% include 'partials/footer.njk' %}
+</body>
+</html>
