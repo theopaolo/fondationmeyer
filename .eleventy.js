@@ -1,4 +1,6 @@
 module.exports = (config) => {
+  config.addWatchTarget("./assets/styles/")
+
   config.addPassthroughCopy('./_content/images/')
   config.addPassthroughCopy('./assets/js/')
 

@@ -11,7 +11,7 @@ eleventyComputed:
 <div class="year-scroller">
   <div class="year-list">
   {% for y in beneficiaries[pagination.items].getYears() %}
-    <a class="year" href="?year={{y}}" @click="$store.year.select">{{ y }}</a>
+    <a class="year" href="{{y}}" data-year={{y}} @click.prevent="$store.year.select">{{ y }}</a>
   {% endfor %}
   </div>
 </div>
@@ -24,6 +24,7 @@ eleventyComputed:
     <div class="aide">Aide</div>
     <div class="description">Titre / Description</div>
 </div>
+
 {% for b in beneficiaries[pagination.items].all %}
   <div class="row beneficiary">
     <div class="nom">{{ b.prenom }} <strong>{{ b.nom }}</strong></div>
