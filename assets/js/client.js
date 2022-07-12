@@ -1,7 +1,6 @@
 import Alpine from './alpine.js'
 
 document.addEventListener('alpine:init', () => {
-
   Alpine.store('year', {
     selected: undefined,
     
