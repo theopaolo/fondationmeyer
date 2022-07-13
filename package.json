@@ -27,5 +27,8 @@
     "postcss": "^8.4.14",
     "postcss-cli": "^9.1.0",
     "sass": "^1.52.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1"
   }
 }

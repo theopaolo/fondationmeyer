@@ -465,7 +465,7 @@ main > :first-child {
   pointer-events: none;
 }
 .year-scroller .year-list {
-  overflow: auto;
+  overflow-x: scroll;
   display: grid;
   grid-auto-flow: column;
   grid-auto-columns: 1fr;
@@ -481,7 +481,7 @@ main > :first-child {
 .year-scroller .year-list .year:last-of-type {
   margin-inline-end: 30vw;
 }
-.year-scroller .year-list .year[aria-current] {
+.year-scroller .year-list .year.selected {
   text-decoration: none;
   color: var(--clr-neutral-900);
 }

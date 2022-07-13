@@ -59,7 +59,7 @@ Le spectacle est repris au Théâtre de Paris-Villette en du 6 au 16 juin 2018, 
 
 Plus d’infos :
 
-[https://vimeo.com/270505779?login=true#_=_](https://vimeo.com/270505779?login=true#_=_)
+[https://vimeo.com/270505779?login=true#*=*](https://vimeo.com/270505779?login=true#_=_)
 
 2017
 
@@ -88,3 +88,4 @@ Association En Chœur et Maison d’arrêt de Fleury-Mérogis
 Née en 2017, l’association En Chœur permet aux personnes détenues d’avoir accès au monde de la musique classique. À partir de septembre 2018, grâce au soutien de la fondation Meyer, trois typologies d’actions se mettent en place à la Maison d’arrêt des femmes de Fleury-Mérogis : des ateliers de chants pour des groupes de personnes incarcérées ; des interventions d’instrumentistes de musique classique ; des concerts en détention.
 
 Le premier concert est donné en décembre 2018 accompagné par des musiciens de l’Orchestre philarmonique de Radio France, ouvrant la voie à de nombreuses autres représentations.
+

@@ -10,12 +10,20 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+      "no-var": "error",
       "semi": ["error", "never"],
-      "quotes": ["error", "single"]
+      "quotes": ["error", "single"],
+      "indent": ["error", 2],
+      "arrow-spacing": "error",
+      "array-bracket-spacing": ["error", "always"],
+      "array-bracket-newline": ["error", "consistent"],
+      "object-curly-spacing": ["error", "always"],
+      "object-curly-newline": ["error", { "consistent": true }],
+      "space-before-blocks": ["error", "always"]
     },
     "overrides": [
       {
-        "files":["./assets/**/*.js"],
+        "files": ["./assets/**/*.js"],
         "env": {
           "commonjs": false,
           "node": false

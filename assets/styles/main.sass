@@ -81,7 +81,7 @@ main
     pointer-events: none
 
   .year-list
-    overflow: auto
+    overflow-x: scroll
     display: grid
     grid-auto-flow: column
     grid-auto-columns: 1fr
@@ -98,6 +98,6 @@ main
       &:last-of-type
         margin-inline-end: 30vw
 
-      &[aria-current]
+      &.selected
         text-decoration: none
         color: var(--clr-neutral-900)

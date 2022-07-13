@@ -8,13 +8,17 @@ eleventyComputed:
   title: Béneficiaires du {{ pagination.items }}
 ---
 
+{# <button type="button" @click="$store.beneficiaries.deleteEntry(1)">delete BERMAN</button> #}
+
 <div class="year-scroller">
   <div class="year-list">
   {% for y in beneficiaries[pagination.items].getYears() %}
-    <a class="year" href="{{y}}" data-year={{y}} @click.prevent="$store.year.select">{{ y }}</a>
+    <a class="year" href="{{y}}" data-year="{{y}}" :class="{{y}} == $store.beneficiaries.selectedYear ? 'selected' : ''" @click.prevent="$store.beneficiaries.select($el, {{y}})">{{ y }}</a>
   {% endfor %}
   </div>
 </div>
+
+<input type="text" placeholder="search" @input="$store.beneficiaries.inputUpdate($el)">
 
 <div class="row heading">
   <div class="nom">Prénom <strong>NOM</strong></div>
@@ -25,13 +29,21 @@ eleventyComputed:
     <div class="description">Titre / Description</div>
 </div>
 
-{% for b in beneficiaries[pagination.items].all %}
+<div x-show="$store.beneficiaries.loading">
+  <p>Loading...</p>
+</div>
+
+<template x-for="b in $store.beneficiaries.list">
+
   <div class="row beneficiary">
-    <div class="nom">{{ b.prenom }} <strong>{{ b.nom }}</strong></div>
-    <div class="discipline">{{ b.discipline }}</div>
-    <div class="etudes">{{ b.etudes }}</div>
-    <div class="annee">{{ b.annee }}</div>
-    <div class="aide">{{ b.aide }}</div>
-    <div class="description">{{ b.description }}</div>
+    <div class="nom">
+      <span x-text="b.Prenom"></span>
+      <span x-text="b.Nom"></span>
+    </div>
+    <div class="discipline" x-text="b.Discipline"></div>
+    <div class="etudes" x-text="b.Etudes"></div>
+    <div class="annee" x-text="b.Annee"></div>
+    <div class="aide" x-text"b.Aide"></div>
+    <div class="description" x-text="b.Description"></div>
   </div>
-{% endfor %}
+</template>
