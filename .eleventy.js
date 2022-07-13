@@ -3,6 +3,7 @@ module.exports = (config) => {
 
   config.addPassthroughCopy('./_content/images/')
   config.addPassthroughCopy('./assets/js/')
+  config.addPassthroughCopy('./assets/db/')
 
   config.addCollection('actions', collection => {
     let ordered = []

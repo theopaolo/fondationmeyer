@@ -1,24 +1,19 @@
 ---
 layout: "page.njk"
-pagination:
-  data: beneficiaries
-  size: 1
-permalink: "beneficiaries/{{ pagination.items }}/"
-eleventyComputed:
-  title: Béneficiaires du {{ pagination.items }}
+permalink: "beneficiaries/conservatoire/"
 ---
 
 {# <button type="button" @click="$store.beneficiaries.deleteEntry(1)">delete BERMAN</button> #}
 
 <div class="year-scroller">
   <div class="year-list">
-  {% for y in beneficiaries[pagination.items].getYears() %}
-    <a class="year" href="{{y}}" data-year="{{y}}" :class="{{y}} == $store.beneficiaries.selectedYear ? 'selected' : ''" @click.prevent="$store.beneficiaries.select($el, {{y}})">{{ y }}</a>
-  {% endfor %}
+    <template x-for="y in $store.beneficiaries.years">
+      <a class="year" :href="y" :data-year="y" :class="y == $store.beneficiaries.selectedYear ? 'selected' : ''" @click.prevent="$store.beneficiaries.select(y, $el)" x-text="y"></a>
+    </template>
   </div>
 </div>
 
-<input type="text" placeholder="search" @input="$store.beneficiaries.inputUpdate($el)">
+<input type="text" placeholder="search" @input="$store.beneficiaries.input($el)">
 
 <div class="row heading">
   <div class="nom">Prénom <strong>NOM</strong></div>
@@ -34,16 +29,15 @@ eleventyComputed:
 </div>
 
 <template x-for="b in $store.beneficiaries.list">
-
   <div class="row beneficiary">
     <div class="nom">
-      <span x-text="b.Prenom"></span>
-      <span x-text="b.Nom"></span>
+      <span x-text="b.prenom"></span>
+      <span x-text="b.nom"></span>
     </div>
-    <div class="discipline" x-text="b.Discipline"></div>
-    <div class="etudes" x-text="b.Etudes"></div>
-    <div class="annee" x-text="b.Annee"></div>
-    <div class="aide" x-text"b.Aide"></div>
-    <div class="description" x-text="b.Description"></div>
+    <div class="discipline" x-text="b.discipline"></div>
+    <div class="etudes" x-text="b.etudes"></div>
+    <div class="annee" x-text="b.annee"></div>
+    <div class="aide" x-text="b.aide"></div>
+    <div class="description" x-text="b.description"></div>
   </div>
 </template>

@@ -1,81 +1,113 @@
-import Alpine from './alpine.js'
-import axios from 'https://cdn.skypack.dev/axios'
+import Alpine from 'https://unpkg.com/alpinejs@3.2.1/dist/module.esm.js'
+import Dexie from 'https://unpkg.com/dexie@3.2.0/dist/dexie.mjs'
 
+async function setupDB(db) {
+  try {
+    let req = await fetch('/assets/db/conservatoire.json')
+    let json = await req.json()
+
+    if (!json) {
+      throw new Error('No json loaded')
+    }
+
+    db.version(1).stores({
+      beneficiaries: `
+        nom,
+        prenom,
+        discipline,
+        annee,
+        aide,
+        description`,
+    })
+
+    await db.beneficiaries.bulkPut(json)
+
+    return { years: getYears(json) }
+  } catch (err) {
+    console.error(err)
+  }
+}
+
+function getYears(list) {
+  const years = list.map(y => y.annee).filter((elem, index, self) => {
+    return index == self.indexOf(elem)
+  })
+
+  return years
+}
 
 document.addEventListener('alpine:init', () => {
   Alpine.store('beneficiaries', {
-    init() {
-      this.getYear(1996)
-    },
-
+    db: new Dexie('BENE_DB'),
     list: [],
+    years: [],
     selectedYear: 1996,
-    prevYEar : 1996,
+    previousYear: 1996,
     loading: false,
-
+    async init() {
+      try {
+        this.loading = true
+        const { years } = await setupDB(this.db)
+        this.years = [ ...years ]
+        this.select(this.selectedYear)
+      } catch (err) {
+        console.error(err)
+      } finally {
+        this.loading = false
+      }
+    },
     async getYear(year) {
       try {
-        this.list = []
         this.loading = true
-        this.selectedYear = year
-        this.prevYear = year
 
-        const options = {
-          method: 'GET',
-          params: { limit: '25', offset: '0', where: `(Annee,eq,${year})` },
-          headers: {
-            // PLACE NOCODB TOKEN HERE
-            'xc-token': ''
-          }
-        }
+        const query = await this.db.beneficiaries.where('annee').equals(year).toArray()
 
-        const { data, status, statusText } = await axios('https://nk.suroh.tk/api/v1/db/data/v1/theo_db/Conservatoire', options)
-
-        if (status != 200) throw new Error('Error in retreiving data', statusText)
-
-        this.list = [ ...data.list ]
+        this.list = [ ...query ]
       } catch (err) {
-        console.error(err)
+        console.error(err) 
       } finally {
         this.loading = false
       }
     },
-
-    async getSearch(search) {
+    async getEntry(search) {
       try {
-        this.selectedYear = null
+        const regex = new RegExp(`${search}`, 'i')
 
-        const options = {
-          method: 'GET',
-          params: { limit: '25', offset: '0', where: `(Nom,like,${search})` },
-          headers: {
-            'xc-token': 'qE09LN0bHnE7hoQLoB30ffuUAtCf9dN_wEJX9YsG'
-          }
-        }
-
-        const { data, status, statusText } = await axios('https://nk.suroh.tk/api/v1/db/data/v1/theo_db/Conservatoire', options)
-
-        if (status != 200) throw new Error('Error in retreiving data', statusText)
-
-        this.list = [ ...data.list ]
+        const query = await this.db.beneficiaries
+          .filter((b) => {
+            return (
+              regex.test(b.nom) ||
+            regex.test(b.prenom) ||
+            regex.test(b.discipline) ||
+            regex.test(b.etudes) ||
+            regex.test(b.annee) ||
+            regex.test(b.aide) ||
+            regex.test(b.description)
+            )
+          })
+          .toArray()
+      
+        this.list = [ ...query ]
       } catch (err) {
         console.error(err)
-      } finally {
-        this.loading = false
       }
     },
-    inputUpdate(el) {
-      if (el.value.length > 1) {
-        this.getSearch(el.value)
-      } else if (el.value.length == 0) {
-        this.selectedYear = this.prevYear
-        this.getYear(this.selectedYear)
+    input(el) {
+      const value = el.value
+      if (value.length > 1) {
+        this.selectedYear = null
+        this.getEntry(value)
+      } else if (value.length === 0) {
+        this.select(this.previousYear)
       }
     },
-    select(el, year) {
-      el.scrollIntoView({ block: 'end', inline: 'start', behavior: 'smooth' })
-      console.log(year)
+    select(year, el) {
       this.getYear(year)
+      this.selectedYear = year
+      this.previousYear = year
+      if (el) {
+        el.scrollIntoView({ block: 'end', inline: 'start', behavior: 'smooth' })
+      }
     }
   })
 })
