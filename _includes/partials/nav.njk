@@ -3,7 +3,7 @@
     <li><a href="/" {% if page.url == '/' %}aria-current="home"{% endif %}>Fondation Meyer</a></li>
     <li>Actions
       <ul role="list" class="secondary">
-        {% for action in collections.action %}
+        {% for action in collections.actions %}
           <li><a href="{{ action.url }}" {% if page.url == action.url %}aria-current="{{ action.data.title }}"{% endif %}>{{ action.data.title }}</a></li>
         {% endfor %}
       </ul>

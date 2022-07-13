@@ -4,6 +4,26 @@ module.exports = (config) => {
   config.addPassthroughCopy('./_content/images/')
   config.addPassthroughCopy('./assets/js/')
 
+  config.addCollection('actions', collection => {
+    let ordered = []
+    let unordered = []
+    const pages = collection.getFilteredByGlob('**/actions/*.md')
+
+    for (let page of pages) {
+      if (page.data.order) {
+        if (ordered[page.data.order]) {
+          ordered.splice(page.data.order)
+        } else {
+          ordered[page.data.order] = page
+        }
+      } else {
+        unordered.push(page)
+      }
+    }
+
+    return ordered.concat(unordered)
+  })
+
   return {
     markdownTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',

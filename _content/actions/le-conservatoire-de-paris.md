@@ -1,5 +1,6 @@
 ---
 title: Le Conservatoire de Paris
+order: 1
 ---
 
 [Le Conservatoire](http://www.cnsmdp.fr/)
