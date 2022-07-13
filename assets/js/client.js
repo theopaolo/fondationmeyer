@@ -71,23 +71,41 @@ document.addEventListener('alpine:init', () => {
     },
     async getEntry(search) {
       try {
-        const regex = new RegExp(`${search}`, 'i')
+        const queries = search.split(' ').filter(q => q.length > 1)
+        let filtered = undefined
 
-        const query = await this.db.beneficiaries
-          .filter((b) => {
-            return (
-              regex.test(b.nom) ||
-            regex.test(b.prenom) ||
-            regex.test(b.discipline) ||
-            regex.test(b.etudes) ||
-            regex.test(b.annee) ||
-            regex.test(b.aide) ||
-            regex.test(b.description)
-            )
-          })
-          .toArray()
+        for (let query of queries) {
+          const regex = new RegExp(`${query}`, 'i')
+          if (filtered === undefined) {
+            filtered = await this.db.beneficiaries
+              .filter((b) => {
+                return (
+                  regex.test(b.nom) ||
+                regex.test(b.prenom) ||
+                regex.test(b.discipline) ||
+                regex.test(b.etudes) ||
+                regex.test(b.annee) ||
+                regex.test(b.aide) ||
+                regex.test(b.description)
+                )
+              })
+              .toArray()
+          } else {
+            filtered = filtered.filter((b) => {
+              return (
+                regex.test(b.nom) ||
+                regex.test(b.prenom) ||
+                regex.test(b.discipline) ||
+                regex.test(b.etudes) ||
+                regex.test(b.annee) ||
+                regex.test(b.aide) ||
+                regex.test(b.description)
+              )
+            })
+          }
+        }
       
-        this.list = [ ...query ]
+        this.list = [ ...filtered ]
       } catch (err) {
         console.error(err)
       }
