@@ -21,6 +21,7 @@ async function setupDB(db) {
     })
 
     await db.beneficiaries.bulkPut(json)
+    console.log('database initialised')
 
     return { years: getYears(json) }
   } catch (err) {
@@ -120,9 +121,10 @@ document.addEventListener('alpine:init', () => {
       }
     },
     select(year, el) {
-      this.getYear(year)
+      console.log(year)
       this.selectedYear = year
       this.previousYear = year
+      this.getYear(year)
       if (el) {
         el.scrollIntoView({ block: 'end', inline: 'start', behavior: 'smooth' })
       }
