@@ -12,7 +12,7 @@ module.exports = (config) => {
     for (let page of pages) {
       if (page.data.order) {
         if (ordered[page.data.order]) {
-          ordered.splice(page.data.order)
+          ordered.splice(page.data.order, 0, page)
         } else {
           ordered[page.data.order] = page
         }
