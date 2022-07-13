@@ -121,7 +121,6 @@ document.addEventListener('alpine:init', () => {
       }
     },
     select(year, el) {
-      console.log(year)
       this.selectedYear = year
       this.previousYear = year
       this.getYear(year)

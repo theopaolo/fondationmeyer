@@ -75,6 +75,10 @@
   <p>Loading...</p>
 </div>
 
+<div x-show="$store.beneficiaries.list.length <= 0">
+  <p>No entries matching search criteria</p>
+</div>
+
 <template x-for="b in $store.beneficiaries.list">
   <div class="row beneficiary">
     <div class="nom">
