@@ -388,6 +388,14 @@ blockquote {
   justify-items: stretch;
 }
 
+.loading {
+  position: absolute;
+}
+
+[x-cloak] {
+  display: none !important;
+}
+
 nav ul {
   display: flex;
   flex-direction: column;
