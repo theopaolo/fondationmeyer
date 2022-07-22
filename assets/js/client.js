@@ -44,13 +44,16 @@ document.addEventListener('alpine:init', () => {
     years: [],
     selectedYear: 1996,
     previousYear: 1996,
+    searching: false,
+    searchString: '',
     loading: false,
+
     async init() {
       try {
         this.loading = true
         const { years } = await setupDB(this.db)
         this.years = [ ...years ]
-        this.select(this.selectedYear)
+        this.selectYear(this.selectedYear)
       } catch (err) {
         console.error(err)
       } finally {
@@ -70,7 +73,7 @@ document.addEventListener('alpine:init', () => {
         this.loading = false
       }
     },
-    async getEntry(search) {
+    async searchBeneficiaries(search) {
       try {
         const queries = search.split(' ').filter(q => q.length > 1)
         let filtered = undefined
@@ -111,23 +114,31 @@ document.addEventListener('alpine:init', () => {
         console.error(err)
       }
     },
-    input(el) {
-      const value = el.value
-      if (value.length > 1) {
-        this.selectedYear = null
-        this.getEntry(value)
-      } else if (value.length === 0) {
-        this.select(this.previousYear)
+    toggleSearch() {
+      this.searching = !this.searching
+
+      if (!this.searching) {
+        this.searchString = ''
+        this.selectYear(this.previousYear)
       }
     },
-    select(year, el) {
+    searchUpdate() {
+      const value = this.searchString
+      if (value.length > 1) {
+        this.selectedYear = null
+        this.searchBeneficiaries(value)
+      } else if (value.length === 0) {
+        this.selectYear(this.previousYear)
+      }
+    },
+    selectYear(year, el) {
       this.selectedYear = year
       this.previousYear = year
       this.getYear(year)
       if (el) {
         el.scrollIntoView({ block: 'end', inline: 'start', behavior: 'smooth' })
       }
-    }
+    },
   })
 })
 
