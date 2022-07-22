@@ -105,8 +105,8 @@ document.addEventListener('alpine:init', () => {
             })
           }
         }
-      
-        this.list = [ ...filtered ]
+
+        this.list = [ ...sortYearAlpha(filtered) ]
       } catch (err) {
         console.error(err)
       }
@@ -133,3 +133,10 @@ document.addEventListener('alpine:init', () => {
 
 Alpine.start()
 
+function sortYearAlpha(array) {
+  const year = array.sort((a, b) => a.annee - b.annee)
+  const family = year.sort((a, b) => a.nom - b.nom)
+  const first = family.sort((a, b) => a.prenom - b.prenom)
+
+  return first
+}
