@@ -52,19 +52,25 @@
   <main class="col-span-8 col-start-5 row-start-2">
     
   
-<div class="year-scroller">
+<nav class="filters">
   <button x-data @click.prevent="$store.beneficiaries.toggleSearch()" class="search" :class="$store.beneficiaries.searching ? 'active' : ''">
     <svg>
       <use href="#search-icon"></use>
     </svg>
   </button>
-  <input type="text" placeholder="search" x-show="$store.beneficiaries.searching" @input="$store.beneficiaries.searchUpdate($el)" x-model="$store.beneficiaries.searchString">
-  <div class="year-list" x-cloak x-show="!$store.beneficiaries.searching" x-transition>
-    <template x-for="y in $store.beneficiaries.years">
-      <a class="year" :href="y" :data-year="y" :class="y == $store.beneficiaries.selectedYear ? 'selected' : ''" @click.prevent="$store.beneficiaries.selectYear(y, $el)" x-text="y"></a>
-    </template>
+  
+  <div class="filter-wrapper">
+    <input type="text" placeholder="search" x-show="$store.beneficiaries.searching" @input="$store.beneficiaries.searchUpdate($el)" x-model="$store.beneficiaries.searchString" x-transition>
+    
+    <div class="year-scroller" x-cloak x-show="!$store.beneficiaries.searching" x-transition>
+        <div class="year-list">
+          <template x-for="y in $store.beneficiaries.years">
+            <a class="year" :href="y" :data-year="y" :class="y == $store.beneficiaries.selectedYear ? 'selected' : ''" @click.prevent="$store.beneficiaries.selectYear(y, $el)" x-text="y"></a>
+          </template>
+        </div>
+    </div>
   </div>
-</div>
+</nav>
 
 <div class="row heading">
   <div class="nom">Prénom <strong>NOM</strong></div>

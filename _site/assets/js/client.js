@@ -62,15 +62,11 @@ document.addEventListener('alpine:init', () => {
     },
     async getYear(year) {
       try {
-        this.loading = true
-
         const query = await this.db.beneficiaries.where('annee').equals(year).toArray()
 
         this.list = [ ...query ]
       } catch (err) {
         console.error(err) 
-      } finally {
-        this.loading = false
       }
     },
     async searchBeneficiaries(search) {
