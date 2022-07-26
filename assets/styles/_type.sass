@@ -1,7 +1,27 @@
 @use 'sass:math'
 @use 'system'
 
-body 
+@font-face
+  font-family: 'Inter'
+  src: url('/fonts/Inter-Regular.woff2') format('woff2'),url('/fonts/Inter-Regular.woff') format('woff')
+  font-weight: 400
+  font-style: normal
+  font-display: swap
+
+@font-face
+  font-family: 'Inter'
+  src: url('/fonts/Inter-Medium.woff2') format('woff2'),url('/fonts/Inter-Medium.woff') format('woff')
+  font-weight: 500
+  font-display: swap
+
+@font-face
+  font-family: 'Knockout'
+  src: url('/fonts/knockout.woff2') format('woff2'),url('/fonts/knockout.woff') format('woff')
+  font-weight: 400
+  font-display: swap
+
+
+body
   font-family: var(--font-family-primary)
   font-size: var(--font-size-400)
 
@@ -16,7 +36,7 @@ blockquote
 @each $clr, $val in system.$clrs-neutral
   .clr-neutral-#{$clr}
     color: $val
-    
+
 @for $fs from 3 through 1
   .font-size-#{400 - $fs * 100}
     font-size: #{math.div(system.$font-size-base, math.pow(system.$font-scale, $fs))}
