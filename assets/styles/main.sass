@@ -54,7 +54,7 @@ p a
 a
   color: var(--clr-neutral-400)
   text-decoration: none
-  line-height: var(--font-size-500)
+  line-height: initial
 
   &:visited
     color: var(--clr-neutral-400)
@@ -69,10 +69,8 @@ a
 main
   max-width: 100%
 
-nav[aria-role="Primary"],
-main
-  >:first-child
-    margin-block-start: var(--font-size-600)
+nav[aria-role="Primary"]
+  margin-block-start: var(--font-size-600)
 
 .secondary-font
   font-family: var(--font-family-secondary)
@@ -209,3 +207,19 @@ input[type=text]
   &.selected
     text-decoration: none
     color: var(--clr-neutral-900)
+
+
+
+main
+  opacity: 0
+  animation-name: fade-in
+  animation-duration: 0.4s
+  animation-delay: 0.2s
+  animation-fill-mode: forwards
+
+
+@keyframes fade-in
+  from
+    opacity: 0
+  to
+    opacity: 1

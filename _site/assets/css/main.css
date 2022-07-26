@@ -155,26 +155,32 @@ blockquote {
 
 .font-size-400 {
   font-size: 16px;
+  line-height: 16px;
 }
 
 .font-size-500 {
   font-size: 21.328px;
+  line-height: 21.328px;
 }
 
 .font-size-600 {
   font-size: 28.430224px;
+  line-height: 28.430224px;
 }
 
 .font-size-700 {
   font-size: 37.897488592px;
+  line-height: 37.897488592px;
 }
 
 .font-size-800 {
   font-size: 50.5173522931px;
+  line-height: 50.5173522931px;
 }
 
 .font-size-900 {
   font-size: 67.3396306068px;
+  line-height: 67.3396306068px;
 }
 
 .font-uppercase {
@@ -454,7 +460,7 @@ p a {
 a {
   color: var(--clr-neutral-400);
   text-decoration: none;
-  line-height: var(--font-size-500);
+  line-height: initial;
 }
 a:visited {
   color: var(--clr-neutral-400);
@@ -472,8 +478,7 @@ main {
   max-width: 100%;
 }
 
-nav[aria-role=Primary] > :first-child,
-main > :first-child {
+nav[aria-role=Primary] {
   margin-block-start: var(--font-size-600);
 }
 
@@ -617,6 +622,23 @@ input[type=text]:hover {
 input[type=text].selected {
   text-decoration: none;
   color: var(--clr-neutral-900);
+}
+
+main {
+  opacity: 0;
+  animation-name: fade-in;
+  animation-duration: 0.4s;
+  animation-delay: 0.2s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 /*# sourceMappingURL=main.css.map */
