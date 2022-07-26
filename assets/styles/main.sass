@@ -6,6 +6,11 @@
 
 body
   padding: 0 var(--font-size-600)
+.loading
+  position: absolute
+
+[x-cloak]
+  display: none !important
 
 nav
   ul
@@ -75,6 +80,29 @@ h1
   font-family: var(--font-family-secondary)
 
 /* CUSTOM ELEMENTS */
+button
+  border: none
+  background-color: transparent
+  padding: 0
+  cursor: pointer
+  display: flex
+  align-items: center
+  justify-content: center
+
+  svg
+    display: block
+    line-height: 1
+    height: 1.5em
+
+  &.search
+    color: var(--clr-neutral-400)
+    height: 100%
+    transition: color ease 0.5s
+
+    &.active
+      color: var(--clr-neutral-900)
+
+
 .row
   display: grid
   grid-template-columns: 22ch 10ch 1.25fr 0.5fr 0.5fr 1fr
@@ -85,44 +113,65 @@ h1
     font-weight: 600
     border-bottom: 1px solid var(--clr-neutral-400)
 
+nav.filters
+  display: grid
+  grid-template-columns: 2em auto
+  gap: 0.25em
+  align-items: center
 
-.year-scroller
-  position: relative
-  overflow: hidden
+  .filter-wrapper
+    position: relative
+    height: 4em
+    width: 100%
 
+    &::after
+      content: ''
+      display: block
+      position: absolute
+      top: 0
+      bottom: 0
+      right: 0
+      height: 100%
+      width: var(--font-size-900)
+      background-image: linear-gradient(90deg, rgba(255,255,255,0), var(--clr-neutral-100))
+      pointer-events: none
 
-  font-size: var(--font-size-600)
-  color: var(--clr-neutral-400)
+    input
+      position: absolute
+      width: 100%
+      height: 100%
+      padding-inline: var(--font-size-200)
+      font-size: var(--font-size-600)
 
-  &::after
-    content: ''
-    display: block
+  .year-scroller
     position: absolute
-    top: 0
-    bottom: 0
-    right: 0
-    height: 100%
-    width: var(--font-size-900)
-    background-image: linear-gradient(90deg, rgba(255,255,255,0), var(--clr-neutral-100))
-    pointer-events: none
+    overflow: hidden
+    margin-block-end: var(--font-size-400)
+    width: 100%
 
-  .year-list
+    font-size: var(--font-size-600)
+    color: var(--clr-neutral-400)
+
     overflow-x: scroll
-    display: grid
-    grid-auto-flow: column
-    grid-auto-columns: 1fr
-    gap: var(--font-size-200)
+    scrollbar-color: var(--clr-neutral-400) transparent
+    scrollbar-width: thin
 
     scroll-behavior: smooth
     scroll-snap-type: inline proximity
 
-    .year
-      display: block
-      padding-block: var(--font-size-200)
-      scroll-snap-align: none start
+    .year-list
+      display: grid
+      grid-auto-flow: column
+      grid-auto-columns: 1fr
+      gap: var(--font-size-200)
 
-      &:last-of-type
-        margin-inline-end: 30vw
+      .year
+        display: block
+        padding-block: var(--font-size-200)
+        scroll-snap-align: none start
+
+        &:last-of-type
+          margin-inline-end: 30vw
 
       &.selected
         text-decoration: none

@@ -399,6 +399,14 @@ body {
   padding: 0 var(--font-size-600);
 }
 
+.loading {
+  position: absolute;
+}
+
+[x-cloak] {
+  display: none !important;
+}
+
 nav ul {
   display: flex;
   flex-direction: column;
@@ -478,6 +486,29 @@ h1 {
 }
 
 /* CUSTOM ELEMENTS */
+button {
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button svg {
+  display: block;
+  line-height: 1;
+  height: 1.5em;
+}
+button.search {
+  color: var(--clr-neutral-400);
+  height: 100%;
+  transition: color ease 0.5s;
+}
+button.search.active {
+  color: var(--clr-neutral-900);
+}
+
 .row {
   display: grid;
   grid-template-columns: 22ch 10ch 1.25fr 0.5fr 0.5fr 1fr;
@@ -489,13 +520,18 @@ h1 {
   border-bottom: 1px solid var(--clr-neutral-400);
 }
 
-.year-scroller {
-  position: relative;
-  overflow: hidden;
-  font-size: var(--font-size-600);
-  color: var(--clr-neutral-400);
+nav.filters {
+  display: grid;
+  grid-template-columns: 2em auto;
+  gap: 0.25em;
+  align-items: center;
 }
-.year-scroller::after {
+nav.filters .filter-wrapper {
+  position: relative;
+  height: 4em;
+  width: 100%;
+}
+nav.filters .filter-wrapper::after {
   content: "";
   display: block;
   position: absolute;
@@ -507,24 +543,41 @@ h1 {
   background-image: linear-gradient(90deg, rgba(255, 255, 255, 0), var(--clr-neutral-100));
   pointer-events: none;
 }
-.year-scroller .year-list {
+nav.filters .filter-wrapper input {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  padding-inline: var(--font-size-200);
+  font-size: var(--font-size-600);
+}
+nav.filters .year-scroller {
+  position: absolute;
+  overflow: hidden;
+  margin-block-end: var(--font-size-400);
+  width: 100%;
+  font-size: var(--font-size-600);
+  color: var(--clr-neutral-400);
   overflow-x: scroll;
+  scrollbar-color: var(--clr-neutral-400) transparent;
+  scrollbar-width: thin;
+  scroll-behavior: smooth;
+  scroll-snap-type: inline proximity;
+}
+nav.filters .year-scroller .year-list {
   display: grid;
   grid-auto-flow: column;
   grid-auto-columns: 1fr;
   gap: var(--font-size-200);
-  scroll-behavior: smooth;
-  scroll-snap-type: inline proximity;
 }
-.year-scroller .year-list .year {
+nav.filters .year-scroller .year-list .year {
   display: block;
   padding-block: var(--font-size-200);
   scroll-snap-align: none start;
 }
-.year-scroller .year-list .year:last-of-type {
+nav.filters .year-scroller .year-list .year:last-of-type {
   margin-inline-end: 30vw;
 }
-.year-scroller .year-list .year.selected {
+nav.filters .year-scroller .year-list.selected {
   text-decoration: none;
   color: var(--clr-neutral-900);
 }
