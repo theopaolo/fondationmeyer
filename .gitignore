@@ -138,3 +138,7 @@ dist
 
 # SvelteKit build / generate output
 .svelte-kit
+
+# Generated Site directory
+_site
+_site/*

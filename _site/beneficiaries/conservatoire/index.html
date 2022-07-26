@@ -65,18 +65,9 @@
     <h1 class="font-size-900 font-uppercase clr-neutral-900"></h1>
   </header>
 
-  <main class="col-span-8 col-start-4 row-start-2">
+  <main class="col-span-8 col-span-6 col-start-4 row-start-2">
     
   
-
-<header class="col-start-4 col-span-7 row-start-1 align-self-end">
-    <h2 class="font-size-900 font-uppercase clr-neutral-900"></h2>
-  </header>
-<div class="year-scroller">
-  <div class="year-list">
-    <template x-for="y in $store.beneficiaries.years">
-      <a class="year" :href="y" :data-year="y" :class="y == $store.beneficiaries.selectedYear ? 'selected' : ''" @click.prevent="$store.beneficiaries.select(y, $el)" x-text="y"></a>
-    </template>
 <nav class="filters">
   <button x-data @click.prevent="$store.beneficiaries.toggleSearch()" class="search" :class="$store.beneficiaries.searching ? 'active' : ''">
     <svg>
