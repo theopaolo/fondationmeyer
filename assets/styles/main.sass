@@ -44,7 +44,8 @@ ul.secondary li.active
     border-bottom: solid 2px var(--clr-neutral-900)
 
 
-
+p a
+  display: block
 a
   color: var(--clr-neutral-400)
   text-decoration: none
@@ -126,3 +127,28 @@ h1
       &.selected
         text-decoration: none
         color: var(--clr-neutral-900)
+
+input[type=text]
+  border: unset
+  border-bottom: 1px solid var(--clr-neutral-400)
+  width: 100%
+  padding: var(--font-size-200) 0
+  margin: var(--font-size-400) 0
+  font-size: var(--font-size-400)
+  color: var(--clr-neutral-400)
+  background-color: var(--clr-neutral-100)
+  transition: all 250ms ease-in-out
+  &:focus
+    border-color: var(--clr-neutral-900)
+    outline: none
+    box-shadow: 0 2px 0 0 var(--clr-neutral-900)
+    background-color: var(--clr-neutral-100)
+    color: var(--clr-neutral-900)
+    transition: all 250ms ease-in-out
+  &:hover
+    border-color: var(--clr-neutral-900)
+    outline: none
+    box-shadow: 0 2px 0 0 var(--clr-neutral-900)
+    background-color: var(--clr-neutral-100)
+    color: var(--clr-neutral-900)
+    transition: all 250ms ease-in-out

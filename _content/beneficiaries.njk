@@ -1,8 +1,13 @@
 ---
 layout: "page.njk"
 permalink: "beneficiaries/conservatoire/"
+"colspan": "col-span-8"
 ---
 
+
+<header class="col-start-4 col-span-7 row-start-1 align-self-end">
+    <h2 class="font-size-900 font-uppercase clr-neutral-900">{{ title }}</h2>
+  </header>
 <div class="year-scroller">
   <div class="year-list">
     <template x-for="y in $store.beneficiaries.years">
