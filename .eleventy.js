@@ -2,8 +2,7 @@ module.exports = (config) => {
   config.addWatchTarget("./assets/styles/")
 
   config.addPassthroughCopy('./_content/images/')
-  config.addPassthroughCopy('./assets/js/')
-  config.addPassthroughCopy('./assets/db/')
+  config.addPassthroughCopy('./assets/**/*')
 
   config.addCollection('actions', collection => {
     let ordered = []

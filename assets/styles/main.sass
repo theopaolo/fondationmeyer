@@ -48,9 +48,6 @@ ul.secondary li.active
     transform: scaleX(1)
     border-bottom: solid 2px var(--clr-neutral-900)
 
-
-p a
-  display: block
 a
   color: var(--clr-neutral-400)
   text-decoration: none
@@ -103,7 +100,7 @@ button
 
 .row
   display: grid
-  grid-template-columns: 22ch 10ch 1.25fr 0.5fr 0.5fr 1fr
+  grid-template-columns: 1.3fr 0.8fr 1.25fr 0.5fr 0.5fr 1fr
   gap: var(--font-size-200)
   margin-block: var(--font-size-200)
 
@@ -118,6 +115,8 @@ nav.filters
   align-items: center
 
   .filter-wrapper
+    display: flex
+    align-items: center
     position: relative
     height: 4em
     width: 100%
@@ -142,10 +141,12 @@ nav.filters
       font-size: var(--font-size-600)
 
   .year-scroller
+    display: flex
+    align-items: center
     position: absolute
     overflow: hidden
-    margin-block-end: var(--font-size-400)
     width: 100%
+    height: 100%
 
     font-size: var(--font-size-600)
     color: var(--clr-neutral-400)
@@ -157,10 +158,6 @@ nav.filters
     scroll-behavior: smooth
     scroll-snap-type: inline proximity
 
-    .year
-      display: block
-      padding-block: var(--font-size-200)
-      scroll-snap-align: none start
     .year-list
       display: grid
       grid-auto-flow: column
@@ -175,9 +172,9 @@ nav.filters
         &:last-of-type
           margin-inline-end: 30vw
 
-      &.selected
-        text-decoration: none
-        color: var(--clr-neutral-900)
+        &.selected
+          text-decoration: none
+          color: var(--clr-neutral-900)
 
 input[type=text]
   border: unset

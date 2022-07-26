@@ -1,33 +1,6 @@
 import Alpine from 'https://unpkg.com/alpinejs@3.2.1/dist/module.esm.js'
-import Dexie from 'https://unpkg.com/dexie@3.2.0/dist/dexie.mjs'
+import Dexie from './dexie.mjs'
 
-async function setupDB(db) {
-  try {
-    let req = await fetch('/assets/db/conservatoire.json')
-    let json = await req.json()
-
-    if (!json) {
-      throw new Error('No json loaded')
-    }
-
-    db.version(1).stores({
-      beneficiaries: `
-        nom,
-        prenom,
-        discipline,
-        annee,
-        aide,
-        description`,
-    })
-
-    await db.beneficiaries.bulkPut(json)
-    console.log('database initialised')
-
-    return { years: getYears(json) }
-  } catch (err) {
-    console.error(err)
-  }
-}
 
 function getYears(list) {
   const years = list.map(y => y.annee).filter((elem, index, self) => {
@@ -51,13 +24,40 @@ document.addEventListener('alpine:init', () => {
     async init() {
       try {
         this.loading = true
-        const { years } = await setupDB(this.db)
+        const { years } = await this.setupDB(this.db)
         this.years = [ ...years ]
         this.selectYear(this.selectedYear)
       } catch (err) {
         console.error(err)
       } finally {
         this.loading = false
+      }
+    },
+    async setupDB(db) {
+      try {
+        let req = await fetch('/assets/db/conservatoire.json')
+        let json = await req.json()
+
+        if (!json) {
+          throw new Error('No json loaded')
+        }
+
+        db.version(1).stores({
+          beneficiaries: `
+          nom,
+          prenom,
+          discipline,
+          annee,
+          aide,
+          description`,
+        })
+
+        await db.beneficiaries.bulkPut(json)
+        console.log('database initialised')
+
+        return { years: getYears(json) }
+      } catch (err) {
+        console.error(err)
       }
     },
     async getYear(year) {

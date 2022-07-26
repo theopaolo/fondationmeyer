@@ -67,7 +67,8 @@
 <nav class="filters">
   <button x-data @click.prevent="$store.beneficiaries.toggleSearch()" class="search" :class="$store.beneficiaries.searching ? 'active' : ''">
     <svg>
-      <use href="#search-icon"></use>
+      <use x-show="!$store.beneficiaries.searching" href="#search-icon"></use>
+      <use x-show="$store.beneficiaries.searching" href="#close-icon"></use>
     </svg>
   </button>
 
@@ -116,8 +117,10 @@
     </div>
   </template>
 </div>
+
 <svg>
   <symbol id="search-icon" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></symbol>
+  <symbol id="close-icon"  viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></symbol>
 </svg>
 
 

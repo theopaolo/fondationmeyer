@@ -15,6 +15,6 @@ Enjeu de premier ordre dans la vie du CNSMD, le partenariat Fondation Meyer a pe
 >
 > – Vincent Meyer, président de la Fondation  Meyer, Janvier 2012
 
-[Cliquez ici pour plus d'infos](http://www.cnsmdp.fr/conservatoire/mecenes/ils_nous_soutiennent.htm)
+[Cliquez ici pour plus d'infos](http://www.cnsmdp.fr/conservatoire/mecenes/ils_nous_soutiennent.htm)<br>
 [Liste bénéficiaires](/beneficiaries/conservatoire/)
 
