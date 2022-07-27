@@ -16,8 +16,9 @@
     <a href="/" class="col-start-1 col-span-3 row-start-1 logo"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
     {% include 'partials/nav.njk' %}
 
+    <h1 class="{{colspan}} col-span-6 col-start-4 row-start-1 font-size-900 font-uppercase clr-neutral-900 align-self-end">{{ title }}</h1>
+
     <main class="{{colspan}} col-span-6 col-start-4 row-start-2">
-      <h1 class="font-size-900 font-uppercase clr-neutral-900">{{ title }}</h1>
       {% block content %}{% endblock %}
     </main>
 
