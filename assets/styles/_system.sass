@@ -6,6 +6,7 @@ $clrs-neutral: ( "100": #FFFFFF, "200": #DADADA, "400": #808080, "900": #000000 
 
 /* Type Styles */
 $font-family-primary: 'Inter', sans-serif
+$font-family-secondary: 'Knockout', sans-serif
 
 $font-size-base: 16px
 $font-scale: 1.333
@@ -16,10 +17,10 @@ $grid-cols-count: 12
 $grid-gap: var(--font-size-600)
 
 :root
-  --font-family-secondary: 'Knockout', sans-serif
   @each $clr, $val in $clrs-neutral
     --clr-neutral-#{$clr}: #{$val}
   --font-family-primary: #{$font-family-primary}
+  --font-family-secondary: #{$font-family-secondary}
   --font-scale: #{$font-scale}
   --paragraph-spacing: calc(1em * var(--font-scale))
 

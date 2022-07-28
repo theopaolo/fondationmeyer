@@ -24,7 +24,7 @@ nav
     text-transform: uppercase
 
   ul.secondary
-    margin-block-start: var(--font-size-400)
+    // margin-block-start: var(--font-size-400)
     padding-inline-start: var(--font-size-400)
     line-height: var(--font-size-200)
 
@@ -44,11 +44,11 @@ nav
         &::after
           transform: scaleX(1)
 
-ul.secondary li.active
-  color: var(--clr-neutral-900)
-  &::after
-    transform: scaleX(1)
-    border-bottom: solid 2px var(--clr-neutral-900)
+      &.active
+        color: var(--clr-neutral-900)
+        &::after
+          transform: scaleX(1)
+          border-bottom: solid 2px var(--clr-neutral-900)
 
 a
   color: var(--clr-neutral-400)
