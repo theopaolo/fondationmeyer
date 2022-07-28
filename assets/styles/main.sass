@@ -5,7 +5,9 @@
 @use 'layout'
 
 body
+  grid-template-rows: min-content 1fr min-content
   padding: 0 var(--font-size-600)
+
 .loading
   position: absolute
 
@@ -61,14 +63,23 @@ a
 
 .logo
   margin-block-start: var(--font-size-600)
+  margin-block-end: var(--font-size-100)
 
 main
   max-width: 100%
-  margin-block-start: var(--font-size-900)
+  margin-block-start: var(--font-size-700)
+  opacity: 0
+  animation-name: fade-in
+  animation-duration: 0.4s
+  animation-delay: 0.2s
+  animation-fill-mode: forwards
+
+h1.page-title
+  line-height: 0.8
 
 
 nav[aria-role="Primary"]
-  margin-block-start: var(--font-size-900)
+  margin-block-start: var(--font-size-700)
 
 .secondary-font
   font-family: var(--font-family-secondary)
@@ -161,8 +172,6 @@ nav.filters
     scroll-snap-type: inline proximity
 
     .year-list
-      display: grid
-      grid-auto-flow: column
       grid-auto-columns: 1fr
       gap: var(--font-size-200)
 
@@ -205,14 +214,8 @@ input[type=text]
     text-decoration: none
     color: var(--clr-neutral-900)
 
-
-
-main
-  opacity: 0
-  animation-name: fade-in
-  animation-duration: 0.4s
-  animation-delay: 0.2s
-  animation-fill-mode: forwards
+footer
+  margin-block: var(--font-size-400)
 
 
 @keyframes fade-in

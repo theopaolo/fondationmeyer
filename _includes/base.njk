@@ -17,7 +17,7 @@
 
     {% include 'partials/nav.njk' %}
 
-    <h1 class="{{colspan}} col-span-6 col-start-4 row-start-1 font-size-900 font-uppercase clr-neutral-900 align-self-end">{{ title }}</h1>
+    <h1 class="page-title | {{colspan}} col-span-6 col-start-4 row-start-1 font-size-900 font-uppercase clr-neutral-900 align-self-end">{{ title }}</h1>
 
     <main class="{{colspan}} col-span-6 col-start-4 row-start-2">
       {% block content %}{% endblock %}
