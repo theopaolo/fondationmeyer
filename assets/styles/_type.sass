@@ -44,6 +44,7 @@ blockquote
 @for $fs from 0 through 5
   .font-size-#{$fs * 100 + 400}
     font-size: #{system.$font-size-base * math.pow(system.$font-scale, $fs)}
+    line-height: #{system.$font-size-base * math.pow(system.$font-scale, $fs)}
 
 .font-uppercase
   text-transform: uppercase
