@@ -3,13 +3,10 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Fondation Meyer : </title>
+  <title>Fondation Meyer : beneficiaries</title>
 
   <!-- stylesheet -->
   <link rel="stylesheet" href="/assets/css/main.css">
-
-  <!-- javascript -->
-  <script src="/assets/js/client.js" type="module"></script>
 </head>
 
 <body class="grid" x-data={}>
@@ -61,7 +58,7 @@
 </nav>
 
 
-    <h1 class="page-title | col-span-8 col-span-6 col-start-4 row-start-1 font-size-900 font-uppercase clr-neutral-900 align-self-end"></h1>
+    
 
     <main class="col-span-8 col-span-6 col-start-4 row-start-2">
       
@@ -75,7 +72,7 @@
   </button>
 
   <div class="filter-wrapper">
-    <input type="text" placeholder="search" x-show="$store.beneficiaries.searching" @input="$store.beneficiaries.searchUpdate($el)" x-model="$store.beneficiaries.searchString" x-transition>
+    <input id="search" type="text" placeholder="search" x-show="$store.beneficiaries.searching" @input="$store.beneficiaries.searchUpdate($el)" x-model="$store.beneficiaries.searchString" x-transition>
 
     <div class="year-scroller" x-cloak x-show="!$store.beneficiaries.searching" x-transition>
         <div class="year-list">
@@ -124,6 +121,8 @@
   <symbol id="search-icon" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></symbol>
   <symbol id="close-icon"  viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></symbol>
 </svg>
+
+<script src="/assets/js/client.js" type="module"></script>
 
 
     </main>
