@@ -28,6 +28,7 @@ module.exports = (config) => {
     markdownTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
+    pathPrefix: "/fondationmeyer.test/",
     dir: {
       includes: '../_includes/',
       data: '../_data',
