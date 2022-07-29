@@ -1,5 +1,5 @@
 ---
-title: L'Institute de Physique Théorique Philippe Meyer
+title: Institut de Physique Théorique Philippe Meyer
 order: 2
 ---
 

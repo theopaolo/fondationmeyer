@@ -1,5 +1,5 @@
 ---
-title: Le Prix Jean-Nicod
+title: Prix Jean-Nicod
 order: 3
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: L'École du Louvre
+title: École du Louvre
 order: 4
 ---
 
