@@ -7,9 +7,6 @@
 
   <!-- stylesheet -->
   <link rel="stylesheet" href="/assets/css/main.css">
-
-  <!-- javascript -->
-  <script src="/assets/js/client.js" type="module"></script>
 </head>
 
 <body class="grid" x-data={}>
@@ -17,7 +14,9 @@
 
     {% include 'partials/nav.njk' %}
 
+    {% if title != 'beneficiaries' %}
     <h1 class="page-title | {{colspan}} col-span-6 col-start-4 row-start-1 font-size-900 font-uppercase clr-neutral-900 align-self-end">{{ title }}</h1>
+    {% endif %}
 
     <main class="{{colspan}} col-span-6 col-start-4 row-start-2">
       {% block content %}{% endblock %}

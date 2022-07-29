@@ -1,7 +1,6 @@
 import Alpine from 'https://unpkg.com/alpinejs@3.2.1/dist/module.esm.js'
 import Dexie from './dexie.mjs'
 
-
 function getYears(list) {
   const years = list.map(y => y.annee).filter((elem, index, self) => {
     return index == self.indexOf(elem)
