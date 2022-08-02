@@ -1,4 +1,20 @@
+const markdownIt = require("markdown-it");
+const markdownItAttrs = require("markdown-it-attrs");
+
 module.exports = (config) => {
+
+  const mdOptions = {
+    html: true,
+    breaks: true,
+    linkify: true,
+  };
+
+  const markdownLib = markdownIt(mdOptions)
+    .use(markdownItAttrs)
+    .disable("code");
+
+  config.setLibrary("md", markdownLib);
+
   config.addWatchTarget("./assets/styles/")
 
   config.addPassthroughCopy('./_content/images/')
@@ -28,7 +44,7 @@ module.exports = (config) => {
     markdownTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
-    pathPrefix: "/fondationmeyer.test/",
+    // pathPrefix: "/fondationmeyer.test/",
     dir: {
       includes: '../_includes/',
       data: '../_data',
