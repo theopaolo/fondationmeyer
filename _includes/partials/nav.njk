@@ -11,6 +11,6 @@
       </ul>
     </li>
     {% set regExp = r/^\/news.*/mi %}
-    {# <li><a href="/news" {% if regExp.test(page.url) %}aria-current="news"{% endif %}>News</a></li> #}
+    <li><a href="/actualites" {% if regExp.test(page.url) %}aria-current="news"{% endif %}><span class="font-family-secondary font-size-700">Actualités</span></a></li>
  </ul>
 </nav>

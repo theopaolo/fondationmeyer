@@ -1,4 +1,4 @@
 ---
-title: news
+title: Actualites
 layout: 'news_list.njk'
 ---

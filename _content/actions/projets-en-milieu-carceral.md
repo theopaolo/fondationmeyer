@@ -7,11 +7,11 @@ Dans le prolongement de ses actions, la Fondation Meyer soutien depuis 2017 des 
 
 Ces ateliers d’écriture, de musique et de production, les temps de rencontres et les représentations publiques sont menés avec des artistes professionnels issus de champs disciplinaires tels que le spectacle vivant, la musique, les arts visuels, la danse ou la littérature. Ils sont réalisés en accord avec les missions d'insertion et de prévention de la récidive de l'administration pénitentiaire du ministère de la Justice.
 
-Ces expériences collectives menées régulièrement avec la maison d’arrêt de Fleury-Mérogis, les Centres pénitentiaires de Nanterre et de Meaux-Chauconin ont été suivies par Emmanuel Courcol et l’ont inspiré pour son film *Un Triomphe,* sorti en salles en 2021. Parmi les participants aux différents programmes, trois détenus sont devenus comédiens professionnels à leur sortie de prison et ont intégré une compagnie de théâtre.
+Ces expériences collectives menées régulièrement avec la maison d’arrêt de Fleury-Mérogis, les Centres pénitentiaires de Nanterre et de Meaux-Chauconin ont été suivies par Emmanuel Courcol et l’ont inspiré pour son film *Un Triomphe*, sorti en salles en 2021. Parmi les participants aux différents programmes, trois détenus sont devenus comédiens professionnels à leur sortie de prison et ont intégré une compagnie de théâtre.
 
-2019-2020
+## 2019-2020
 
-*Watch*, spectacle musical, mise en scène Olivier Fredj
+### *Watch*, spectacle musical, mise en scène Olivier Fredj
 
 Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin
 
@@ -23,9 +23,11 @@ Les dix détenus participant au projet sont à la fois les interprètes et les a
 
 Représentation le 25 septembre 2020, Maison de la culture de Seine-Saint-Denis, Bobigny (MC 93)
 
-2018-2019
+---
 
-*Douze cordes*, opéra hip-hop, mise en scène Hervé Sika
+## 2018-2019
+
+### *Douze cordes*, opéra hip-hop, mise en scène Hervé Sika
 
 Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin
 
@@ -33,9 +35,11 @@ Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin
 
 Représentations le 3 mai 2019, Maison de la culture de Seine-Saint-Denis, Bobigny (MC 93) et le 6 mai 2019 au Centre pénitentiaire de Meaux-Chauconin
 
-2017-2018
+---
 
-*Les Flibustiers du Qlassik,* spectacle musical, direction artistique Ménélik
+## 2017-2018
+
+### *Les Flibustiers du Qlassik,* spectacle musical, direction artistique Ménélik
 
 Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin
 
@@ -43,11 +47,13 @@ Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin
 
 Représentations le 27 janvier 2018 au Théâtre Paris-Villette à l’occasion du Festival Vis-à-Vis et le 10 novembre 2018, Le Centquatre, Paris
 
-Plus d’infos [https://www.youtube.com/watch?v=1KzP0Dc3YOY&feature=emb_imp_woyt](https://www.youtube.com/watch?v=1KzP0Dc3YOY&feature=emb_imp_woyt)
+Plus d’infos [](https://www.youtube.com/watch?v=1KzP0Dc3YOY&feature=emb_imp_woyt)
 
-2016-2017
+---
 
-*Iliade*, série théâtrale, mise en scène par Luca Giacomoni
+## 2016-2017
+
+### *Iliade*, série théâtrale, mise en scène par Luca Giacomoni
 
 Compagnie Trama et Centre pénitentiaire de Meaux-Chauconin
 
@@ -57,21 +63,19 @@ Représentations en janvier 2017 au Théâtre Paris-Villette à l’occasion du 
 
 Le spectacle est repris au Théâtre de Paris-Villette en du 6 au 16 juin 2018, et au Théâtre Monfort en août 2018 dans le cadre du Festival Paris l’été.
 
-Plus d’infos :
+Plus d’infos [](https://vimeo.com/270505779?login=true#_=_)
 
-[https://vimeo.com/270505779?login=true#*=*](https://vimeo.com/270505779?login=true#_=_)
+---
 
-2017
+## 2017
 
-*Comment réhabiter le monde ?*, ateliers de création dramatique
+### *Comment réhabiter le monde ?*, ateliers de création dramatique
 
 Association Miss Griff et Centre pénitentiaire de Meaux-Chauconin
 
 Consacrée à la création artistique et culturelle en vue de la transformation sociale, l’association Miss Griff mène depuis 1991 une recherche en création dramatique auprès des personnes les plus écartées de l’échange social et culturel – de par la précarité, le handicap, l’exclusion, l’exil, l’incarcération, la discrimination. À partir de la question « comment réhabiter le monde ? », les quinze participants aux ateliers de création dramatique ont été invités pendant quatre mois à s’engager dans un processus de réflexion et de création personnelles via des œuvres expérientielles, progressives et pluridisciplinaires.
 
-2017
-
-*Fahrenheit 451,* spectacle de marionnettes, mise en scène Arnaud Préchac
+### *Fahrenheit 451,* spectacle de marionnettes, mise en scène Arnaud Préchac
 
 Compagnie Zaï, studio Bretzel-Lab et Maison d’arrêt des Hauts-de-Seine
 
@@ -79,9 +83,10 @@ La création proposée à dix détenus avec le projet *Fahrenheit 451* repose su
 
 Représentations le 27 janvier 2018 au Théâtre Paris-Villette à l’occasion du Festival Vis-à-Vis.
 
-2018-2021
+---
+## 2018-2021
 
-Ateliers chorales et concerts
+### Ateliers chorales et concerts
 
 Association En Chœur et Maison d’arrêt de Fleury-Mérogis
 

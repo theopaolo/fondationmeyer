@@ -22,6 +22,18 @@
       {% block content %}{% endblock %}
     </main>
 
+    {% if links %}
+      <aside class="col-span-2 col-start-11 row-start-2">
+        <ul class="no-bullets">
+          {% for link in links %}
+            <li class="font-color-primary">
+              <a href="{{link.url}}"> {{ link.name }} </a>
+            </li>
+          {% endfor %}
+        </ul>
+      </aside>
+    {% endif %}
+
   {% include 'partials/footer.njk' %}
 </body>
 

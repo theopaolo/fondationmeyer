@@ -8,7 +8,7 @@ For future 11ty stuff : [bundling js with esbuild](https://blog.r0b.io/post/bund
 
 ## Dev Notes
 
-You will need to install the dependencies first : 
+You will need to install the dependencies first :
 
 ```sh
 npm i
@@ -21,3 +21,20 @@ npm run start
 ```
 
 It will be available at [http:///localhost:8080/](http://localhost:8080/) by default.
+
+
+## TODO
+[ ] Title to col-span-8
+[ ] Name of beneficiaire to Liste des boursier
+[ ] Rename nav as in figma
+[ ] Shorter Intro as in figma
+[ ] Links in aside
+[ ] Font flashing when first load
+[ ] Put link and peoples name (p. Prix Jean Nicod)
+[ ] Every external link becomes extranl link arrow icon
+[ ] Uppercase for Prix Philip Meyer in text
+---
+### Do a some design test :
+  - Prix 2020 : Nom Prénom
+  - name and years (p. Bonnard musée Bonnard)
+  - Projets milieu carceral, aide au projet
