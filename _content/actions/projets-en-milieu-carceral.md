@@ -67,16 +67,14 @@ Plus d’infos [](https://vimeo.com/270505779?login=true#_=_)
 
 ---
 
-## 2017
-
-### *Comment réhabiter le monde ?*, ateliers de création dramatique
-
+## 2017 - Comment réhabiter le monde ?
+### Ateliers de création dramatique
 Association Miss Griff et Centre pénitentiaire de Meaux-Chauconin
 
 Consacrée à la création artistique et culturelle en vue de la transformation sociale, l’association Miss Griff mène depuis 1991 une recherche en création dramatique auprès des personnes les plus écartées de l’échange social et culturel – de par la précarité, le handicap, l’exclusion, l’exil, l’incarcération, la discrimination. À partir de la question « comment réhabiter le monde ? », les quinze participants aux ateliers de création dramatique ont été invités pendant quatre mois à s’engager dans un processus de réflexion et de création personnelles via des œuvres expérientielles, progressives et pluridisciplinaires.
 
-### *Fahrenheit 451,* spectacle de marionnettes, mise en scène Arnaud Préchac
-
+## 2017 - Fahrenheit 451
+### Mise en scène Arnaud Préchac
 Compagnie Zaï, studio Bretzel-Lab et Maison d’arrêt des Hauts-de-Seine
 
 La création proposée à dix détenus avec le projet *Fahrenheit 451* repose sur le jeu, la confection et manipulation de marionnettes contemporaines, ainsi que la création musicale et sonore, via la musique assistée par ordinateur. Elle est réalisée sous forme d’ateliers pluridisciplinaires sous la conduite des trois artistes associés et en accord avec leurs univers respectifs et complémentaires. Librement inspirée du livre de Ray Bradbury et du film de François Truffaut, la pièce met en scène le personnage de Montag, pompier idéal chargé de brûler les livres dans une société où ils sont bannis.
@@ -87,8 +85,8 @@ Représentations le 27 janvier 2018 au Théâtre Paris-Villette à l’occasion 
 ## 2018-2021
 
 ### Ateliers chorales et concerts
-
 Association En Chœur et Maison d’arrêt de Fleury-Mérogis
+
 
 Née en 2017, l’association En Chœur permet aux personnes détenues d’avoir accès au monde de la musique classique. À partir de septembre 2018, grâce au soutien de la fondation Meyer, trois typologies d’actions se mettent en place à la Maison d’arrêt des femmes de Fleury-Mérogis : des ateliers de chants pour des groupes de personnes incarcérées ; des interventions d’instrumentistes de musique classique ; des concerts en détention.
 

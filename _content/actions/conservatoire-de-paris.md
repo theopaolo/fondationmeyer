@@ -3,7 +3,7 @@ title: Conservatoire de Paris
 order: 1
 links: [
   { name: "Liste des boursiers de la Fondation depuis 1996.", url: '/beneficiaries/conservatoire/' },
-  { name: "Plus d'infos", url: 'http://www.cnsmdp.fr/conservatoire/mecenes/ils_nous_soutiennent.htm' } ]
+  { name: "Conservatoire de Paris", url: 'http://www.cnsmdp.fr/conservatoire/mecenes/ils_nous_soutiennent.htm' } ]
 
 ---
 
@@ -15,5 +15,5 @@ Enjeu de premier ordre dans la vie du CNSMD, le partenariat Fondation Meyer a pe
 
 > « Je souhaite que perdure la relation avec le Conservatoire. Le soutien de la Fondation a changé la vie de centaines de jeunes musiciens qui n’ont ni le temps ni l'opportunité de trouver un travail durant leurs études. Je trouve très gratifiant de leur permettre de passer leurs diplômes avec plus de sérénité. »
 >
-> – Vincent Meyer, président de la Fondation  Meyer, Janvier 2012
+> Vincent Meyer, président de la Fondation  Meyer, Janvier 2012
 

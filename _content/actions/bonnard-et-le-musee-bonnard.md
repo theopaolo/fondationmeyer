@@ -11,51 +11,52 @@ Inauguré le 25 juin 2011, le Musée Bonnard du Cannet est le premier musée à 
 
 ## DONS ET Participation À l’achat de tableaux de Pierre Bonnard
 
-## 2014 [L’Amandier](https://www.museebonnard.fr/agenda/170-les-p-tits-bonnard-12){target="_blank"}
-
-**Vers 1930**
+## 2014 - [L’Amandier, vers 1930](https://www.museebonnard.fr/agenda/170-les-p-tits-bonnard-12){target="_blank"}
 
 Huile sur toile 51,9 x 34,9 cm
 
 ---
 
-## 2009 [La Symphonie pastorale](https://www.musee-orsay.fr/en/artworks/la-symphonie-pastorale-152229){target="_blank"}
-
+## 2009
+[La Symphonie pastorale](https://www.musee-orsay.fr/en/artworks/la-symphonie-pastorale-152229){target="_blank"}
 **Entre 1916 et 1920**
 
 Huile sur toile, 130 x 160 cm
 
 ---
 
-## 2008 [Vue du Cannet](https://www.musee-orsay.fr/fr/oeuvres/vue-du-cannet-149609){target="_blank"}
+## 2008
 
-**1927**
+**1927 - [Vue du Cannet](https://www.musee-orsay.fr/fr/oeuvres/vue-du-cannet-149609){target="_blank"}**
 
 Huile sur toile, 233,6 x 233,6 cm
 
 ---
 
-## 2006 [Paysage au soleil couchant, Le Cannet](https://www.musee-orsay.fr/fr/oeuvres/paysage-au-soleil-couchant-le-cannet-150032){target="_blank"}
-
+## 2006
+[Paysage au soleil couchant, Le Cannet](https://www.musee-orsay.fr/fr/oeuvres/paysage-au-soleil-couchant-le-cannet-150032){target="_blank"}
 **Vers 1926**
-
 Huile sur toile, 59,5 x 73 cm
 
-Aides à la publication d’ouvrages sur Pierre Bonnard
+---
+## Aides à la publication d’ouvrages sur Pierre Bonnard
+
+
+## 2017 - Au fils des jours,  Agendas 1927-1946
+Datés des années 1927 à 1946, les vingt agendas de Pierre Bonnard qui nous sont parvenus couvrent presque, au jour le jour, les vingt dernières années de sa vie. Ils offrent donc un éclairage jusqu’à présent inédit sur la recherche quotidienne d’un peintre dans sa maturité. En regard du relevé bref et assidu du temps qu’il fait, de la qualité de la lumière et des lieux visités, Bonnard, inlassablement, dessine au crayon de papier ce qu’il voit, silhouettes, visages, gestes, objets, paysages. Autant d’esquisses qui préfigurent les motifs et la composition de certaines grandes peintures.
+280 pages, Éditions L’Atelier contemporain
+
 
 ---
-## 2014 Observations sur la peinture, 72 pages, Éditions L’Atelier contemporain
 
-Ce titre vient de Bonnard lui-même, qui, à la fin de sa vie, sans les dater, compose un mince florilège de ses notes. Aujourd’hui replacées dans l’ordre chronologique, augmentées d’inédites, assorties même de reproductions de pages d’agendas, les notes ici réunies, qui s’échelonnent sur presque vingt années (1927-1946), sont une révélation.
-
----
-
-## 2015 Les exigences de l’émotion, 192 pages, Éditions L’Atelier contemporain
+## 2015 - Les exigences de l’émotion
 
 Au sommaire, de brefs textes d’hommages à Renoir, Odilon Redon, Signac, des réponses à des enquêtes comme en faisaient les revues d’art de l’entre-deux-guerres ou encore des propos rapportés par des journalistes et visiteurs de ses ateliers à Deauville ou au Cannet.
+192 pages, Éditions L’Atelier contemporain
 
 ---
 
-## 2017 Au fils des jours -  Agendas 1927-1946, 280 pages, Éditions L’Atelier contemporain
+## 2014 - Observations sur la peinture
 
-Datés des années 1927 à 1946, les vingt agendas de Pierre Bonnard qui nous sont parvenus couvrent presque, au jour le jour, les vingt dernières années de sa vie. Ils offrent donc un éclairage jusqu’à présent inédit sur la recherche quotidienne d’un peintre dans sa maturité. En regard du relevé bref et assidu du temps qu’il fait, de la qualité de la lumière et des lieux visités, Bonnard, inlassablement, dessine au crayon de papier ce qu’il voit, silhouettes, visages, gestes, objets, paysages. Autant d’esquisses qui préfigurent les motifs et la composition de certaines grandes peintures.
+Ce titre vient de Bonnard lui-même, qui, à la fin de sa vie, sans les dater, compose un mince florilège de ses notes. Aujourd’hui replacées dans l’ordre chronologique, augmentées d’inédites, assorties même de reproductions de pages d’agendas, les notes ici réunies, qui s’échelonnent sur presque vingt années (1927-1946), sont une révélation.
+72 pages, Éditions L’Atelier contemporain
