@@ -11,7 +11,7 @@ Les conférences Jean-Nicod  visent à promouvoir les recherches philosophiques
 
 Les conférences sont organisées annuellement par l’Institut Jean-Nicod, Unité mixte de recherches rattachée au CNRS en cotutelle avec l’EHESS et l’Ecole normale supérieure, qui rassemble les meilleurs spécialistes français de philosophie cognitive. Elles se clôturent par la remise du Prix Jean-Nicod.
 
-## Lauréats du prix Jean-Nicod
+## Lauréats
 
 {{ laureat('2022', 'Peter Godfrey-Smith', 'Université de Sydney', 'The Evolution of Experience', 'http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/conferences-et-prix-jean-nicod-2022/article/conferences-et-prix-jean-nicod-2022?lang=en&var_mode=calcul') }}
 

@@ -15,9 +15,6 @@ body
 [x-cloak]
   display: none !important
 
-.no-bullets
-  list-style: none
-
 nav
   grid-area: nav
   width: 35ch
@@ -138,7 +135,11 @@ nav[aria-role="Primary"]
 h1
   font-family: var(--font-family-secondary)
 h2
-  font-size: var(--font-size-700)
+  font-family: var(--font-family-secondary)
+  color: var(--clr-netural-400)
+  font-size: var(--font-size-900)
+  text-transform: uppercase
+  
 h3
   font-size: var(--font-size-600)
 hr,h2,h3
@@ -303,11 +304,16 @@ footer
   grid-template-columns: 3fr 1fr
   grid-column-end: -1
 
+  strong
+    font-weight: 400
+
   .details
     border-bottom: thin solid black
+    padding-bottom: var(--font-size-400)
 
-  span 
-    display: block
+    span 
+      display: block
+      margin-block: var(--font-size-200)
 
   .aside
     text-align: right
