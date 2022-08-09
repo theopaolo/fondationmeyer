@@ -10,9 +10,9 @@
 </head>
 
 <body class="grid" x-data={}>
-    <a href="/" class="col-start-1 col-span-3 row-start-1 logo"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
+  <a href="/" class="col-start-1 col-span-3 row-start-1 logo"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
 
-    <nav class="col-start-1 row-start-2 col-span-2" aria-role="Primary">
+  <nav class="col-start-1 row-start-2 col-span-2" aria-role="Primary">
   <ul role="list" class="primary">
     
     <li><span class="font-family-secondary font-size-700">Actions</span>
@@ -58,10 +58,10 @@
 </nav>
 
 
-    
+  
 
-    <main class="col-span-8 col-span-6 col-start-4 row-start-2">
-      
+  <main class="col-span-9 col-start-4 row-start-2">
+    
   
 <nav class="filters">
   <button x-data @click.prevent="$store.beneficiaries.toggleSearch()" class="search" :class="$store.beneficiaries.searching ? 'active' : ''">
@@ -125,9 +125,10 @@
 <script src="/assets/js/client.js" type="module"></script>
 
 
-    </main>
 
     
+  </main>
+
 
   <footer class="col-start-1 col-span-2 font-size-300">
   <p>

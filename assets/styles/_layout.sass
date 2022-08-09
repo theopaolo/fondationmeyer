@@ -6,9 +6,9 @@ $aligns: ( start, center, end, stretch)
 .grid
   display: grid
   gap: var(--grid-gap)
-  grid-template-columns: repeat(system.$grid-cols-count, 1fr)
 
   &.even-cols
+    grid-template-columns: repeat(system.$grid-cols-count, 1fr)
     auto-flow: column
     auto-columns: 1fr
 
