@@ -10,22 +10,21 @@
 </head>
 
 <body class="grid" x-data={}>
-  <a href="/" class="col-start-1 col-span-3 row-start-1 logo"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
+  <a href="/" class="logo"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
 
   {% include 'partials/nav.njk' %}
 
   {% if title != 'beneficiaries' %}
-  <h1
-    class="page-title | {{colspan}} col-span-6 col-start-4 row-start-1 font-size-900 font-uppercase clr-neutral-900 align-self-end">
+  <h1 class="page-title font-size-900 font-uppercase clr-neutral-900 align-self-end">
     {{ title }}</h1>
   {% endif %}
 
-  <main class="col-span-9 col-start-4 row-start-2">
+  <main class="">
     {% block content %}{% endblock %}
 
     {% if links %}
     <aside>
-      <ul class="no-bullets">
+      <ul role="list">
         {% for link in links %}
         <li class="font-color-primary">
           <a href="{{link.url}}"> {{ link.name }} </a>
