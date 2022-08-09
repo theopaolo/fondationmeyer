@@ -126,7 +126,7 @@ En 2014, les ateliers pédagogiques du Musée d’art Moderne de la Ville de Par
 
 ---
 
-## 2013 – 2009
+## 2009 - 2013
 ### L’Art pour grandir
 
 Par sa contribution au projet de la Mairie de Paris, *L’Art pour grandir*, destiné à développer l’accès des enfants à la culture et à ses institutions, la Fondation Meyer soutient un principe qui lui tient à cœur : le patrimoine français appartient à tous ceux qui vivent sur son sol, comme leur appartient le droit d’y avoir accès, de le connaître et de l’apprécier. Plus encore, la notion de patrimoine dépassant largement le cadre muséographique, la Fondation est attachée à ce que chacun, l’enfant le tout premier, se reconnaisse comme dépositaire et responsable de ce patrimoine.
@@ -137,9 +137,9 @@ C’est dans cette optique que la Fondation s’est engagée en 2009 dans un par
 
 Chaque année un ouvrage est financé par la Fondation, qui rend compte du travail effectué par les enfants et leurs enseignants, et des résultats obtenus.
 
-Participation à l’achat de tableaux pour les musées de France
-
 ---
+
+## Participation à l’achat de tableaux pour les musées de France
 
 ## 1997
 
@@ -185,13 +185,8 @@ Huile sur toile, 178,5 x 236,2 cm
 
 ---
 
-## 2000
-
+## 2000 - [**Les Villas à Bordighera, 1884**](https://www.musee-orsay.fr/fr/oeuvres/les-villas-bordighera-97724)
 ### Claude Monet
-
-[**Les Villas à Bordighera**](https://www.musee-orsay.fr/fr/oeuvres/les-villas-bordighera-97724)
-
-1884
 
 Huile sur toile, 116,5 x 136,5 cm
 

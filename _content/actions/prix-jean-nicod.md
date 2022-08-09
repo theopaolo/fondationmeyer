@@ -11,20 +11,19 @@ Les conférences sont organisées annuellement par l’Institut Jean-Nicod, Unit
 
 ## Lauréats du prix Jean-Nicod
 
-### 2022
-**Peter Godfrey-Smith Université de Sydney**
+### 2022 - **Peter Godfrey-Smith**
+Université de Sydney
 [The Evolution of Experience](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/conferences-et-prix-jean-nicod-2022/article/conferences-et-prix-jean-nicod-2022?lang=en&var_mode=calcul)
 
 ---
 
-### 2021
-**Frances Egan - Rutgers University, New Jersey**
+### 2021 - **Frances Egan - Rutgers University, New Jersey**
+
 [Deflating Mental Representation](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/conferences-et-prix-jean-nicod-2021/article/jean-nicod-lectures-and-prize-2021?lang=en)
 
 ---
 
-## 2020
-**Leda Cosmides & John Tooby California - University of Santa Barbara**
+## 2020 - **Leda Cosmides & John Tooby California - University of Santa Barbara**
 [The Adaptationist Revolution and the Transformation of the Cognitive Sciences](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/recipiendaires-du-prix-jean-nicod-depuis-1993/conferences-et-prix-jean-nicod-2020/?lang=fr&var_mode=calcul)
 
 
