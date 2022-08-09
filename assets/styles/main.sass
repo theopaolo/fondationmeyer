@@ -90,7 +90,7 @@ main
     grid-column-start: 1
 
     &:is(p, blockquote)
-      max-width: 70ch
+      max-width: calc(var(--font-size-800) * 14)
 
   aside
     grid-column-start: 2
@@ -191,6 +191,7 @@ nav.filters
   grid-template-columns: 2em auto
   gap: 0.25em
   align-items: center
+  width: 100%
 
   .filter-wrapper
     display: flex
