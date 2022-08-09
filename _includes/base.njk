@@ -10,16 +10,20 @@
 </head>
 
 <body class="grid" x-data={}>
-  <a href="/" class="logo"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
+  <div class="logo" role="navigation" aria-label="logo">
+    <a href="/" title="Fondation Meyer"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
+  </div>
 
   {% include 'partials/nav.njk' %}
 
   {% if title != 'beneficiaries' %}
-  <h1 class="page-title font-size-900 font-uppercase clr-neutral-900 align-self-end">
-    {{ title }}</h1>
+  <header class="page-title align-self-end">
+    <h1 class="font-size-900 font-uppercase clr-neutral-900 ">
+      {{ title }}</h1>
+  </header>
   {% endif %}
 
-  <main class="">
+  <main>
     {% block content %}{% endblock %}
 
     {% if links %}

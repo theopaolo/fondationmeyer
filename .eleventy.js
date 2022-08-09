@@ -37,6 +37,8 @@ module.exports = (config) => {
       }
     }
 
+    console.log(ordered)
+
     return ordered.concat(unordered)
   })
 
