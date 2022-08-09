@@ -10,29 +10,31 @@
 </head>
 
 <body class="grid" x-data={}>
-    <a href="/" class="col-start-1 col-span-3 row-start-1 logo"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
+  <a href="/" class="logo"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
 
-    {% include 'partials/nav.njk' %}
+  {% include 'partials/nav.njk' %}
 
-    {% if title != 'beneficiaries' %}
-    <h1 class="page-title | {{colspan}} col-span-6 col-start-4 row-start-1 font-size-900 font-uppercase clr-neutral-900 align-self-end">{{ title }}</h1>
-    {% endif %}
+  {% if title != 'beneficiaries' %}
+  <h1 class="page-title font-size-900 font-uppercase clr-neutral-900 align-self-end">
+    {{ title }}</h1>
+  {% endif %}
 
-    <main class="{{colspan}} col-span-6 col-start-4 row-start-2">
-      {% block content %}{% endblock %}
-    </main>
+  <main class="">
+    {% block content %}{% endblock %}
 
     {% if links %}
-      <aside class="col-span-2 col-start-11 row-start-2">
-        <ul class="no-bullets">
-          {% for link in links %}
-            <li class="font-color-primary">
-              <a href="{{link.url}}"> {{ link.name }} </a>
-            </li>
-          {% endfor %}
-        </ul>
-      </aside>
+    <aside>
+      <ul role="list">
+        {% for link in links %}
+        <li class="font-color-primary">
+          <a href="{{link.url}}"> {{ link.name }} </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </aside>
     {% endif %}
+  </main>
+
 
   {% include 'partials/footer.njk' %}
 </body>

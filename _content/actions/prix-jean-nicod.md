@@ -3,6 +3,8 @@ title: Prix Jean-Nicod
 order: 3
 ---
 
+{% from "macros/laureat.njk" import laureat %}
+
 La Fondation Meyer participe depuis 2013 au financement du Prix Jean-Nicod en partenariat avec le CNRS, l’Institut des sciences humaines et sociales du CNRS (InSHS) et la Fondation du CNRS.
 
 Les conférences Jean-Nicod  visent à promouvoir les recherches philosophiques se rapportant à la cognition et à faire connaître en France les travaux réalisés à l'étranger dans ce domaine. Chaque année une personnalité scientifique ou philosophique de haut niveau est invitée à prononcer une série de conférences et à les rassembler dans un livre publié dans la collection Jean-Nicod.
