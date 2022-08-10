@@ -1,14 +1,14 @@
-<nav class="" aria-role="Primary">
-  <ul role="list" class="primary">
-    {# <li><a href="/" {% if page.url=='/' %}aria-current="home" {% endif %}> <span
-          class="secondary-font font-size-700">Fondation Meyer </span></a></li> #}
+<nav class="" aria-label="Primary">
+  <ul class="primary" role="list">
     <li><span class="font-family-secondary font-size-700">Actions</span>
       <ul role="list" class="secondary">
         {% for action in collections.actions %}
+        {% if action %}
         <li {% if page.url==action.url %}class="active" {% endif %}>
           <a href="{{ action.url }}" {% if page.url==action.url %}aria-current="{{ action.data.title }}" {% endif %}>{{
             action.data.title }}</a>
         </li>
+        {% endif %}
         {% endfor %}
       </ul>
     </li>
