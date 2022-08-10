@@ -1,14 +1,16 @@
-{% macro laureat(year, name, institution, title, url) %}
+{% macro laureat(year, name, description, url) %}
 <div class="laureat">
   <div class="details">
-    <strong class="secondary-font font-size-800 font-uppercase">{{ year }} - </strong>
-    <strong class="secondary-font font-size-800 font-uppercase clr-neutral-400">{{ name }}</strong>
-    <span>{{ institution }}</span>
-    <span>{{ title }}</span>
+    <h3>
+      <span class="secondary-font font-size-800 font-uppercase clr-neutral-900">{{ year }} - </span>
+      <span class="secondary-font font-size-800">{{ name }}</span>
+    </h3>
+    <p>{{ description }}</p>
   </div>
 
   <a class="aside" href="{{ url }}">
     {{ name }}
   </a>
+
 </div>
 {% endmacro %}

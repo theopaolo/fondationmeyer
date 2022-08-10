@@ -90,9 +90,20 @@ main
 
     &:is(p, blockquote)
       max-width: calc(var(--font-size-800) * 18)
+  h3
+    font-size: var(--font-size-800)
+    font-family: var(--font-family-secondary)
+    span
+      color: var(--clr-neutral-400)
 
-  aside
-    grid-column-start: 2
+  aside,
+  span.side-note
+    display: inline-block
+    position: absolute
+    right: 0
+    width: 100%
+    max-width: calc((100% - var(--font-size-800) * 2)/ 6)
+    margin-block-start: calc(-1 * var(--font-size-400))
 
     li
       margin-bottom: var(--font-size-400)
@@ -141,7 +152,7 @@ h2
   color: var(--clr-netural-400)
   font-size: var(--font-size-900)
   text-transform: uppercase
-  
+
 h3
   font-size: var(--font-size-600)
 hr,h2,h3
@@ -306,16 +317,11 @@ footer
   grid-template-columns: 3fr 1fr
   grid-column-end: -1
 
-  strong
-    font-weight: 400
-
   .details
-    border-bottom: thin solid black
     padding-bottom: var(--font-size-400)
 
-    span 
-      display: block
-      margin-block: var(--font-size-200)
+    p
+      max-width: 90ch
 
   .aside
     text-align: right
