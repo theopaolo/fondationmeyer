@@ -125,7 +125,7 @@ Huile sur toile, 178,5 x 236,2 cm <span class="side-note">[Paysage de neige](htt
 
 ### 2000 - <span>Les Villas à Bordighera, 1884  <br> Claude Monet</span>
 
-Huile sur toile, 116,5 x 136,5 cm <span class="side-note">[Les Villas à Bordighera, 1884](https://www.musee-orsay.fr/fr/oeuvres/les-villas-bordighera-97724)</span>
+Huile sur toile, 116,5 x 136,5 cm [Les Villas à Bordighera, 1884](https://www.musee-orsay.fr/fr/oeuvres/les-villas-bordighera-97724)
 
 ---
 ### 2003 - Paysage avec "Le pauvre pêcheur" de Puvis de Chavannes, Ver 1881 <br> Georges Seurat
