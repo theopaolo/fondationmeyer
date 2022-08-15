@@ -3,7 +3,11 @@ title: Institut de Physique Théorique Philippe Meyer
 order: 2
 ---
 
-L’Institut de Physique Théorique Philippe Meyer a été créé au sein du département de physique de l’École normale supérieure en 2012. Il est financé par une Fondation partenariale établie conjointement par la Fondation Meyer et l’École normale supérieure, les fondateurs rendant ainsi hommage à l’action du professeur Philippe Meyer par une action à long terme alliant recherche et enseignement.<span class="side-note">[Institut de physique Théorique Philippe Meyer](http://www.ipm.ens.fr/spip.php?rubrique3)</span>
+L’Institut de Physique Théorique Philippe Meyer a été créé au sein du département de physique de l’École normale supérieure en 2012. Il est financé par une Fondation partenariale établie conjointement par la Fondation Meyer et l’École normale supérieure, les fondateurs rendant ainsi hommage à l’action du professeur Philippe Meyer par une action à long terme alliant recherche et enseignement.
+
+{% Aside "align-self-start" %}
+  [Institut de physique Théorique Philippe Meyer](http://www.ipm.ens.fr/spip.php?rubrique3)
+{% endAside %}
 
 L’institut a pour but de promouvoir la recherche en physique théorique et de participer à la formation de jeunes théoriciens. Il finance et gère des postes de recherche post-doctorants au sein du Département de physique ainsi qu’un programme de visites de personnalités scientifiques.
 
