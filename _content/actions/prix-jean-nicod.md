@@ -11,6 +11,7 @@ Les conférences sont organisées annuellement par l’Institut Jean-Nicod, Unit
 
 ## Lauréats
 
+<<<<<<< HEAD
 ### 2022 - <span>Peter Godfrey Smith</span>
 
 Le prix est attribué à Peter Godfrey-Smith pour sa recherche intitulée The Evolution of Experience. Peter Godfrey-Smith est professeur d'histoire et de philosophie des sciences à l'Université de Sydney, en Australie.
