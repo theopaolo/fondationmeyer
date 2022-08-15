@@ -1,4 +1,5 @@
-{% macro laureat(year, name, description, url) %}
+{% macro sidelinks(year, name, description, url) %}
+
 <div class="laureat">
   <div class="details">
     <h3>
@@ -11,5 +12,6 @@
   <a class="aside" href="{{ url }}">
     {{ name }}
   </a>
+
 </div>
 {% endmacro %}

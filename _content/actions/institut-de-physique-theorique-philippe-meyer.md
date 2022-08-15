@@ -9,7 +9,6 @@ L’institut a pour but de promouvoir la recherche en physique théorique et de 
 
 L’institut contribue aussi à l’organisation biannuelle du prix Philippe Meyer, réservé aux jeunes chercheurs en physique théorique.
 
-
 ## PRIX PHILIPPE MEYER
 
 Attribué tous les deux ans, ce prix est décerné à de jeunes physiciens choisis par un jury international et vise à récompenser des contributions exceptionnelles dans le domaine de la physique théorique. Les nominations pour le prix sont ouvertes à tous les membres de la communauté scientifique internationale. Les candidats doivent avoir reçu leur thèse de doctorat moins de dix ans avant le 1<sup>er</sup> janvier de l’année d’attribution.
@@ -21,7 +20,7 @@ Le prix est attribué à Aron Wall pour ses nombreuses contributions ayant ouver
 
 ### 2018 -<span> Aron Wall</span>
 
-Le Prix est attribué à Aron Wall pour ses nombreuses contributions ayant ouvert des nouvelles voies à l’interface entre la relativité générale, la thermodynamique et la théorie quantique des champs. <span class="side-note">[Aron Wall](http://www.ipm.ens.fr/spip.php?article123&lang=fr)</span>
+Le prix est attribué à Aron Wall pour ses nombreuses contributions ayant ouvert des nouvelles voies à l’interface entre la relativité générale, la thermodynamique et la théorie quantique des champs. <span class="side-note">[Aron Wall](http://www.ipm.ens.fr/spip.php?article123&lang=fr)</span>
 
 ### 2016 - <span>Lenka Zdeborova</span>
 

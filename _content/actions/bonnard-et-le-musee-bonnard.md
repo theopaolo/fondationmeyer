@@ -14,19 +14,16 @@ Inauguré le 25 juin 2011, le Musée Bonnard du Cannet est le premier musée à 
 ### 2014 - <span>L’Amandier, vers 1930</span>
 Huile sur toile 51,9 x 34,9 cm <span class="side-note">[L’Amandier](https://www.museebonnard.fr/agenda/170-les-p-tits-bonnard-12){target="_blank"}</span>
 
----
 
 ### 2009 - <span>La Symphonie pastorale, entre 1916 et 1920</span>
 
 Huile sur toile, 130 x 160 cm <span class="side-note">[La Symphonie pastorale](https://www.musee-orsay.fr/en/artworks/la-symphonie-pastorale-152229){target="_blank"}</span>
 
----
 
 ### 2008 - <span>Vue du Cannet, 1927</span>
 
 Huile sur toile, 233,6 x 233,6 cm <span class="side-note">[Vue du Cannet, 1927](https://www.musee-orsay.fr/fr/oeuvres/vue-du-cannet-149609){target="_blank"}</span>
 
----
 
 ### 2006 - <span>Paysage au soleil couchant, Le Cannet, vers 1926</span>
 
@@ -42,7 +39,6 @@ Datés des années 1927 à 1946, les vingt agendas de Pierre Bonnard qui nous so
 280 pages, Éditions L’Atelier contemporain
 
 
----
 
 ### 2015 - <span>Les exigences de l’émotion</span>
 
@@ -50,7 +46,6 @@ Au sommaire, de brefs textes d’hommages à Renoir, Odilon Redon, Signac, des r
 
 192 pages, Éditions L’Atelier contemporain
 
----
 
 ### 2014 - <span>Observations sur la peinture</span>
 

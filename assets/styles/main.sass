@@ -39,25 +39,12 @@ nav
       color: var(--clr-neutral-400)
       text-transform: none
       max-width: 25ch
+      a
+        &:hover
+          color: var(--clr-neutral-900)
 
-      &::after
-        display: block
-        content: ''
-        border-bottom: solid 2px var(--clr-neutral-400)
-        transform: scaleX(0)
-        transition: transform 250ms ease-in-out
-        transform-origin: 0% 50%
-
-      &:hover
-        color: var(--clr-neutral-900)
-        &::after
-          transform: scaleX(1)
-
-      &.active
-        color: var(--clr-neutral-900)
-        &::after
-          transform: scaleX(1)
-          border-bottom: solid 2px var(--clr-neutral-900)
+        &.active
+          color: var(--clr-neutral-900)
 
 a
   color: var(--clr-neutral-400)
@@ -83,7 +70,6 @@ main
   gap: var(--grid-gap)
   align-items: start
   height: min-content
-  margin-block-start: var(--font-size-700)
 
   > *
     grid-column-start: 1
@@ -94,17 +80,18 @@ main
     font-size: var(--font-size-800)
     font-family: var(--font-family-secondary)
     text-transform: uppercase
+    margin-block-start: var(--font-size-100)
+    line-height: var(--font-size-700)
     span
-      color: var(--clr-neutral-400)
+      color: var(--clr-neutral-300)
 
   aside,
   span.side-note
-    display: inline-block
-    position: absolute
-    right: 0
-    width: 100%
-    max-width: calc((100% - var(--font-size-800) * 2)/ 6)
-    margin-block-start: calc(-1 * var(--font-size-400))
+    // display: inline-block
+    // position: absolute
+    // right: 0
+    // width: 100%
+    // max-width: calc((100% - var(--font-size-800) * 2)/ 6)
 
     li
       margin-bottom: var(--font-size-400)
@@ -126,6 +113,11 @@ main
     &::after
       content: url('data:image/svg+xml;utf8,<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.3333 10.2222V15.5556C14.3333 16.0271 14.146 16.4792 13.8126 16.8126C13.4792 17.146 13.0271 17.3333 12.5556 17.3333H2.77778C2.30628 17.3333 1.8541 17.146 1.5207 16.8126C1.1873 16.4792 1 16.0271 1 15.5556V5.77778C1 5.30628 1.1873 4.8541 1.5207 4.5207C1.8541 4.1873 2.30628 4 2.77778 4H8.11111" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/><path d="M11.6665 1H16.9998V6.33333" stroke="black" stroke-linecap="square" stroke-linejoin="round"/><path d="M17.7499 1C17.7499 0.585786 17.4142 0.25 16.9999 0.25H10.2499C9.83573 0.25 9.49995 0.585786 9.49995 1C9.49995 1.41421 9.83573 1.75 10.2499 1.75H16.2499V7.75C16.2499 8.16421 16.5857 8.5 16.9999 8.5C17.4142 8.5 17.7499 8.16421 17.7499 7.75V1ZM7.7525 11.3081L17.5303 1.53033L16.4696 0.46967L6.69184 10.2474L7.7525 11.3081Z" fill="black"/></svg>')
       margin-left: var(--font-size-200)
+  p
+    display: grid
+    grid-column-end: -1
+    grid-template-columns: 3fr 1fr
+    grid-gap: var(--grid-gap)
 
 .page-title
   grid-area: heading
@@ -152,6 +144,7 @@ h2
   font-family: var(--font-family-secondary)
   color: var(--clr-netural-400)
   font-size: var(--font-size-900)
+  line-height: var(--font-size-800)
   text-transform: uppercase
 
 h3
@@ -316,10 +309,9 @@ footer
   display: grid
   grid-template-columns: 3fr 1fr
   grid-column-end: -1
-
   .details
-    padding-bottom: var(--font-size-400)
-
+    display: grid
+    grid-gap: var(--grid-gap)
     p
       max-width: 90ch
 
