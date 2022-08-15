@@ -13,7 +13,7 @@ module.exports = (config) => {
     linkify: true,
   }
 
-  config.addShortcode('ProjectEntry', ProjectEntry);
+  config.addNunjucksShortcode('ProjectEntry', ProjectEntry);
 
   const markdownLib = markdownIt(mdOptions)
     .use(markdownItAttrs)
