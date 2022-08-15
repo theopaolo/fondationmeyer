@@ -1,25 +1,37 @@
-const markdownIt = require("markdown-it");
-const markdownItAttrs = require("markdown-it-attrs");
+const markdownIt = require("markdown-it")
+const markdownItAttrs = require("markdown-it-attrs")
+const {outdent} = require("outdent")
 
 module.exports = (config) => {
 
+  // set custom markdown
   const mdOptions = {
     html: true,
-    breaks: true,
+    breaks: false,
     linkify: true,
-  };
+  }
 
   const markdownLib = markdownIt(mdOptions)
     .use(markdownItAttrs)
-    .disable("code");
+    .disable("code")
 
-  config.setLibrary("md", markdownLib);
+  config.setLibrary("md", markdownLib)
 
+  // watching styles folder to gen sass
   config.addWatchTarget("./assets/styles/")
 
+  // Passthrough for images & Assets
   config.addPassthroughCopy('./_content/images/')
   config.addPassthroughCopy('./assets/**/*')
 
+  // Aside shortcode
+  config.addPairedNunjucksShortcode("Aside", function (content, classes) {
+    console.log(classes)
+    const md = outdent`${markdownLib.render(content)}`
+    return `<aside ${classes ? `class="${classes}"` : ''}>${md}</aside>`
+  })
+
+  // Actions Collection
   config.addCollection('actions', collection => {
     let ordered = []
     let unordered = []
@@ -36,8 +48,6 @@ module.exports = (config) => {
         unordered.push(page)
       }
     }
-
-    console.log(ordered)
 
     return ordered.concat(unordered)
   })

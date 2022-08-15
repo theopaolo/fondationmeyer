@@ -30,6 +30,7 @@
     "sass": "^1.52.3"
   },
   "dependencies": {
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "outdent": "^0.8.0"
   }
 }

@@ -79,7 +79,6 @@ main
   grid-area: content
   display: grid
   grid-template-columns: 2.25fr 0.75fr
-  grid-auto-flow: dense
   gap: var(--grid-gap)
   align-items: start
   height: min-content
@@ -97,17 +96,15 @@ main
     span
       color: var(--clr-neutral-400)
 
-  aside,
-  span.side-note
-    display: inline-block
-    position: absolute
-    right: 0
-    width: 100%
-    max-width: calc((100% - var(--font-size-800) * 2)/ 6)
-    margin-block-start: calc(-1 * var(--font-size-400))
+  aside
+    grid-column-start: 2
+    align-self: end
+    text-align: right
 
-    li
-      margin-bottom: var(--font-size-400)
+    ul
+      
+      li
+        margin-bottom: var(--font-size-400)
     a
       color: var(--clr-neutral-900)
       font-weight: 500
@@ -314,6 +311,7 @@ footer
 
 .laureat
   display: grid
+  grid-column-gap: var(--font-size-300)
   grid-template-columns: 3fr 1fr
   grid-column-end: -1
 
@@ -324,9 +322,8 @@ footer
       max-width: 90ch
 
   .aside
-    text-align: right
     justify-self: end
-    align-self: end
+    align-self: center
 
 
 @keyframes fade-in
