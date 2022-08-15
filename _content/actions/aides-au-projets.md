@@ -10,7 +10,7 @@ order: 7
 En écho à l’œuvre de William Shakespeare, le projet de création théâtrale *Hamlet* est le fruit d’un ensemble d’ateliers d’écriture et de recherche menés en partenariat avec le GHU Paris Psychiatrie et Neurosciences (via le Centre d'Accueil Thérapeutique à Temps Partiel Les Cariatides), les Hôpitaux Universitaires de la Pitié Salpêtrière, le GEM L’Embellie à Lagny-sur-Marne et un réseau de cabinets libéraux.
 Après des périodes de résidence de création et un travail au long cours avec différents groupes de patients, la pièce met en scène six comédiens professionnels et sept personnes issues d’expériences de vie que nos sociétés marginalisent. Pour ce projet collaboratif, Luca Giacomoni s’intéresse aux personnes « ayant eu des expériences dites ‘psychotiques’ : entente de voix, hallucinations, troubles de la perception, perte de mémoire ». Il propose un théâtre qui invite à poser un regard critique et sensible sur ce qui est invisibilisé.
 
-Représentations du 29 septembre au 9 octobre 2021 au théâtre Le Monfort, Paris 
+Représentations du 29 septembre au 9 octobre 2021 au théâtre Le Monfort, Paris
 
 {% Aside "align-self-start" %}
 [Hamlet](https://vimeo.com/599375352?embedded=true&source=vimeo_logo&owner=5973674)
@@ -23,11 +23,11 @@ La Maison des Femmes de Saint-Denis
 
 Lieu d’accueil et d’accompagnement juridique, psychologique et médical pour les femmes victimes de violences, la Maison des Femmes est créée par la gynécologue Ghada Hatem-Gantzer. Dans l’enceinte de l’hôpital de Saint-Denis à Paris, trois comédiennes et deux chanteuses accompagnent pendant près d’un an un groupe de femmes victimes de violences. L’importance de la parole par l’écriture et le théâtre ont fait émerger un cycle d’ateliers d’expression pour ces patientes souvent mutiques. À partir du poème Métamorphoses d’Ovide, le groupe compose une création théâtrale, où les témoignages personnels se fondent et recoupent les récits mythiques.
 
-Représentations du 16 janvier au 14 février 2020 au Théâtre de la Tempête 
-{% Aside %}
-[Métamorphoses](https://vimeo.com/402205702?embedded=true&source=vimeo_logo&owner=5973674)
-{% endAside %}
+Représentations du 16 janvier au 14 février 2020 au Théâtre de la Tempête
 
+{% Aside %}
+  [Métamorphoses](https://vimeo.com/402205702?embedded=true&source=vimeo_logo&owner=5973674)
+{% endAside %}
 
 ### 2018 - <span>Une place au soleil <br> réalisation Florence Ossowski</span>
 
@@ -37,8 +37,6 @@ Fondation L’Élan Retrouvé, ESAT, établissement et service d’aide par le t
 Pour fêter les 70 ans de la Fondation l’Elan Retrouvé, l’idée de faire un film donne naissance à un collectif vidéo, composé de travailleurs handicapés et d’encadrants volontaires. Pendant cinq mois, le groupe s’est réuni dans un atelier d’initiation à la prise de vue et à la réalisation documentaire.
 Le documentaire qui en résulte donne la parole à des travailleurs handicapés psychiques témoignant de l’importance du travail dans leur vie. Il offre leurs regards, plein d’humour et de lucidité sur le « monde ordinaire » qui les entoure, sur la place qu’ils peuvent se faire dans la société, sur leur vision de l’inclusion.
 Projections les 3, 4 et 5 décembre 2018 à l’ESAT, Fondation L’Élan Retrouvé et le 13 novembre 2019 à la Cité des Sciences et de l’Industrie à Paris, dans le cadre des Rencontres vidéo en santé mentale.
-
-
 
 ### 2017-2019 - <span>Ensemble Intercontemporain, Paris</span>
 
@@ -53,7 +51,11 @@ Ateliers de cinéma
 
 Aspirant à s’ouvrir à son territoire, la CinéFabrique a mis en place des ateliers de pratique cinématographique dans des villes de la région Auvergne Rhône-Alpes. Ces ateliers sont destinés à différents groupes de jeunes entre 15 et 20 ans issus de quartiers prioritaires ou vivant en zones rurales – et ayant peu d’accès aux pratiques artistiques.
 Encadrés par des réalisateurs professionnels de la région, ces temps de création initiés à Saint-Etienne, Bourg-en-Bresse, Pierre-Bénite, Saint-Priest, Vaulx-en-Velin et Villeurbanne, permettent tout au long de l’année à une soixantaine de participants d’écrire et de réaliser des courts-métrages de fiction. De la découverte à l’expérimentation, les jeunes sont la fois comédiens et régisseurs, en lien avec des professionnels du cinéma sur tous ses aspects : régie, décors, transport, musique, figuration, etc.
-Les films sont diffusés au sein des quartiers où ils ont été tournés, mais aussi en dehors de la ville, dans des cinémas partenaires. <span class="side-note">[La CinéFabrique](https://vimeo.com/293143737?embedded=true&source=vimeo_logo&owner=38895260)</span>
+Les films sont diffusés au sein des quartiers où ils ont été tournés, mais aussi en dehors de la ville, dans des cinémas partenaires. 
+
+{% Aside "align-self-start" %}
+  [La CinéFabrique](https://vimeo.com/293143737?embedded=true&source=vimeo_logo&owner=38895260)
+{% endAside %}
 
 
 ### 2018 - <span>Chanter l’icône <br> compositeur Michel Petrossian</span>
@@ -95,32 +97,52 @@ Chaque année un ouvrage est financé par la Fondation, qui rend compte du trava
 ## Participation à l’achat de tableaux pour les musées de France
 
 ### 1997 - <span>Vue de Capolago, VERS 1907 <br> GIOVANNI GIACOMETTI</span>
-Huile sur toile, 51,5 x 60 cm <span class="side-note">[Vue de Capolago](https://www.musee-orsay.fr/fr/oeuvres/vue-de-capolago-85468)</span>
+Huile sur toile, 51,5 x 60 cm 
+
+{% Aside %}
+  [Vue de Capolago](https://www.musee-orsay.fr/fr/oeuvres/vue-de-capolago-85468)
+{% endAside %}
 
 
 ### 1997 – <span>GALATÉE, VERS 1880 <br>GUSTAVE MOREAU</span>
 Huile sur bois, 85,5 x 66 cm [Galatée](https://www.musee-orsay.fr/fr/oeuvres/galatee-85469)
 
-
-
 ### 1998 - <span>Berthe Morisot au bouquet de violettes, En 1872 <br>Edouard Manet </span>
 
-Huile sur toile, 55,5 x 40,5 cm <span class="side-note">[Berthe Morisot au bouquet de violettes](https://www.musee-orsay.fr/fr/oeuvres/berthe-morisot-au-bouquet-de-violettes-100102)</span>
+Huile sur toile, 55,5 x 40,5 cm 
 
+{% Aside "align-self-start" %}
+  [Berthe Morisot au bouquet de violettes](https://www.musee-orsay.fr/fr/oeuvres/berthe-morisot-au-bouquet-de-violettes-100102)
+{% endAside %}
 
 ### 1999 - <span>Paysage de neige, 1904 <br> Cuno Amiet</span>
-Huile sur toile, 178,5 x 236,2 cm <span class="side-note">[Paysage de neige](https://www.musee-orsay.fr/fr/oeuvres/schneelandschaft-102671)</span>
+Huile sur toile, 178,5 x 236,2 cm 
 
+{% Aside "align-self-start" %}
+  [Paysage de neige](https://www.musee-orsay.fr/fr/oeuvres/schneelandschaft-102671)
+{% endAside %}
 
 ### 2000 - <span>Les Villas à Bordighera, 1884  <br> Claude Monet</span>
 
-Huile sur toile, 116,5 x 136,5 cm <span class="side-note">[Les Villas à Bordighera, 1884](https://www.musee-orsay.fr/fr/oeuvres/les-villas-bordighera-97724)</span>
+Huile sur toile, 116,5 x 136,5 cm 
+
+{% Aside "align-self-start" %}
+  [Les Villas à Bordighera, 1884](https://www.musee-orsay.fr/fr/oeuvres/les-villas-bordighera-97724)
+{% endAside %}
 
 ### 2003 - <span>Paysage avec "Le pauvre pêcheur" de Puvis de Chavannes, Vers 1881 <br> Georges Seurat</span>
-Huile sur bois parqueté, 17,5 x 26,5 cm <span class="side-note">[Paysage avec "Le pauvre pêcheur" de Puvis de Chavannes](https://www.musee-orsay.fr/fr/oeuvres/paysage-avec-le-pauvre-pecheur-de-puvis-de-chavannes-119389)</span>
 
+Huile sur bois parqueté, 17,5 x 26,5 cm
 
+{% Aside "align-self-start" %}
+[Paysage avec "Le pauvre pêcheur" de Puvis de Chavannes](https://www.musee-orsay.fr/fr/oeuvres/paysage-avec-le-pauvre-pecheur-de-puvis-de-chavannes-119389)</span>
+{% endAside %}
 
 ### 2004 - <span>Misia à sa coiffeuse, En 1898 <br> Félix Vallotton</span>
 
-Détrempe sur carton, 35,9 x 29 cm <span class="side-note">[Misia à sa coiffeuse, En 1898](https://www.musee-orsay.fr/fr/oeuvres/misia-sa-coiffeuse-128544)</span>
+Détrempe sur carton, 35,9 x 29 cm
+
+{% Aside "align-self-start" %}
+  [Misia à sa coiffeuse, En 1898](https://www.musee-orsay.fr/fr/oeuvres/misia-sa-coiffeuse-128544)
+{% endAside %}
+
