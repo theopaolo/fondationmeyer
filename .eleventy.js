@@ -1,13 +1,17 @@
 const markdownIt = require("markdown-it");
+const ProjectEntry = require('./_includes/components/ProjectEntry.js');
+
 const markdownItAttrs = require("markdown-it-attrs");
 
 module.exports = (config) => {
 
   const mdOptions = {
     html: true,
-    breaks: true,
+    breaks: false,
     linkify: true,
   };
+
+  config.addShortcode('ProjectEntry', ProjectEntry);
 
   const markdownLib = markdownIt(mdOptions)
     .use(markdownItAttrs)

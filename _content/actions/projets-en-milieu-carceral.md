@@ -2,7 +2,6 @@
 title: Projets en milieu carcéral
 order: 6
 ---
-{% from "macros/sidelinks.njk" import sidelinks %}
 
 Dans le prolongement de ses actions, la Fondation Meyer soutien depuis 2017 des projets culturels en milieu carcéral. Ces actions ponctuelles à forte portée sociale s'inscrivent dans le parcours d'insertion ou de réinsertion des personnes détenues. Elles leur permettent de découvrir des pratiques artistiques et de s'impliquer dans un processus de création.
 
@@ -24,12 +23,17 @@ Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin
 *Douze cordes* est un spectacle musical mêlant texte, danse hip-hop, boxe, chant lyrique, musique classique et contemporaine. Avec l'aide du comédien Mohamed Rouabhi, qui dirige les ateliers d'écriture, et le boxeur Stéphane Pardin, neufs détenus du Centre pénitentiaire de Maux-Chauconin pensent et œuvrent à la création d’une pièce chorégraphique et théâtrale. Sur scène et avec les musiciens, ils reprennent de grands airs d’opéra – Chostakovitch, Monteverdi ou Philip Glass – accompagnés par un DJ et une soprano. « L’un des objectifs du projet est de donner des outils à ces détenus pour canaliser la violence », explique Irène Muscari, coordinatrice culturelle du Service pénitentiaire d’insertion et de probation (SPIP) de Seine-et-Marne, initiatrice de *Douze cordes*.
 Représentations le 3 mai 2019, Maison de la culture de Seine-Saint-Denis, Bobigny (MC 93) et le 6 mai 2019 au Centre pénitentiaire de Meaux-Chauconin
 
-### 2017-2018 - <span>Les Flibustiers du Qlassik <br> Direction artistique Ménélik</span>
 
+### 2017-2018 - <span>Les Flibustiers du Qlassik <br> Direction artistique Ménélik</span>
 Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin
-À la suite d’un mini-concert en prison, le rappeur Ménélik et un quatuor à cordes viennent à la rencontre des détenus qu’ils encadrent lors d’ateliers d’écriture et de mise en musique de leurs textes, en vue de représentations. Au cours des ateliers, les participants découvrent les rigueurs et les joies de la création d’un spectacle en communauté. Il s’agit d'un dépassement de soi par la mise à nu d’un vécu personnel livré à leurs codétenus et au monde. Cette fenêtre de liberté s’accorde sur scène avec des compositions de Bach, Purcell, Pachelbel, Philip Glass ou encore Franck Della Valle, interprétées par un quatuor à cordes issu de l’Orchestre de chambre de Paris.
-Représentations le 27 janvier 2018 au Théâtre Paris-Villette à l’occasion du Festival Vis-à-Vis et le 10 novembre 2018, Le Centquatre, Paris
-<span class="side-note">[Les Flibustiers du Qlassik](https://www.youtube.com/watch?v=1KzP0Dc3YOY&feature=emb_imp_woyt)</span>
+À la suite d’un mini-concert en prison, le rappeur Ménélik et un quatuor à cordes viennent à la rencontre des détenus qu’ils encadrent lors d’ateliers d’écriture et de mise en musique de leurs textes, en vue de représentations. Au cours des ateliers, les participants découvrent les rigueurs et les joies de la création d’un spectacle en communauté. Il s’agit d'un dépassement de soi par la mise à nu d’un vécu personnel livré à leurs codétenus et au monde. Cette fenêtre de liberté s’accorde sur scène avec des compositions de Bach, Purcell,Pachelbel, Philip Glass ou encore Franck Della Valle, interprétées par un quatuor à cordes issu de l’Orchestre de chambre de Paris.
+Représentations le 27 janvier 2018 au Théâtre Paris-Villette à l’occasion du Festival Vis-à-Vis et le 10 novembre 2018, Le Centquatre,Paris [Les Flibustiers du Qlassik](https://www.youtube.com/watch?v=1KzP0Dc3YOY&feature=emb_imp_woyt)
+
+{% ProjectEntry "2017-2018 - <span>Les Flibustiers du Qlassik <br> Direction artistique Ménélik</span>",
+  "Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin
+  À la suite d’un mini-concert en prison, le rappeur Ménélik et un quatuor à cordes viennent à la rencontre des détenus qu’ils encadrent lors d’ateliers d’écriture et de mise en musique de leurs textes, en vue de représentations. Au cours des ateliers, les participants découvrent les rigueurs et les joies de la création d’un spectacle en communauté. Il s’agit d'un dépassement de soi par la mise à nu d’un vécu personnel livré à leurs codétenus et au monde. Cette fenêtre de liberté s’accorde sur scène avec des compositions de Bach, Purcell, Pachelbel, Philip Glass ou encore Franck Della Valle, interprétées par un quatuor à cordes issu de l’Orchestre de chambre de Paris.
+  Représentations le 27 janvier 2018 au *Théâtre Paris-Villette* à l’occasion du Festival Vis-à-Vis et le 10 novembre 2018, Le Centquatre, Paris", "https://www.youtube.com/watch?v=1KzP0Dc3YOY&feature=emb_imp_woyt", "Les Flibustiers du Qlassik"
+%}
 
 ### 2016-2017 - <span>Iliade <br> Mise en scène par Luca Giacomoni</span>
 

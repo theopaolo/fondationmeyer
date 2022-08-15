@@ -30,6 +30,7 @@
     "sass": "^1.52.3"
   },
   "dependencies": {
+    "common-tags": "^1.8.2",
     "dotenv": "^16.0.1"
   }
 }
