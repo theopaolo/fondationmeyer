@@ -1,11 +1,10 @@
-function ProjectEntry(title,text,link,linkText,) {
+function ProjectEntry(ProjectEntry) {
   return `<div class="laureat">
       <div class="details">
-        <h3>${title}</h3>
-        <p>${text}</p>
+        <h3>${ProjectEntry.title}</h3>
+        <p>${ProjectEntry.text}</p>
       </div>
-      <a class="aside" href="${link}">${linkText}</a>
+      <a class="aside" href="${ProjectEntry.link}">${ProjectEntry.linkText}</a>
     </div>`
 }
-
 module.exports = ProjectEntry

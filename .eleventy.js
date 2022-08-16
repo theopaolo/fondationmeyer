@@ -13,7 +13,7 @@ module.exports = (config) => {
     linkify: true,
   }
 
-  config.addShortcode('ProjectEntry', ProjectEntry);
+  config.addNunjucksShortcode('ProjectEntry', ProjectEntry);
 
   const markdownLib = markdownIt(mdOptions)
     .use(markdownItAttrs)
@@ -30,7 +30,6 @@ module.exports = (config) => {
 
   // Aside shortcode
   config.addPairedNunjucksShortcode("Aside", function (content, classes) {
-    console.log(classes)
     const md = outdent`${markdownLib.render(content)}`
     return `<aside ${classes ? `class="${classes}"` : ''}>${md}</aside>`
   })

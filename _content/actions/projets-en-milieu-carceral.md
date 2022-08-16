@@ -29,10 +29,10 @@ Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin
 À la suite d’un mini-concert en prison, le rappeur Ménélik et un quatuor à cordes viennent à la rencontre des détenus qu’ils encadrent lors d’ateliers d’écriture et de mise en musique de leurs textes, en vue de représentations. Au cours des ateliers, les participants découvrent les rigueurs et les joies de la création d’un spectacle en communauté. Il s’agit d'un dépassement de soi par la mise à nu d’un vécu personnel livré à leurs codétenus et au monde. Cette fenêtre de liberté s’accorde sur scène avec des compositions de Bach, Purcell,Pachelbel, Philip Glass ou encore Franck Della Valle, interprétées par un quatuor à cordes issu de l’Orchestre de chambre de Paris.
 Représentations le 27 janvier 2018 au Théâtre Paris-Villette à l’occasion du Festival Vis-à-Vis et le 10 novembre 2018, Le Centquatre,Paris [Les Flibustiers du Qlassik](https://www.youtube.com/watch?v=1KzP0Dc3YOY&feature=emb_imp_woyt)
 
-{% ProjectEntry "2017-2018 - <span>Les Flibustiers du Qlassik <br> Direction artistique Ménélik</span>",
-  "Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin
+{% ProjectEntry title="2017-2018 - <span>Les Flibustiers du Qlassik <br> Direction artistique Ménélik</span>",
+  text="Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin
   À la suite d’un mini-concert en prison, le rappeur Ménélik et un quatuor à cordes viennent à la rencontre des détenus qu’ils encadrent lors d’ateliers d’écriture et de mise en musique de leurs textes, en vue de représentations. Au cours des ateliers, les participants découvrent les rigueurs et les joies de la création d’un spectacle en communauté. Il s’agit d'un dépassement de soi par la mise à nu d’un vécu personnel livré à leurs codétenus et au monde. Cette fenêtre de liberté s’accorde sur scène avec des compositions de Bach, Purcell, Pachelbel, Philip Glass ou encore Franck Della Valle, interprétées par un quatuor à cordes issu de l’Orchestre de chambre de Paris.
-  Représentations le 27 janvier 2018 au *Théâtre Paris-Villette* à l’occasion du Festival Vis-à-Vis et le 10 novembre 2018, Le Centquatre, Paris", "https://www.youtube.com/watch?v=1KzP0Dc3YOY&feature=emb_imp_woyt", "Les Flibustiers du Qlassik"
+  Représentations le 27 janvier 2018 au *Théâtre Paris-Villette* à l’occasion du Festival Vis-à-Vis et le 10 novembre 2018, Le Centquatre, Paris", link="https://www.youtube.com/watch?v=1KzP0Dc3YOY&feature=emb_imp_woyt", linkText="Les Flibustiers du Qlassik"
 %}
 
 ### 2016-2017 - <span>Iliade <br> Mise en scène par Luca Giacomoni</span>
