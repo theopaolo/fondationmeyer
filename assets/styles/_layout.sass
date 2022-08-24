@@ -12,6 +12,9 @@ $aligns: ( start, center, end, stretch)
     auto-flow: column
     auto-columns: 1fr
 
+.nogrid
+  display: block
+
 @for $span from 2 through system.$grid-cols-count
   .col-span-#{$span}
     grid-column-end: span $span
@@ -19,7 +22,7 @@ $aligns: ( start, center, end, stretch)
 @for $start from 1 through system.$grid-cols-count
   .col-start-#{$start}
     grid-column-start: $start
-    
+
 @for $start from 1 through 12
   .row-start-#{$start}
     grid-row-start: $start

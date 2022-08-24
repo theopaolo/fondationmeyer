@@ -2,7 +2,7 @@
 title: Conservatoire de Paris
 order: 1
 links: [
-  { name: "Bousiers de la Fondation", url: '/beneficiaries/conservatoire/' },
+  { name: "Boursiers de la Fondation", url: '/beneficiaries/conservatoire/' },
   { name: "Conservatoire de Paris", url: 'https://www.conservatoiredeparis.fr/fr' } ]
 
 ---
