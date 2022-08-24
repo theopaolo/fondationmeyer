@@ -9,7 +9,6 @@ function getYears(list) {
   return years
 }
 
-// TODO : something
 document.addEventListener('alpine:init', () => {
   Alpine.store('beneficiaries', {
     db: new Dexie('BENE_DB'),
