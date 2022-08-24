@@ -23,7 +23,7 @@
   </header>
   {% endif %}
 
-  <main>
+  <main  {% if nogrid %} class="nogrid"  {% endif %}>
     {% block content %}{% endblock %}
 
     {% if links %}
