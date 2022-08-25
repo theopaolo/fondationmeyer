@@ -12,11 +12,12 @@
 <body class="grid" x-data={}>
   <div class="logo" role="navigation" aria-label="Fondation Logo">
     <a href="/" title="Fondation Meyer">
-    <img  srcset="/images/fondation-meyer-logo-mob.svg 480w,
-                /images/fondation-meyer-logo.svg 800w"
-                sizes="(max-width: 1000px) 480px, 800px"
-             src="/images/fondation-meyer-logo.svg"
-    alt="Fondation Meyer logo"></a>
+    <picture>
+      <source media="(max-width: 1000px)" srcset="/images/fondation-meyer-logo-mob.svg">
+      <source media="(min-width: 1200px)" srcset="/images/fondation-meyer-logo.svg">
+      <img src="/images/fondation-meyer-logo.svg" alt="Fondation Meyer logo">
+    </picture>
+    </a>
   </div>
 
   <nav class="" aria-label="Primary">
