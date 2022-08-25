@@ -11,7 +11,12 @@
 
 <body class="grid" x-data={}>
   <div class="logo" role="navigation" aria-label="Fondation Logo">
-    <a href="/" title="Fondation Meyer"><img src="/images/fondation-meyer-logo.svg" alt=""></a>
+    <a href="/" title="Fondation Meyer">
+    <img  srcset="/images/fondation-meyer-logo-mob.svg 480w,
+                /images/fondation-meyer-logo.svg 800w"
+                sizes="(max-width: 1000px) 480px, 800px"
+             src="/images/fondation-meyer-logo.svg"
+    alt="Fondation Meyer logo"></a>
   </div>
 
   {% include 'partials/nav.njk' %}
