@@ -30,7 +30,7 @@ Représentations le 3 mai 2019, Maison de la culture de Seine-Saint-Denis, Bobig
   Représentations le 27 janvier 2018 au Théâtre Paris-Villette à l’occasion du Festival Vis-à-Vis et le 10 novembre 2018, Le Centquatre, Paris"
 
 {% Aside "align-self-end" %}
-  [Les Flibustiers du Qlassik](https://www.youtube.com/watch?v=1KzP0Dc3YOY&feature=emb_imp_woyt)
+  [Les Flibustiers du Qlassik](https://www.youtube.com/watch?v=1KzP0Dc3YOY&feature=emb_imp_woyt){target="_blank"}
 {% endAside %}
 
 ### 2016-2017 - <span>Iliade <br> Mise en scène par Luca Giacomoni</span>
@@ -41,7 +41,7 @@ Représentations en janvier 2017 au Théâtre Paris-Villette à l’occasion du 
 Le spectacle est repris au Théâtre de Paris-Villette en du 6 au 16 juin 2018, et au Théâtre Monfort en août 2018 dans le cadre du Festival Paris l’été.
 
 {% Aside "align-self-end" %}
-  [Iliade](https://vimeo.com/270505779?login=true#_=_)
+  [Iliade](https://vimeo.com/270505779?login=true#_=_){target="_blank"}
 {% endAside %}
 
 ### 2017 - <span>Comment réhabiter le monde ?</span>

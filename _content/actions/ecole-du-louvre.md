@@ -2,7 +2,7 @@
 title: École du Louvre
 order: 4
 links: [
-  { name: "École du Louvre", url: 'https://www.ecoledulouvre.fr/' } ]
+  { name: "École du Louvre", url: 'https://www.ecoledulouvre.fr/', target: "_blank"} ]
 ---
 
 L’École du Louvre a mis en place un fonds de dotation permettant d’attribuer des bourses de vie à ses élèves afin de créer de meilleures conditions d’étude et de renforcer l’égalité des chances pour qu’aucun élève sélectionné n’abandonne son cursus en raison de difficultés économiques ou sociales.

@@ -15,7 +15,7 @@ Après des périodes de résidence de création et un travail au long cours avec
 Représentations du 29 septembre au 9 octobre 2021 au théâtre Le Monfort, Paris
 
 {% Aside "align-self-end" %}
-[Hamlet](https://vimeo.com/599375352?embedded=true&source=vimeo_logo&owner=5973674)
+[Hamlet](https://vimeo.com/599375352?embedded=true&source=vimeo_logo&owner=5973674){target="_blank"}
 {% endAside %}
 
 
@@ -29,7 +29,7 @@ Lieu d’accueil et d’accompagnement juridique, psychologique et médical pour
 Représentations du 16 janvier au 14 février 2020 au Théâtre de la Tempête
 
 {% Aside  "align-self-end"%}
-  [Métamorphoses](https://vimeo.com/402205702?embedded=true&source=vimeo_logo&owner=5973674)
+  [Métamorphoses](https://vimeo.com/402205702?embedded=true&source=vimeo_logo&owner=5973674){target="_blank"}
 {% endAside %}
 
 ### 2018 - <span>Une place au soleil <br> réalisation Florence Ossowski</span>
@@ -61,7 +61,7 @@ Encadrés par des réalisateurs professionnels de la région, ces temps de créa
 Les films sont diffusés au sein des quartiers où ils ont été tournés, mais aussi en dehors de la ville, dans des cinémas partenaires.
 
 {% Aside "align-self-end" %}
-  [La CinéFabrique](https://vimeo.com/293143737?embedded=true&source=vimeo_logo&owner=38895260)
+  [La CinéFabrique](https://vimeo.com/293143737?embedded=true&source=vimeo_logo&owner=38895260){target="_blank"}
 {% endAside %}
 
 
@@ -114,7 +114,7 @@ Chaque année un ouvrage est financé par la Fondation, qui rend compte du trava
 Détrempe sur carton, 35,9 x 29 cm
 
 {% Aside "align-self-end" %}
-  [Misia à sa coiffeuse](https://www.musee-orsay.fr/fr/oeuvres/misia-sa-coiffeuse-128544)
+  [Misia à sa coiffeuse](https://www.musee-orsay.fr/fr/oeuvres/misia-sa-coiffeuse-128544){target="_blank"}
 {% endAside %}
 
 ### 2003 - <span>Paysage avec "Le pauvre pêcheur" de Puvis de Chavannes, Vers 1881 <br> Georges Seurat</span>
@@ -122,7 +122,7 @@ Détrempe sur carton, 35,9 x 29 cm
 Huile sur bois parqueté, 17,5 x 26,5 cm
 
 {% Aside "align-self-end" %}
-[Paysage avec "Le pauvre pêcheur" de Puvis de Chavannes](https://www.musee-orsay.fr/fr/oeuvres/paysage-avec-le-pauvre-pecheur-de-puvis-de-chavannes-119389)</span>
+[Paysage avec "Le pauvre pêcheur" de Puvis de Chavannes](https://www.musee-orsay.fr/fr/oeuvres/paysage-avec-le-pauvre-pecheur-de-puvis-de-chavannes-119389){target="_blank"}
 {% endAside %}
 
 ### 2000 - <span>Les Villas à Bordighera, 1884  <br> Claude Monet</span>
@@ -130,14 +130,14 @@ Huile sur bois parqueté, 17,5 x 26,5 cm
 Huile sur toile, 116,5 x 136,5 cm
 
 {% Aside "align-self-end" %}
-  [Les Villas à Bordighera](https://www.musee-orsay.fr/fr/oeuvres/les-villas-bordighera-97724)
+  [Les Villas à Bordighera](https://www.musee-orsay.fr/fr/oeuvres/les-villas-bordighera-97724){target="_blank"}
 {% endAside %}
 
 ### 1999 - <span>Paysage de neige, 1904 <br> Cuno Amiet</span>
 Huile sur toile, 178,5 x 236,2 cm
 
 {% Aside "align-self-end" %}
-  [Paysage de neige](https://www.musee-orsay.fr/fr/oeuvres/schneelandschaft-102671)
+  [Paysage de neige](https://www.musee-orsay.fr/fr/oeuvres/schneelandschaft-102671){target="_blank"}
 {% endAside %}
 
 ### 1998 - <span>Berthe Morisot au bouquet de violettes En 1872 <br>Edouard Manet </span>
@@ -145,21 +145,21 @@ Huile sur toile, 178,5 x 236,2 cm
 Huile sur toile, 55,5 x 40,5 cm
 
 {% Aside "align-self-end" %}
-  [Berthe Morisot au bouquet de violettes](https://www.musee-orsay.fr/fr/oeuvres/berthe-morisot-au-bouquet-de-violettes-100102)
+  [Berthe Morisot au bouquet de violettes](https://www.musee-orsay.fr/fr/oeuvres/berthe-morisot-au-bouquet-de-violettes-100102){target="_blank"}
 {% endAside %}
 
 ### 1997 - <span>GALATÉE, VERS 1880 <br>GUSTAVE MOREAU</span>
 Huile sur bois, 85,5 x 66 cm
 
 {% Aside "align-self-end"%}
-[Galatée](https://www.musee-orsay.fr/fr/oeuvres/galatee-85469)
+[Galatée](https://www.musee-orsay.fr/fr/oeuvres/galatee-85469){target="_blank"}
 {% endAside %}
 
 ### 1997 - <span>Vue de Capolago, VERS 1907 <br> GIOVANNI GIACOMETTI</span>
 Huile sur toile, 51,5 x 60 cm
 
 {% Aside "align-self-end"%}
-  [Vue de Capolago](https://www.musee-orsay.fr/fr/oeuvres/vue-de-capolago-85468)
+  [Vue de Capolago](https://www.musee-orsay.fr/fr/oeuvres/vue-de-capolago-85468){target="_blank"}
 {% endAside %}
 
 
