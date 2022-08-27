@@ -142,3 +142,5 @@ dist
 # Generated Site directory
 _site
 _site/*
+
+.DS_Store
