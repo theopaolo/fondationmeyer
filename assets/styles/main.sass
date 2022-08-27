@@ -9,6 +9,9 @@ body
   grid-template-columns: min-content auto
   grid-template-areas: 'logo   heading' 'nav    content' 'footer -'
 
+.mobile-only
+  display: none
+
 .loading
   position: absolute
 
@@ -100,7 +103,7 @@ main
         color: var(--clr-neutral-900)
       &::after
         content: url('data:image/svg+xml;utf8,<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.3333 10.2222V15.5556C14.3333 16.0271 14.146 16.4792 13.8126 16.8126C13.4792 17.146 13.0271 17.3333 12.5556 17.3333H2.77778C2.30628 17.3333 1.8541 17.146 1.5207 16.8126C1.1873 16.4792 1 16.0271 1 15.5556V5.77778C1 5.30628 1.1873 4.8541 1.5207 4.5207C1.8541 4.1873 2.30628 4 2.77778 4H8.11111" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/><path d="M11.6665 1H16.9998V6.33333" stroke="black" stroke-linecap="square" stroke-linejoin="round"/><path d="M17.7499 1C17.7499 0.585786 17.4142 0.25 16.9999 0.25H10.2499C9.83573 0.25 9.49995 0.585786 9.49995 1C9.49995 1.41421 9.83573 1.75 10.2499 1.75H16.2499V7.75C16.2499 8.16421 16.5857 8.5 16.9999 8.5C17.4142 8.5 17.7499 8.16421 17.7499 7.75V1ZM7.7525 11.3081L17.5303 1.53033L16.4696 0.46967L6.69184 10.2474L7.7525 11.3081Z" fill="black"/></svg>')
-        margin-left: var(--font-size-200)
+        margin-inline-start: var(--font-size-200)
 
   p a,
   a.aside
@@ -110,7 +113,7 @@ main
       color: var(--clr-neutral-900)
     &::after
       content: url('data:image/svg+xml;utf8,<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M14.3333 10.2222V15.5556C14.3333 16.0271 14.146 16.4792 13.8126 16.8126C13.4792 17.146 13.0271 17.3333 12.5556 17.3333H2.77778C2.30628 17.3333 1.8541 17.146 1.5207 16.8126C1.1873 16.4792 1 16.0271 1 15.5556V5.77778C1 5.30628 1.1873 4.8541 1.5207 4.5207C1.8541 4.1873 2.30628 4 2.77778 4H8.11111" stroke="black" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round"/><path d="M11.6665 1H16.9998V6.33333" stroke="black" stroke-linecap="square" stroke-linejoin="round"/><path d="M17.7499 1C17.7499 0.585786 17.4142 0.25 16.9999 0.25H10.2499C9.83573 0.25 9.49995 0.585786 9.49995 1C9.49995 1.41421 9.83573 1.75 10.2499 1.75H16.2499V7.75C16.2499 8.16421 16.5857 8.5 16.9999 8.5C17.4142 8.5 17.7499 8.16421 17.7499 7.75V1ZM7.7525 11.3081L17.5303 1.53033L16.4696 0.46967L6.69184 10.2474L7.7525 11.3081Z" fill="black"/></svg>')
-      margin-left: var(--font-size-200)
+      margin-inline-start: var(--font-size-200)
 
 
 .page-title
@@ -325,21 +328,51 @@ footer
 
 
 @media (max-width: 1000px)
+  .mobile-only
+    display: block
+
+  .nav-toggle
+    width: max-content
+    position: absolute
+    top: 0
+    right: var(--font-size-400)
+    font-family: var(--font-family-secondary)
+    font-size: var(--font-size-800)
+    text-transform: uppercase
+    z-index: 1001
+    cursor: pointer
+
   body
+    --grid-gap: var(--font-size-200)
+    padding-inline: var(--font-size-200)
     grid-template-columns: auto
-    grid-template-areas: 'logo' 'heading' 'nav' 'content' 'footer'
+    grid-template-areas: 'logo' 'nav' 'heading' 'content' 'footer'
+
   nav
-    width: 100%
+    grid-area: unset
     padding: unset
-    ul li:nth-child(2)
+    position: absolute
+    inset: 0
+    width: 100%
+    z-index: 999
+    display: grid
+    justify-content: center
+    align-content: center
+    background: rgb(255 255 255 / 0.95)
+    transform: translateX(-100%)
+    transition: transform 0.5s ease, opacity 0.1ms 0.6s linear
+    opacity: 0
+
+    &[data-visible="true"]
+      transform: translateX(0)
+      opacity: 1
+      transition: transform 0.5s ease, opactiy 0.1ms linear
+
+    ul .secondary
+      padding-inline-start: unset
+
+    .nav-toggle
       position: absolute
-      margin-left: 10%
-    ul.secondary
-      flex-wrap: wrap
-      flex-direction: row
-      padding: unset
-      li
-        max-width: 100%
-        &:nth-child(2)
-          position: relative
-          margin-left: unset
+      top: 1em
+      right: 1em
+

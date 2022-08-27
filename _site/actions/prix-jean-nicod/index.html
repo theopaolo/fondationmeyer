@@ -5,6 +5,10 @@
   <meta charset="UTF-8">
   <title>Fondation Meyer : Prix Jean-Nicod</title>
 
+  <!-- viewport meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
   <!-- stylesheet -->
   <link rel="stylesheet" href="/assets/css/main.css">
 </head>
@@ -20,10 +24,11 @@
     </a>
   </div>
 
-  <nav class="" aria-label="Primary">
-  <ul class="primary" role="list">
+  <div x-data class="mobile-only nav-toggle" @click="$store.mobile.toggleNav()" x-text="$store.mobile.navVisible ? 'close' : 'menu'"></div>
+<nav class="" aria-label="Primary" x-bind:data-visible="$store.mobile.navVisible">
+<ul class="primary" role="list">
+    <ul role="list" class="secondary">
     <li><span class="font-family-secondary font-size-700">Actions</span>
-      <ul role="list" class="secondary">
         
         
         
@@ -76,6 +81,8 @@
           class="font-family-secondary font-size-700">Actualités</span></a></li>
   </ul>
 </nav>
+
+<script src="/assets/js/mobileNav.js" type="module"></script>
 
 
   
