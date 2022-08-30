@@ -5,7 +5,7 @@ order: 5
 
 Le projet de création d’un musée dédié à l’œuvre de Pierre Bonnard est né au début des années 2000 d’un faisceau de volontés conjointes, notamment celle de Philippe Meyer, alors président de la Fondation, de Françoise Cachin, directrice des Musées de France et de Michèle Tabarot, député maire du Cannet. Il était apparu d’emblée que le futur musée devait naturellement se trouver sur les lieux mêmes où Bonnard avait vécu de 1926 à sa mort en 1947.
 
-Dès 2003, la municipalité mettait en œuvre une stratégie d’acquisition conjointe avec les Musées de France à laquelle la Fondation Meyer prenait largement part en acquérant successivement plusieurs œuvres pour en faire don à l’état.
+Dès 2003, la municipalité mettait en œuvre une stratégie d’acquisition conjointe avec les Musées de France à laquelle la Fondation Meyer prenait largement part en acquérant successivement plusieurs œuvres pour en faire don à l’État.
 
 Inauguré le 25 juin 2011, le Musée Bonnard du Cannet est le premier musée à se consacrer intégralement à cette figure marquante de la peinture du XX<sup>e</sup> siècle.
 

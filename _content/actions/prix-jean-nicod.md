@@ -11,12 +11,12 @@ Les conférences sont organisées annuellement par l’Institut Jean-Nicod, Unit
 
 ## lauréats
 
-### 2022 - <span>Peter Godfrey Smith</span>
+### 2022 - <span>Peter Godfrey-Smith</span>
 
 Le prix est attribué à Peter Godfrey-Smith pour sa recherche intitulée *The Evolution of Experience*. Peter Godfrey-Smith est professeur d'histoire et de philosophie des sciences à l'Université de Sydney, en Australie.
 
 {% Aside "align-self-end" %}
-  [Peter Godfrey Smith](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/conferences-et-prix-jean-nicod-2022/article/conferences-et-prix-jean-nicod-2022?lang=en&var_mode=calcul){target="_blank"}
+  [Peter Godfrey-Smith](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/conferences-et-prix-jean-nicod-2022/article/conferences-et-prix-jean-nicod-2022?lang=en&var_mode=calcul){target="_blank"}
 {% endAside %}
 
 ### 2021 - <span>Frances Egan</span>
@@ -27,12 +27,12 @@ Le prix est attribué à France Egan pour sa recherche intitulée *Deflating Men
   [Frances Egan](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/conferences-et-prix-jean-nicod-2021/article/jean-nicod-lectures-and-prize-2021?lang=en){target="_blank"}
 {% endAside %}
 
-### 2020 - <span>Leda Cosmides & John Tooby California</span>
+### 2020 - <span>Leda Cosmides & John Tooby</span>
 
 Leda Cosmides et John Tooby sont connus pour leurs travaux de pionniers dans le domaine de la psychologie évolutionniste et des sciences cognitives. Après des études à Harvard et Stanford, ils ont été nommés professeurs à l’Université de Californie à Santa Barbara où ils dirigent le Center for Evolutionary Psychology. Le prix leur est décerné pour leur recherche intitulée *The Adaptationist Revolution and the Transformation of the Cognitive Sciences*.
 
 {% Aside "align-self-end" %}
-  [Leda Cosmides & John Tooby California](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/recipiendaires-du-prix-jean-nicod-depuis-1993/conferences-et-prix-jean-nicod-2020/?lang=fr&var_mode=calcul){target="_blank"}
+  [Leda Cosmides & John Tooby](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/recipiendaires-du-prix-jean-nicod-depuis-1993/conferences-et-prix-jean-nicod-2020/?lang=fr&var_mode=calcul){target="_blank"}
 {% endAside %}
 
 ### 2019 - <span>Martine Nida-Rümelin</span>
