@@ -15,7 +15,7 @@ Inauguré le 25 juin 2011, le Musée Bonnard du Cannet est le premier musée à 
 Huile sur toile 51,9 x 34,9 cm
 
 {% Aside "align-self-end" %}
-  [L’Amandier](https://www.museebonnard.fr/index.php/fr/la-collection-du-musee/la-collection-en-ligne#/artwork/510000000000857?filters=category_query%253Atitles%253Aamandier&page=1&layout=grid&sort=by_author){target="_blank"}
+  [L’Amandier](https://www.museebonnard.fr/index.php/fr/la-collection-du-musee/la-collection-en-ligne#/artwork/510000000000857?filters=category_query%3Atitles%3Aamandier&amp;page=1&amp;layout=grid&amp;sort=by_author){target="_blank"}
 {% endAside %}
 
 ### 2009 - <span>La Symphonie pastorale, entre 1916 et 1920</span>

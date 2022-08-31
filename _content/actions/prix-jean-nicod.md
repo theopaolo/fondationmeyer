@@ -48,7 +48,7 @@ Le prix est décerné à Martine Nida-Rümelin pour ses recherches intitulées *
 Le prix est décerné à John Campbell pour ses recherches intitulées *How language enters perception*. John Campbell a rejoint en 2014 l’université de Californie à Berkeley où il est actuellement professeur de philosophie.
 
 {% Aside "align-self-end" %}
-  [John Campbell](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/recipiendaires-du-prix-jean-nicod-depuis-1993/m-nida-rumelin-2019/?lang=fr){target="_blank"}
+  [John Campbell](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/recipiendaires-du-prix-jean-nicod-depuis-1993/j-campbell-2017/?lang=fr){target="_blank"}
 {% endAside %}
 
 ### 2016 - <span>Patrick Haggard</span>
