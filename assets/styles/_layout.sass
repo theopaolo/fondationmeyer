@@ -13,7 +13,13 @@ $aligns: ( start, center, end, stretch)
     auto-columns: 1fr
 
 .nogrid
-  display: block
+  gap: unset
+  h3
+    margin-bottom: var(--font-size-600)
+  aside
+    margin-bottom: var(--font-size-600)
+  p:last-child
+    margin-bottom: var(--font-size-600)
 
 @for $span from 2 through system.$grid-cols-count
   .col-span-#{$span}
