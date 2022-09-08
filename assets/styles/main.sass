@@ -48,6 +48,9 @@ nav
 
         &.active
           color: var(--clr-neutral-900)
+      &:first-child
+        text-transform: uppercase
+        margin-inline-start: calc(-1 * var(--font-size-400))
 
 a
   color: var(--clr-neutral-300)
@@ -273,7 +276,7 @@ nav.filters
           text-decoration: none
           color: var(--clr-neutral-900)
 
-.discipline, .description, aide
+.discipline, .description, .aide
   text-transform: lowercase
 
 input[type=text]
@@ -373,6 +376,9 @@ footer
 
     ul .secondary
       padding-inline-start: unset
+      li
+        &:first-child
+          margin-inline-start: 0 !important
 
     .nav-toggle
       position: absolute
@@ -382,3 +388,8 @@ footer
 @media (max-width: 600px)
   main
     display: block
+  .nogrid
+    h3
+      margin: unset
+    aside
+      margin-bottom: var(--font-size-600)

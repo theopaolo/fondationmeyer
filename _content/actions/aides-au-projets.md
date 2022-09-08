@@ -58,7 +58,7 @@ Ateliers de cinéma
 
 Aspirant à s’ouvrir à son territoire, la CinéFabrique a mis en place des ateliers de pratique cinématographique dans des villes de la région Auvergne Rhône-Alpes. Ces ateliers sont destinés à différents groupes de jeunes entre 15 et 20 ans issus de quartiers prioritaires ou vivant en zones rurales – et ayant peu d’accès aux pratiques artistiques.
 Encadrés par des réalisateurs professionnels de la région, ces temps de création initiés à Saint-Etienne, Bourg-en-Bresse, Pierre-Bénite, Saint-Priest, Vaulx-en-Velin et Villeurbanne, permettent tout au long de l’année à une soixantaine de participants d’écrire et de réaliser des courts-métrages de fiction. De la découverte à l’expérimentation, les jeunes sont la fois comédiens et régisseurs, en lien avec des professionnels du cinéma sur tous ses aspects : régie, décors, transport, musique, figuration, etc.
-Les films sont diffusés au sein des quartiers où ils ont été tournés, mais aussi en dehors de la ville, dans des cinémas partenaires.
+Les films sont diffusés au sein des quartiers où ils ont été tournés, mais aussi en dehors de la ville, dans des cinémas partenaires.<br><br>
 
 {% Aside "align-self-end" %}
   [La CinéFabrique](https://vimeo.com/293143737?embedded=true&source=vimeo_logo&owner=38895260){target="_blank"}
@@ -118,9 +118,7 @@ Détrempe sur carton, 35,9 x 29 cm
 {% endAside %}
 
 ### 2003 - <span>Paysage avec "Le pauvre pêcheur" de Puvis de Chavannes, Vers 1881 <br> Georges Seurat</span>
-
 Huile sur bois parqueté, 17,5 x 26,5 cm
-
 {% Aside "align-self-end" %}
 [Paysage avec "Le pauvre pêcheur" de Puvis de Chavannes](https://www.musee-orsay.fr/fr/oeuvres/paysage-avec-le-pauvre-pecheur-de-puvis-de-chavannes-119389){target="_blank"}
 {% endAside %}
