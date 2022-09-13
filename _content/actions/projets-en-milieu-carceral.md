@@ -7,15 +7,13 @@ Dans le prolongement de ses actions, la Fondation Meyer soutient depuis 2017 des
 
 Ces ateliers d’écriture, de musique et de production, les temps de rencontres et les représentations publiques sont menés avec des artistes professionnels issus de champs disciplinaires tels que le spectacle vivant, la musique, les arts visuels, la danse ou la littérature. Ils sont réalisés en accord avec les missions d'insertion et de prévention de la récidive de l'administration pénitentiaire du ministère de la Justice.
 
-Ces expériences collectives menées régulièrement avec la maison d’arrêt de Fleury-Mérogis, les Centres pénitentiaires de Nanterre et de Meaux-Chauconin ont été suivies par Emmanuel Courcol et l’ont inspiré pour son film *Un Triomphe*, sorti en salles en 2021. Parmi les participants aux différents programmes, trois détenus sont devenus comédiens professionnels à leur sortie de prison et ont intégré une compagnie de théâtre.
-
 ### 2019-2020 - <span>Watch <br> Mise en scène Olivier Fredj</span>
 
-Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin<br>
-Le spectacle *Watch* est le fruit d’ateliers d’écriture, d’improvisation théâtrale et de mise en musique, réunissant sur scène des interprètes amateurs et des artistes professionnels, qui incarnent tour à tour le personnage du Temps.
-Les dix détenus participant au projet sont à la fois les interprètes et les auteurs des textes, guidés par les auteurs Yann Apperry, Sylvie Ballul, Célia Houdart et Judith Perrignon, chaque semaine pendant près d’un an. En parallèle, les musiciens de l’orchestre interviennent régulièrement pour leur faire découvrir et s’approprier les répertoires classique et contemporain, composant le cœur musical du spectacle.
-*Watch* réunit également des patients de l’hôpital la Pitié-Salpêtrière, des personnes mal-logées du centre d’hébergement d’urgence Popincourt du Samu social, et des personnes âgées résidentes de l’EHPAD Hector Berlioz de Bobigny.<br>
-Représentation le 25 septembre 2020, Maison de la culture de Seine-Saint-Denis, Bobigny (MC 93)
+Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin <br>
+Le spectacle Watch est le fruit d’ateliers d’écriture, d’improvisation théâtrale et de mise en musique, réunissant sur scène des interprètes amateurs et des artistes professionnels, qui incarnent tour à tour le personnage du Temps.<br>
+Watch porte les textes écrits par des patients de l’hôpital la Pitié-Salpêtrière, des personnes mal-logées du centre d’hébergement d’urgence Popincourt du Samu social, et des personnes âgées résidentes de l’EHPAD Hector Berlioz de Bobigny, encadrés lors d’ateliers d’écriture par les auteurs Yann Apperry, Sylvie Ballul, Célia Houdart et Judith Perrignon.<br>
+Les dix détenus participant au projet sont à la fois les interprètes et les auteurs des textes. En parallèle, les musiciens de l’orchestre interviennent régulièrement pour leur faire découvrir et s’approprier les répertoires classique et contemporain, composant le cœur musical du spectacle.<br>
+Représentation publique le 25 septembre 2020, Maison de la culture de Seine-Saint-Denis, Bobigny (MC 93)
 
 ### 2018-2019 - <span>Douze cordes <br> Mise en scène Hervé Sika</span>
 
@@ -56,5 +54,5 @@ Représentations le 27 janvier 2018 au Théâtre Paris-Villette à l’occasion 
 
 ### 2018-2021 - <span>Ateliers chorales et concerts</span>
 Association En Chœur et Maison d’arrêt de Fleury-Mérogis<br>
-Née en 2017, l’association En Chœur permet aux personnes détenues d’avoir accès au monde de la musique classique. À partir de septembre 2018, grâce au soutien de la fondation Meyer, trois typologies d’actions se mettent en place à la Maison d’arrêt des femmes de Fleury-Mérogis : des ateliers de chants pour des groupes de personnes incarcérées ; des interventions d’instrumentistes de musique classique ; des concerts en détention.<br>
+Née en 2017, l’association En Chœur permet aux personnes détenues d’avoir accès au monde de la musique classique. À partir de septembre 2018, avec le soutien de la fondation Meyer, trois typologies d’actions se mettent en place à la Maison d’arrêt des femmes de Fleury-Mérogis : des ateliers de chants pour des groupes de personnes incarcérées ; des interventions d’instrumentistes de musique classique ; des concerts en détention.<br>
 Le premier concert est donné en décembre 2018 accompagné par des musiciens de l’Orchestre philarmonique de Radio France, ouvrant la voie à de nombreuses autres représentations.

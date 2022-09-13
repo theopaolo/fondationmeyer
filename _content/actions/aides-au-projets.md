@@ -81,13 +81,13 @@ Représentations le 3 février 2018 au Petit Palais à Paris, le 27 janvier 2018
 
 Musiques traditionnelles d’Europe orientale et du Moyen-Orient.
 
-Le Festival Errichetta est l'initiative d'une communauté de musiciens, unis par une passion pour la musique traditionnelle. Une passion matérialisée dans l'étude pratique de traditions spécifiques, accompagnée d'une fascination pour les significations originales et les rôles joués par la musique dans ses communautés. Rendez-vous annuel européen de professionnels et étudiants, le festival est un lieu de retrouvailles pour la communauté de musiciens, musicologues et amateurs mais aussi un laboratoire de partage et d’inspirations, prenant la forme de concerts et d'ateliers pédagogiques.<br><br>
+Le Festival Errichetta est l'initiative d'une communauté de musiciens, unis par une passion pour la musique traditionnelle, matérialisée dans l'étude pratique de traditions spécifiques et le rôle joué par la musique dans ces communautés. Rendez-vous annuel européen de professionnels et étudiants, le festival est un lieu de retrouvailles pour la communauté de musiciens, musicologues et amateurs mais aussi un laboratoire de partage et d’inspirations, prenant la forme de concerts et d'ateliers pédagogiques.<br><br>
 
 
 ### 2015-2019 - <span>Colloques internationaux de philosophie</span>
 <br>
 
-À l’initiative de l’Université de Franche-Conté et de IDEA - Association pour la promotion de la création contemporaine, une série de colloques internationaux ont réuni universitaires et chercheurs autour de la philosophie idéaliste, depuis ses fondements platoniciens, ses ouvertures avec Leibniz, Kant et Hegel au tournant des XVII<sup>e</sup> et XVIII<sup>e</sup> siècles, jusqu’au renouveau de l’idéalisme contemporain.
+À l’initiative de l’Université de Franche-Comté et de IDEA - Association pour la promotion de la création contemporaine, une série de colloques internationaux ont réuni universitaires et chercheurs autour de la philosophie idéaliste, depuis ses fondements platoniciens, ses ouvertures avec Leibniz, Kant et Hegel au tournant des XVII<sup>e</sup> et XVIII<sup>e</sup> siècles, jusqu’au renouveau de l’idéalisme contemporain.
 Les colloques soutenus sont les suivants : *Puissance de l’abstraction*, 20-21 novembre 2015, Université de Franche-Comté, Besançon ; *La puissance de l’être*. *Le renouveau de l’idéalisme*, 27-28 octobre 2016, Université de Bari, Italie ; *La forme et l’idée*, dans le cadre des Rencontres philosophiques France-Israël, 3 mai 2017, Université hébraïque de Jérusalem, Israël ; *Le désir d’Universalité*, dans le cadre des Rencontres internationales de l’Idéalisme, 6-7-8 novembre 2017, Institut de France et École Normale Supérieure, Paris ; *Orient-Occident*, dans le cadre des Rencontres internationales de l’Idéalisme (4), 30-31 mars 2018, Université Fu-Jen Catholic University, Tapeï, Taïwan ; *La philosophie idéaliste : éléments d’histoire et perspectives*, 5 novembre 2018, Institut de France, Paris ; *Le mal dans l’idéalisme allemand*, dans le cadre des Rencontres internationales de l’Idéalisme, 8-9-10 mai 2019, Institut de philosophie, Université d’Humboldt, Berlin.<br><br>
 
 
@@ -97,68 +97,12 @@ Les colloques soutenus sont les suivants : *Puissance de l’abstraction*, 20-
 En 2014, les ateliers pédagogiques du Musée d’art Moderne de la Ville de Paris, utilisés par les établissements scolaires et centres de loisirs dans le cadre du programme *Les écoles Amies des Musées,* ont été rénovés grâce au soutien de la Fondation Meyer. La réfection des puits de lumière et différents travaux d’aménagement du petit atelier, du grand atelier et de leurs voies d’accès ont ainsi pu faire l’objet d’un complet réaménagement.<br><br>
 
 
-### 2009 - 2013 - <span>L’Art pour grandir</span>
+### 2009 - 2014 - <span>L’Art pour grandir</span>
 <br>
 
 Par sa contribution au projet de la Mairie de Paris, *L’Art pour grandir*, destiné à développer l’accès des enfants à la culture et à ses institutions, la Fondation Meyer soutient un principe qui lui tient à cœur : le patrimoine français appartient à tous ceux qui vivent sur son sol, comme leur appartient le droit d’y avoir accès, de le connaître et de l’apprécier. Plus encore, la notion de patrimoine dépassant largement le cadre muséographique, la Fondation est attachée à ce que chacun, l’enfant le tout premier, se reconnaisse comme dépositaire et responsable de ce patrimoine.
 Or, dans certains quartiers défavorisés de Paris, cet accès n’est pas prioritaire, tant à cause des arbitrages financiers délicats qu’à cause du souci de privilégier d’autres aspects des bases scolaires et sociales.
-C’est dans cette optique que la Fondation s’est engagée en 2009 dans un partenariat sur 5 ans avec l’école élémentaire du Faubourg Saint Denis et le Musée d’art moderne de la Ville de Paris. La Fondation accompagne un projet de développement culturel concernant plusieurs classes et impliquant des actions liées aux collections permanentes et aux expositions temporaires du Musée.
-Chaque année un ouvrage est financé par la Fondation, qui rend compte du travail effectué par les enfants et leurs enseignants, et des résultats obtenus.
-
-
-## Participation à l’achat de tableaux pour les musées de France
-<br><br>
-
-### 2004 - <span>Misia à sa coiffeuse, En 1898 <br> Félix Vallotton</span>
-
-Détrempe sur carton, 35,9 x 29 cm
-
-{% Aside "align-self-end" %}
-  [Misia à sa coiffeuse](https://www.musee-orsay.fr/fr/oeuvres/misia-sa-coiffeuse-128544){target="_blank"}
-{% endAside %}
-
-### 2003 - <span>Paysage avec "Le pauvre pêcheur" de Puvis de Chavannes, Vers 1881 <br> Georges Seurat</span>
-Huile sur bois parqueté, 17,5 x 26,5 cm
-{% Aside "align-self-end" %}
-[Paysage avec "Le pauvre pêcheur" de Puvis de Chavannes](https://www.musee-orsay.fr/fr/oeuvres/paysage-avec-le-pauvre-pecheur-de-puvis-de-chavannes-119389){target="_blank"}
-{% endAside %}
-
-### 2000 - <span>Les Villas à Bordighera, 1884  <br> Claude Monet</span>
-
-Huile sur toile, 116,5 x 136,5 cm
-
-{% Aside "align-self-end" %}
-  [Les Villas à Bordighera](https://www.musee-orsay.fr/fr/oeuvres/les-villas-bordighera-97724){target="_blank"}
-{% endAside %}
-
-### 1999 - <span>Paysage de neige, 1904 <br> Cuno Amiet</span>
-Huile sur toile, 178,5 x 236,2 cm
-
-{% Aside "align-self-end" %}
-  [Paysage de neige](https://www.musee-orsay.fr/fr/oeuvres/schneelandschaft-102671){target="_blank"}
-{% endAside %}
-
-### 1998 - <span>Berthe Morisot au bouquet de violettes En 1872 <br>Edouard Manet </span>
-
-Huile sur toile, 55,5 x 40,5 cm
-
-{% Aside "align-self-end" %}
-  [Berthe Morisot au bouquet de violettes](https://www.musee-orsay.fr/fr/oeuvres/berthe-morisot-au-bouquet-de-violettes-100102){target="_blank"}
-{% endAside %}
-
-### 1997 - <span>GALATÉE, VERS 1880 <br>GUSTAVE MOREAU</span>
-Huile sur bois, 85,5 x 66 cm
-
-{% Aside "align-self-end"%}
-[Galatée](https://www.musee-orsay.fr/fr/oeuvres/galatee-85469){target="_blank"}
-{% endAside %}
-
-### 1997 - <span>Vue de Capolago, VERS 1907 <br> GIOVANNI GIACOMETTI</span>
-Huile sur toile, 51,5 x 60 cm
-
-{% Aside "align-self-end"%}
-  [Vue de Capolago](https://www.musee-orsay.fr/fr/oeuvres/vue-de-capolago-85468){target="_blank"}
-{% endAside %}
+La Fondation s’est engagée en 2009 dans un partenariat sur 5 ans entre le Musée d’art moderne de la Ville de Paris et une classe de l’école élémentaire du Faubourg Saint Denis. Le projet intitulé L’art pour grandir, destiné à développer l’accès des enfants à la culture et à ses institutions, a permis d’accompagner cette classe du CP au CM2. Chaque année, un ouvrage a été financé par la Fondation, qui rend compte du travail effectué par les enfants et leurs enseignants, et des résultats obtenus.
 
 
 

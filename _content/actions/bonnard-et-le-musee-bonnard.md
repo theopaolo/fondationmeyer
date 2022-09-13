@@ -9,6 +9,8 @@ Dès 2003, la municipalité mettait en œuvre une stratégie d’acquisition con
 
 Inauguré le 25 juin 2011, le Musée Bonnard du Cannet est le premier musée à se consacrer intégralement à cette figure marquante de la peinture du XX<sup>e</sup> siècle.
 
+[museebonnard.fr](museebonnard.fr/index.php/fr)
+
 ## DONS ET Participation À l’achat de tableaux de Pierre Bonnard
 
 ### 2014 - <span>L’Amandier, vers 1930</span>

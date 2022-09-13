@@ -59,7 +59,7 @@ Patrick Haggard est Professeur en neurosciences cognitives à l’Institute of C
   [Patrick Haggard](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/recipiendaires-du-prix-jean-nicod-depuis-1993/p-haggard-2016/?lang=fr){target="_blank"}
 {% endAside %}
 
-### 2016 - <span>David Chamlers</span>
+### 2015 - <span>David Chamlers</span>
 
 David Chalmers est Professeur de Philosophie et co-directeur du centre Mind, Brain, and Consciousness à New York University. Le prix lui est attribué pour ses recherches intitulées *Spatial experience and virtual reality*.
 
