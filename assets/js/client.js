@@ -2,7 +2,7 @@ import Alpine from 'https://unpkg.com/alpinejs@3.2.1/dist/module.esm.js'
 import Dexie from './dexie.mjs'
 
 function getYears(list) {
-  const years = list.map(y => y.annee).filter((elem, index, self) => {
+  const years = list.map((y) => y.annee).filter((elem, index, self) => {
     return index == self.indexOf(elem)
   })
 
@@ -10,7 +10,6 @@ function getYears(list) {
 }
 
 document.addEventListener('alpine:init', () => {
-
   Alpine.store('beneficiaries', {
     db: new Dexie('BENE_DB'),
     list: [],
@@ -62,16 +61,17 @@ document.addEventListener('alpine:init', () => {
     },
     async getYear(year) {
       try {
-        const query = await this.db.beneficiaries.where('annee').equals(year).toArray()
+        const query = await this.db.beneficiaries.where('annee').equals(year)
+          .toArray()
 
         this.list = [ ...query ]
       } catch (err) {
-        console.error(err) 
+        console.error(err)
       }
     },
     async searchBeneficiaries(search) {
       try {
-        const queries = search.split(' ').filter(q => q.length > 1)
+        const queries = search.split(' ').filter((q) => q.length > 1)
         let filtered = undefined
 
         for (let query of queries) {
@@ -81,12 +81,12 @@ document.addEventListener('alpine:init', () => {
               .filter((b) => {
                 return (
                   regex.test(b.nom) ||
-                regex.test(b.prenom) ||
-                regex.test(b.discipline) ||
-                regex.test(b.etudes) ||
-                regex.test(b.annee) ||
-                regex.test(b.aide) ||
-                regex.test(b.description)
+                  regex.test(b.prenom) ||
+                  regex.test(b.discipline) ||
+                  regex.test(b.etudes) ||
+                  regex.test(b.annee) ||
+                  regex.test(b.aide) ||
+                  regex.test(b.description)
                 )
               })
               .toArray()
@@ -112,6 +112,7 @@ document.addEventListener('alpine:init', () => {
     },
     toggleSearch() {
       this.searching = !this.searching
+      console.log(this.searching)
 
       if (!this.searching) {
         this.searchString = ''
@@ -132,13 +133,15 @@ document.addEventListener('alpine:init', () => {
       this.previousYear = year
       this.getYear(year)
       if (el) {
-        el.scrollIntoView({ block: 'end', inline: 'start', behavior: 'smooth' })
+        el.scrollIntoView({
+          block: 'end',
+          inline: 'start',
+          behavior: 'smooth',
+        })
       }
     },
   })
 })
-
-Alpine.start()
 
 function sortYearAlpha(array) {
   const year = array.sort((a, b) => a.annee - b.annee)
