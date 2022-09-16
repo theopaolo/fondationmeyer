@@ -112,7 +112,6 @@ document.addEventListener('alpine:init', () => {
     },
     toggleSearch() {
       this.searching = !this.searching
-      console.log(this.searching)
 
       if (!this.searching) {
         this.searchString = ''
