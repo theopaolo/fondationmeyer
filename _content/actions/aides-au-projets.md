@@ -19,12 +19,12 @@ Représentations du 29 septembre au 9 octobre 2021 au théâtre Le Monfort, Pari
 {% endAside %}
 
 
-### 2018 - <span>Métamorphoses  <br> Mise en scène Luca Giacomoni</span>
+### 2018 - <span>Métamorphoses <br> Mise en scène Luca Giacomoni</span>
 <br>
 
 La Maison des Femmes de Saint-Denis
 
-Lieu d’accueil et d’accompagnement juridique, psychologique et médical pour les femmes victimes de violences, la Maison des Femmes est créée par la gynécologue Ghada Hatem-Gantzer. Dans l’enceinte de l’hôpital de Saint-Denis à Paris, trois comédiennes et deux chanteuses accompagnent pendant près d’un an un groupe de femmes victimes de violences. L’importance de la parole par l’écriture et le théâtre ont fait émerger un cycle d’ateliers d’expression pour ces patientes souvent mutiques. À partir du poème Métamorphoses d’Ovide, le groupe compose une création théâtrale, où les témoignages personnels se fondent et recoupent les récits mythiques.
+Lieu d’accueil et d’accompagnement juridique, psychologique et médical pour les femmes victimes de violences, la Maison des Femmes est créée par la gynécologue Ghada Hatem-Gantzer. Dans l’enceinte de l’hôpital de Saint-Denis à Paris, trois comédiennes et deux chanteuses accompagnent pendant près d’un an un groupe de femmes victimes de violences. L’importance de la parole par l’écriture et le théâtre ont fait émerger un cycle d’ateliers d’expression pour ces patientes souvent mutiques. À partir du poème *Métamorphoses* d’Ovide, le groupe compose une création théâtrale, où les témoignages personnels se fondent et recoupent les récits mythiques.
 
 Représentations du 16 janvier au 14 février 2020 au Théâtre de la Tempête
 
@@ -39,16 +39,16 @@ Film documentaire, 48 minutes
 Fondation L’Élan Retrouvé, ESAT, établissement et service d’aide par le travail
 
 Pour fêter les 70 ans de la Fondation l’Elan Retrouvé, l’idée de faire un film donne naissance à un collectif vidéo, composé de travailleurs handicapés et d’encadrants volontaires. Pendant cinq mois, le groupe s’est réuni dans un atelier d’initiation à la prise de vue et à la réalisation documentaire.
-Le documentaire qui en résulte donne la parole à des travailleurs handicapés psychiques témoignant de l’importance du travail dans leur vie. Il offre leurs regards, plein d’humour et de lucidité sur le « monde ordinaire » qui les entoure, sur la place qu’ils peuvent se faire dans la société, sur leur vision de l’inclusion.
+Le documentaire qui en résulte donne la parole à des travailleurs handicapés psychiques témoignant de l’importance du travail dans leur vie. Il offre leurs regards, plein d’humour et de lucidité sur le « monde ordinaire » qui les entoure, sur la place qu’ils peuvent se faire dans la société, sur leur vision de l’inclusion.<br>
 Projections les 3, 4 et 5 décembre 2018 à l’ESAT, Fondation L’Élan Retrouvé et le 13 novembre 2019 à la Cité des Sciences et de l’Industrie à Paris, dans le cadre des Rencontres vidéo en santé mentale.<br><br>
 
 
 ### 2017-2019 - <span>Ensemble Intercontemporain, Paris</span>
 <br>
 
-Créé par Pierre Boulez en 1976 avec l’appui de Michel Guy – alors secrétaire d’État à la Culture – et la collaboration de Nicholas Snowman, l’Ensemble intercontemporain se consacre à la musique du XXe siècle à aujourd’hui. Les 31 musiciens solistes qui le composent sont placés, aujourd’hui, sous la direction du chef d’orchestre et compositeur Matthias Pintscher. Unis par une même passion pour la création, ils participent à l’exploration de nouveaux territoires musicaux aux côtés des compositeurs, auxquels des commandes de nouvelles œuvres sont passées chaque année.
+Créé par Pierre Boulez en 1976 avec l’appui de Michel Guy – alors secrétaire d’État à la Culture – et la collaboration de Nicholas Snowman, l’Ensemble intercontemporain se consacre à la musique du XX<sup>e</sup> siècle à aujourd’hui. Les 31 musiciens solistes qui le composent sont placés, aujourd’hui, sous la direction du chef d’orchestre et compositeur Matthias Pintscher. Unis par une même passion pour la création, ils participent à l’exploration de nouveaux territoires musicaux aux côtés des compositeurs, auxquels des commandes de nouvelles œuvres sont passées chaque année.
 
-La Fondation Meyer a soutenu la création de trois œuvres musicales : Hermès V de Philippe Schoeller pour 29 musiciens (2017), Concerto pour percussion et ensemble de Bruno Mantovani pour 30 musiciens (2018), et Nouvelle œuvre de Magnus Lindberg pour 25 à 31 musiciens (2019).<br><br>
+La Fondation Meyer a soutenu la création de trois œuvres musicales : *Hermès V* de Philippe Schoeller pour 29 musiciens (2017), *Concerto pour percussion et ensemble* de Bruno Mantovani pour 30 musiciens (2018), et *Nouvelle œuvre* de Magnus Lindberg pour 25 à 31 musiciens (2019).<br><br>
 
 
 ### 2017-2019 - <span>LA CINÉFABRIQUE</span>
@@ -70,8 +70,8 @@ Les films sont diffusés au sein des quartiers où ils ont été tournés, mais 
 
 Ensemble vocal Musicatreize
 
-Pour célébrer l’ouverture de la nouvelle salle dédiée à la collection des icônes et aux arts chrétiens d’orient du Musée du Petit-Palais, la conservatrice Raphaëlle Ziadé et le compositeur et archéologue Michel Petrossian ont composé une œuvre commune, une conférence-concert dans laquelle se rencontrent icônes byzantines du XVIIe siècle et musique actuelle. La conférence se base sur l’icône En Toi se réjouit de l’atelier de Franghias Kavertsas (Crète – entre 1615 et 1648).
-Le texte de Raphaëlle Ziadé et un hymne orthodoxe du XIVe siècle sont les bases de la musique de Michel Petrossian. Pendant que l’auteur dévoile peu à peu l’icône grâce à une création vidéo / multimédia diffusée en temps réel, la création musicale chantée par l’ensemble vocal Musicatreize se construit en parallèle. Chanter l’icône redonne vie à l’hymne originel sous une forme contemporaine, autant qu’elle anime musicalement un joyau des collections du Petit Palais.
+Pour célébrer l’ouverture de la nouvelle salle dédiée à la collection des icônes et aux arts chrétiens d’orient du Musée du Petit-Palais, la conservatrice Raphaëlle Ziadé et le compositeur et archéologue Michel Petrossian ont composé une œuvre commune, une conférence-concert dans laquelle se rencontrent icônes byzantines du XVII<sup>e</sup> siècle et musique actuelle. La conférence se base sur l’icône En Toi se réjouit de l’atelier de Franghias Kavertsas (Crète – entre 1615 et 1648).
+Le texte de Raphaëlle Ziadé et un hymne orthodoxe du XIV<sup>e</sup> siècle sont les bases de la musique de Michel Petrossian. Pendant que l’auteur dévoile peu à peu l’icône grâce à une création vidéo / multimédia diffusée en temps réel, la création musicale chantée par l’ensemble vocal Musicatreize se construit en parallèle. *Chanter l’icône* redonne vie à l’hymne originel sous une forme contemporaine, autant qu’elle anime musicalement un joyau des collections du Petit Palais.
 
 Représentations le 3 février 2018 au Petit Palais à Paris, le 27 janvier 2018 à Pigna et le 2 février 2018 à Marseille.<br><br>
 
@@ -87,8 +87,8 @@ Le Festival Errichetta est l'initiative d'une communauté de musiciens, unis par
 ### 2015-2019 - <span>Colloques internationaux de philosophie</span>
 <br>
 
-À l’initiative de l’Université de Franche-Conté et de IDEA - Association pour la promotion de la création contemporaine, une série de colloques internationaux ont réuni universitaires et chercheurs autour de la philosophie idéaliste, depuis ses fondements platoniciens, ses ouvertures avec Leibniz, Kant et Hegel au tournant des 17e et 18e siècles, jusqu’au renouveau de l’idéalisme contemporain.
-Les colloques soutenus sont les suivants : *Puissance de l’abstraction*, 20-21 novembre 2015, Université de Franche-Comté, Besançon ; *La puissance de l’être*. *Le renouveau de l’idéalisme*, 27-28 octobre 2016, Université de Bari, Italie ; La forme et l’idée, dans le cadre des Rencontres philosophiques France-Israël, 3 mai 2017, Université hébraïque de Jérusalem, Israël ; *Le désir d’Universalité*, dans le cadre des Rencontres internationales de l’Idéalisme, 6-7-8 novembre 2017, Institut de France et École Normale Supérieure, Paris ; *Orient-Occident*, dans le cadre des Rencontres internationales de l’Idéalisme (4), 30-31 mars 2018, Université Fu-Jen Catholic University, Tapeï, Taïwan ; *La philosophie idéaliste : éléments d’histoire et perspectives*, 5 novembre 2018, Institut de France, Paris ; *Le mal dans l’idéalisme allemand*, dans le cadre des Rencontres internationales de l’Idéalisme, 8-9-10 mai 2019, Institut de philosophie, Université d’Humboldt, Berlin.<br><br>
+À l’initiative de l’Université de Franche-Conté et de IDEA - Association pour la promotion de la création contemporaine, une série de colloques internationaux ont réuni universitaires et chercheurs autour de la philosophie idéaliste, depuis ses fondements platoniciens, ses ouvertures avec Leibniz, Kant et Hegel au tournant des XVII<sup>e</sup> et XVIII<sup>e</sup> siècles, jusqu’au renouveau de l’idéalisme contemporain.
+Les colloques soutenus sont les suivants : *Puissance de l’abstraction*, 20-21 novembre 2015, Université de Franche-Comté, Besançon ; *La puissance de l’être*. *Le renouveau de l’idéalisme*, 27-28 octobre 2016, Université de Bari, Italie ; *La forme et l’idée*, dans le cadre des Rencontres philosophiques France-Israël, 3 mai 2017, Université hébraïque de Jérusalem, Israël ; *Le désir d’Universalité*, dans le cadre des Rencontres internationales de l’Idéalisme, 6-7-8 novembre 2017, Institut de France et École Normale Supérieure, Paris ; *Orient-Occident*, dans le cadre des Rencontres internationales de l’Idéalisme (4), 30-31 mars 2018, Université Fu-Jen Catholic University, Tapeï, Taïwan ; *La philosophie idéaliste : éléments d’histoire et perspectives*, 5 novembre 2018, Institut de France, Paris ; *Le mal dans l’idéalisme allemand*, dans le cadre des Rencontres internationales de l’Idéalisme, 8-9-10 mai 2019, Institut de philosophie, Université d’Humboldt, Berlin.<br><br>
 
 
 ###  2009-2014 -  <span>Musée d’art moderne de la ville de Paris</span>

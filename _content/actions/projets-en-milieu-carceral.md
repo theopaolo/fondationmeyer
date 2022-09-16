@@ -3,7 +3,7 @@ title: Projets en milieu carcéral
 order: 6
 ---
 
-Dans le prolongement de ses actions, la Fondation Meyer soutien depuis 2017 des projets culturels en milieu carcéral. Ces actions ponctuelles à forte portée sociale s'inscrivent dans le parcours d'insertion ou de réinsertion des personnes détenues. Elles leur permettent de découvrir des pratiques artistiques et de s'impliquer dans un processus de création.
+Dans le prolongement de ses actions, la Fondation Meyer soutient depuis 2017 des projets culturels en milieu carcéral. Ces actions ponctuelles à forte portée sociale s'inscrivent dans le parcours d'insertion ou de réinsertion des personnes détenues. Elles leur permettent de découvrir des pratiques artistiques et de s'impliquer dans un processus de création.
 
 Ces ateliers d’écriture, de musique et de production, les temps de rencontres et les représentations publiques sont menés avec des artistes professionnels issus de champs disciplinaires tels que le spectacle vivant, la musique, les arts visuels, la danse ou la littérature. Ils sont réalisés en accord avec les missions d'insertion et de prévention de la récidive de l'administration pénitentiaire du ministère de la Justice.
 
@@ -27,7 +27,7 @@ Représentations le 3 mai 2019, Maison de la culture de Seine-Saint-Denis, Bobig
 ### 2017-2018 - <span>Les Flibustiers du Qlassik <br> Direction artistique Ménélik</span>
   Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin<br>
   À la suite d’un mini-concert en prison, le rappeur Ménélik et un quatuor à cordes viennent à la rencontre des détenus qu’ils encadrent lors d’ateliers d’écriture et de mise en musique de leurs textes, en vue de représentations. Au cours des ateliers, les participants découvrent les rigueurs et les joies de la création d’un spectacle en communauté. Il s’agit d'un dépassement de soi par la mise à nu d’un vécu personnel livré à leurs codétenus et au monde. Cette fenêtre de liberté s’accorde sur scène avec des compositions de Bach, Purcell, Pachelbel, Philip Glass ou encore Franck Della Valle, interprétées par un quatuor à cordes issu de l’Orchestre de chambre de Paris.<br>
-  Représentations le 27 janvier 2018 au Théâtre Paris-Villette à l’occasion du Festival Vis-à-Vis et le 10 novembre 2018, Le Centquatre, Paris"
+  Représentations le 27 janvier 2018 au Théâtre Paris-Villette à l’occasion du Festival Vis-à-Vis et le 10 novembre 2018, Le Centquatre, Paris
 
 {% Aside "align-self-end" %}
   [Les Flibustiers du Qlassik](https://www.youtube.com/watch?v=1KzP0Dc3YOY&feature=emb_imp_woyt){target="_blank"}
@@ -51,11 +51,10 @@ Consacrée à la création artistique et culturelle en vue de la transformation 
 
 ### 2017 - <span>Fahrenheit 451 <br> Mise en scène Arnaud Préchac</span>
 Compagnie Zaï, studio Bretzel-Lab et Maison d’arrêt des Hauts-de-Seine<br>
-La création proposée à dix détenus avec le projet Fahrenheit 451 repose sur le jeu, la confection et manipulation de marionnettes contemporaines, ainsi que la création musicale et sonore, via la musique assistée par ordinateur. Elle est réalisée sous forme d’ateliers pluridisciplinaires sous la conduite des trois artistes associés et en accord avec leurs univers respectifs et complémentaires. Librement inspirée du livre de Ray Bradbury et du film de François Truffaut, la pièce met en scène le personnage de Montag, pompier idéal chargé de brûler les livres dans une société où ils sont bannis.<br>
+La création proposée à dix détenus avec le projet *Fahrenheit 451* repose sur le jeu, la confection et manipulation de marionnettes contemporaines, ainsi que la création musicale et sonore, via la musique assistée par ordinateur. Elle est réalisée sous forme d’ateliers pluridisciplinaires sous la conduite des trois artistes associés et en accord avec leurs univers respectifs et complémentaires. Librement inspirée du livre de Ray Bradbury et du film de François Truffaut, la pièce met en scène le personnage de Montag, pompier idéal chargé de brûler les livres dans une société où ils sont bannis.<br>
 Représentations le 27 janvier 2018 au Théâtre Paris-Villette à l’occasion du Festival Vis-à-Vis.
 
 ### 2018-2021 - <span>Ateliers chorales et concerts</span>
-
-Association En Chœur et Maison d’arrêt de Fleury-Mérogis
-Née en 2017, l’association En Chœur permet aux personnes détenues d’avoir accès au monde de la musique classique. À partir de septembre 2018, grâce au soutien de la fondation Meyer, trois typologies d’actions se mettent en place à la Maison d’arrêt des femmes de Fleury-Mérogis : des ateliers de chants pour des groupes de personnes incarcérées ; des interventions d’instrumentistes de musique classique ; des concerts en détention.
+Association En Chœur et Maison d’arrêt de Fleury-Mérogis<br>
+Née en 2017, l’association En Chœur permet aux personnes détenues d’avoir accès au monde de la musique classique. À partir de septembre 2018, grâce au soutien de la fondation Meyer, trois typologies d’actions se mettent en place à la Maison d’arrêt des femmes de Fleury-Mérogis : des ateliers de chants pour des groupes de personnes incarcérées ; des interventions d’instrumentistes de musique classique ; des concerts en détention.<br>
 Le premier concert est donné en décembre 2018 accompagné par des musiciens de l’Orchestre philarmonique de Radio France, ouvrant la voie à de nombreuses autres représentations.
