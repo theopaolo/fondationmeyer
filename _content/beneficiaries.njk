@@ -17,9 +17,9 @@ title: beneficiaries
 
     <div class="filter-wrapper">
       <input id="search" type="text" placeholder="search" x-show="$store.beneficiaries.searching"
-        @input="$store.beneficiaries.searchUpdate($el)" x-model="$store.beneficiaries.searchString" x-transition>
+        @input="$store.beneficiaries.searchUpdate($el)" x-model="$store.beneficiaries.searchString">
 
-      <div class="year-scroller" x-cloak x-show="!$store.beneficiaries.searching" x-transition>
+      <div class="year-scroller" x-cloak x-show="!$store.beneficiaries.searching">
         <div class="year-list">
           <template x-for="y in $store.beneficiaries.years">
             <a class="year" :href="y" :data-year="y" :class="y == $store.beneficiaries.selectedYear ? 'selected' : ''"
@@ -39,17 +39,17 @@ title: beneficiaries
     <div class="description">Titre / Description</div>
   </div>
 
-  <div class="loading" x-cloak x-show="$store.beneficiaries.loading" x-transition>
+  <div class="loading" x-cloak x-show="$store.beneficiaries.loading">
     <p>Loading...</p>
   </div>
 
-  <div class="beneficiary-list" x-cloak x-show="!$store.beneficiaries.loading" x-transition>
+  <div class="beneficiary-list" x-cloak x-show="!$store.beneficiaries.loading">
     <div x-show="$store.beneficiaries.list.length <= 0">
       <p>No entries matching search criteria</p>
     </div>
 
     <template x-for="b in $store.beneficiaries.list">
-      <div class="row beneficiary" x-show="b" x-transition>
+      <div class="row beneficiary" x-show="b">
         <div class="nom">
           <span x-text="b.prenom"></span>
           <span x-text="b.nom"></span>
