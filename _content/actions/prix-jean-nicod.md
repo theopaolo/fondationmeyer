@@ -61,7 +61,7 @@ Patrick Haggard est Professeur en neurosciences cognitives à l’Institute of C
 
 ### 2015 - <span>David Chamlers</span>
 
-David Chalmers est Professeur de Philosophie et co-directeur du centre Mind, Brain, and Consciousness à New York University. Le prix lui est attribué pour ses recherches intitulées *Spatial experience and virtual reality*.
+David Chalmers est professeur de Philosophie et co-directeur du centre Mind, Brain, and Consciousness à New York University. Le prix lui est attribué pour ses recherches intitulées *Spatial experience and virtual reality*.
 
 {% Aside "align-self-end" %}
   [David Chamlers](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/recipiendaires-du-prix-jean-nicod-depuis-1993/d-chalmers-2015/?lang=fr){target="_blank"}
@@ -69,7 +69,7 @@ David Chalmers est Professeur de Philosophie et co-directeur du centre Mind, Bra
 
 ### 2014 - <span>Uta and Chris Firth</span>
 
-Uta Frith est Professeur émérite en psychologie développementale cognitive à l’Institute of Cognitive Neuroscience à l’University College London et Professeur invitée à l’université d’Aarhus. Chris Frith est Professeur émérite en neuropsychologie au Wellcome Centre for Neuroimaging à l’University College London et Professeur invité à l’université d’Aarhus. Ils sont lauréats du prix en 2014 pour leur recherche intitulée *What makes us social*.
+Uta Frith est professeur émérite en psychologie développementale cognitive à l’Institute of Cognitive Neuroscience à l’University College London et professeur invitée à l’université d’Aarhus. Chris Frith est professeur émérite en neuropsychologie au Wellcome Centre for Neuroimaging à l’University College London et professeur invité à l’université d’Aarhus. Ils sont lauréats du prix en 2014 pour leur recherche intitulée *What makes us social*.
 
 {% Aside "align-self-end" %}
   [Uta and Chris Firth](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/recipiendaires-du-prix-jean-nicod-depuis-1993/c-u-frith-2014/?lang=fr){target="_blank"}
