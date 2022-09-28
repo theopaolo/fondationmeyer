@@ -10,8 +10,8 @@ Ces ateliers d’écriture, de musique et de production, les temps de rencontres
 ### 2019-2020 - <span>Watch <br> Mise en scène Olivier Fredj</span>
 
 Orchestre de chambre de Paris et Centre pénitentiaire de Meaux-Chauconin <br>
-Le spectacle Watch est le fruit d’ateliers d’écriture, d’improvisation théâtrale et de mise en musique, réunissant sur scène des interprètes amateurs et des artistes professionnels, qui incarnent tour à tour le personnage du Temps.<br>
-Watch porte les textes écrits par des patients de l’hôpital la Pitié-Salpêtrière, des personnes mal-logées du centre d’hébergement d’urgence Popincourt du Samu social, et des personnes âgées résidentes de l’EHPAD Hector Berlioz de Bobigny, encadrés lors d’ateliers d’écriture par les auteurs Yann Apperry, Sylvie Ballul, Célia Houdart et Judith Perrignon.<br>
+Le spectacle *Watch* est le fruit d’ateliers d’écriture, d’improvisation théâtrale et de mise en musique, réunissant sur scène des interprètes amateurs et des artistes professionnels, qui incarnent tour à tour le personnage du Temps.<br>
+*Watch* porte les textes écrits par des patients de l’hôpital la Pitié-Salpêtrière, des personnes mal-logées du centre d’hébergement d’urgence Popincourt du Samu social, et des personnes âgées résidentes de l’EHPAD Hector Berlioz de Bobigny, encadrés lors d’ateliers d’écriture par les auteurs Yann Apperry, Sylvie Ballul, Célia Houdart et Judith Perrignon.<br>
 Les dix détenus participant au projet sont à la fois les interprètes et les auteurs des textes. En parallèle, les musiciens de l’orchestre interviennent régulièrement pour leur faire découvrir et s’approprier les répertoires classique et contemporain, composant le cœur musical du spectacle.<br>
 Représentation publique le 25 septembre 2020, Maison de la culture de Seine-Saint-Denis, Bobigny (MC 93)
 

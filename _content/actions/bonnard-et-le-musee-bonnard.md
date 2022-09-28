@@ -10,7 +10,7 @@ Dès 2003, la municipalité mettait en œuvre une stratégie d’acquisition con
 Inauguré le 25 juin 2011, le Musée Bonnard du Cannet est le premier musée à se consacrer intégralement à cette figure marquante de la peinture du XX<sup>e</sup> siècle.
 
 {% Aside "align-self-end" %}
-[museebonnard.fr](museebonnard.fr/index.php/fr){target="_blank"}
+[museebonnard.fr](https://www.museebonnard.fr/index.php/fr/){target="_blank"}
 {% endAside %}
 
 

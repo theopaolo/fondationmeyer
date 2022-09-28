@@ -70,7 +70,7 @@ Les films sont diffusés au sein des quartiers où ils ont été tournés, mais 
 
 Ensemble vocal Musicatreize
 
-Pour célébrer l’ouverture de la nouvelle salle dédiée à la collection des icônes et aux arts chrétiens d’orient du Musée du Petit-Palais, la conservatrice Raphaëlle Ziadé et le compositeur et archéologue Michel Petrossian ont composé une œuvre commune, une conférence-concert dans laquelle se rencontrent icônes byzantines du XVII<sup>e</sup> siècle et musique actuelle. La conférence se base sur l’icône En Toi se réjouit de l’atelier de Franghias Kavertsas (Crète – entre 1615 et 1648).
+Pour célébrer l’ouverture de la nouvelle salle dédiée à la collection des icônes et aux arts chrétiens d’orient du Musée du Petit-Palais, la conservatrice Raphaëlle Ziadé et le compositeur et archéologue Michel Petrossian ont composé une œuvre commune, une conférence-concert dans laquelle se rencontrent icônes byzantines du XVII<sup>e</sup> siècle et musique actuelle. La conférence se base sur l’icône *En Toi se réjouit* de l’atelier de Franghias Kavertsas (Crète – entre 1615 et 1648).
 Le texte de Raphaëlle Ziadé et un hymne orthodoxe du XIV<sup>e</sup> siècle sont les bases de la musique de Michel Petrossian. Pendant que l’auteur dévoile peu à peu l’icône grâce à une création vidéo / multimédia diffusée en temps réel, la création musicale chantée par l’ensemble vocal Musicatreize se construit en parallèle. *Chanter l’icône* redonne vie à l’hymne originel sous une forme contemporaine, autant qu’elle anime musicalement un joyau des collections du Petit Palais.
 
 Représentations le 3 février 2018 au Petit Palais à Paris, le 27 janvier 2018 à Pigna et le 2 février 2018 à Marseille.<br><br>
