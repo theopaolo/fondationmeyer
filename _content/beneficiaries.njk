@@ -5,7 +5,7 @@ colspan: "col-span-8"
 title: beneficiaries
 ---
 
-<div style="grid-column-end: -1">
+<div style="grid-column-end: -1" class="mob-hide">
   <nav class="filters">
     <button x-data @click.prevent="$store.beneficiaries.toggleSearch()" class="search"
       :class="$store.beneficiaries.searching ? 'active' : ''">
@@ -78,3 +78,5 @@ title: beneficiaries
 
   <script src="/assets/js/client.js" type="module"></script>
 </div>
+
+<div class="overlay">Pour accéder à ces données, merci de vous connecter à l’aide d’un ordinateur.</div>
