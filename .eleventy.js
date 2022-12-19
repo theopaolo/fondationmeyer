@@ -52,6 +52,27 @@ module.exports = (config) => {
     return ordered.concat(unordered)
   })
 
+  // News Collection
+  config.addCollection('news', collection => {
+    let ordered = []
+    let unordered = []
+    const pages = collection.getFilteredByGlob('**/actualites/*.md')
+
+    for (let page of pages) {
+      if (page.data.order) {
+        if (ordered[page.data.order]) {
+          ordered.splice(page.data.order, 0, page)
+        } else {
+          ordered[page.data.order] = page
+        }
+      } else {
+        unordered.push(page)
+      }
+    }
+
+    return ordered.concat(unordered)
+  })
+
   return {
     markdownTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',

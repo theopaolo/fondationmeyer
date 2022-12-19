@@ -1,13 +1,10 @@
 {% extends 'base.njk' %}
 
 {% block content %}
-  Le contenu de cette rubrique sera mis en ligne à l’automne 2022
-
   {% for news_item in collections.news %}
-    <a class="news-entry" href=".{{ news_item.url }}">
-      <h2>{{ news_item.data.title }}</h2>
-      <p>excerpt from the article to be pulled programatically</p>
-      <footer>published {{ news_item.data.date }}</footer>
-    </a>
+    <div>
+        <p>{{ news_item.templateContent | safe }}</p>
+    </div>
   {% endfor %}
+
 {% endblock %}
