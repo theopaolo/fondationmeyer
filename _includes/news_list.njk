@@ -2,9 +2,7 @@
 
 {% block content %}
   {% for news_item in collections.news %}
-    <div>
-        <p>{{ news_item.templateContent | safe }}</p>
-    </div>
+
   {% endfor %}
 
 {% endblock %}
