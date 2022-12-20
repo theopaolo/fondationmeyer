@@ -1,7 +1,8 @@
 <div x-data class="mobile-only nav-toggle" @click="$store.mobile.toggleNav()" x-text="$store.mobile.navVisible ? 'close' : 'menu'"></div>
 <nav class="" aria-label="Primary" x-bind:data-visible="$store.mobile.navVisible">
-<ul class="primary" role="list">
+  <ul class="primary" role="list">
     <ul role="list" class="secondary">
+
     <li>
       <span class="font-family-secondary font-size-700">Actions</span>
         {% for action in collections.actions %}
@@ -16,11 +17,21 @@
     </li>
     {% set regExp = r/^\/news.*/mi %}
 
-    <li>
-      <a href="/actualites" {% if regExp.test(page.url) %}aria-current="news" {% endif %}>
-        <span class="font-family-secondary font-size-700">Actualités</span>
-      </a>
-    </li>
+    <ul role="list" class="secondary">
+      <li>
+        <a href="/actualites" {% if regExp.test(page.url) %}aria-current="news" {% endif %}>
+          <span class="font-family-secondary font-size-700">Actualités</span>
+        </a>
+      </li>
+      {% for action in collections.news %}
+          {% if action %}
+            <li {% if page.url==action.url %}class="active" {% endif %}>
+              <a href="{{ action.url }}" {% if page.url==action.url %}aria-current="{{ action.data.title }}" {% endif %}>{{
+                action.data.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+    </ul>
 
   </ul>
 </nav>

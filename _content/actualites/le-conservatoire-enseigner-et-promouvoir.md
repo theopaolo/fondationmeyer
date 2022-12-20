@@ -1,5 +1,5 @@
 ---
-title: LE CONSERVATOIRE ENSEIGNER ET PROMOUVOIR
+title: Le conservatoire enseigner et promouvoir
 date: 2022-06-13
 layout: news_single
 ---
