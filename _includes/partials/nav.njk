@@ -23,14 +23,14 @@
           <span class="font-family-secondary font-size-700">Actualités</span>
         </a>
       </li>
-      {% for action in collections.news %}
+      {# {% for action in collections.news %}
           {% if action %}
             <li {% if page.url==action.url %}class="active" {% endif %}>
               <a href="{{ action.url }}" {% if page.url==action.url %}aria-current="{{ action.data.title }}" {% endif %}>{{
                 action.data.title }}</a>
             </li>
           {% endif %}
-        {% endfor %}
+        {% endfor %} #}
     </ul>
 
   </ul>
