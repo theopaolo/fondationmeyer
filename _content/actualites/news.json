@@ -1,4 +1,4 @@
 {
   "tags": "news",
-  "layout": "news_list.njk"
+  "layout": "news_single.njk"
 }
