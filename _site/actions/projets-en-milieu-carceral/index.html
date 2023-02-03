@@ -19,72 +19,82 @@
     <picture>
       <source media="(max-width: 1000px)" srcset="/images/fondation-meyer-logo-mob.svg">
       <source media="(min-width: 1200px)" srcset="/images/fondation-meyer-logo.svg">
-      <img src="/images/fondation-meyer-logo.svg" alt="Fondation Meyer logo">
+      <img src="./images/fondation-meyer-logo.svg" alt="Fondation Meyer logo">
     </picture>
     </a>
   </div>
 
   <div x-data class="mobile-only nav-toggle" @click="$store.mobile.toggleNav()" x-text="$store.mobile.navVisible ? 'close' : 'menu'"></div>
 <nav class="" aria-label="Primary" x-bind:data-visible="$store.mobile.navVisible">
-<ul class="primary" role="list">
+  <ul class="primary" role="list">
     <ul role="list" class="secondary">
-    <li><span class="font-family-secondary font-size-700">Actions</span>
+
+    <li>
+      <span class="font-family-secondary font-size-700">Actions</span>
         
+          
         
+          
+            <li >
+              <a href="/actions/conservatoire-de-paris/" >Conservatoire de Paris</a>
+            </li>
+          
         
+          
+            <li >
+              <a href="/actions/institut-de-physique-theorique-philippe-meyer/" >Institut de Physique Théorique Philippe Meyer</a>
+            </li>
+          
         
-        <li >
-          <a href="/actions/conservatoire-de-paris/" >Conservatoire de Paris</a>
-        </li>
+          
+            <li >
+              <a href="/actions/prix-jean-nicod/" >Prix Jean-Nicod</a>
+            </li>
+          
         
+          
+            <li >
+              <a href="/actions/ecole-du-louvre/" >École du Louvre</a>
+            </li>
+          
         
+          
+            <li >
+              <a href="/actions/bonnard-et-le-musee-bonnard/" >Bonnard et le Musée Bonnard</a>
+            </li>
+          
         
-        <li >
-          <a href="/actions/institut-de-physique-theorique-philippe-meyer/" >Institut de Physique Théorique Philippe Meyer</a>
-        </li>
+          
+            <li class="active" >
+              <a href="/actions/projets-en-milieu-carceral/" aria-current="Projets en milieu carcéral" >Projets en milieu carcéral</a>
+            </li>
+          
         
+          
+            <li >
+              <a href="/actions/aides-au-projets/" >Aides aux projets</a>
+            </li>
+          
         
-        
-        <li >
-          <a href="/actions/prix-jean-nicod/" >Prix Jean-Nicod</a>
-        </li>
-        
-        
-        
-        <li >
-          <a href="/actions/ecole-du-louvre/" >École du Louvre</a>
-        </li>
-        
-        
-        
-        <li >
-          <a href="/actions/bonnard-et-le-musee-bonnard/" >Bonnard et le Musée Bonnard</a>
-        </li>
-        
-        
-        
-        <li class="active" >
-          <a href="/actions/projets-en-milieu-carceral/" aria-current="Projets en milieu carcéral" >Projets en milieu carcéral</a>
-        </li>
-        
-        
-        
-        <li >
-          <a href="/actions/aides-au-projets/" >Aides aux projets</a>
-        </li>
-        
-        
-        
-        <li >
-          <a href="/actions/participation-à-l’achat-de-tableaux-pour-les-musées-de-france/" >Participation à l’achat de tableaux pour les musées de France</a>
-        </li>
-        
+          
+            <li >
+              <a href="/actions/participation-à-l’achat-de-tableaux-pour-les-musées-de-france/" >Participation à l’achat de tableaux pour les musées de France</a>
+            </li>
+          
         
       </ul>
     </li>
     
-    <li><a href="/actualites" ><span
-          class="font-family-secondary font-size-700">Actualités</span></a></li>
+
+    <ul role="list" class="secondary">
+      <li>
+        <a href="/actualites" >
+          <span class="font-family-secondary font-size-700">Actualités</span>
+        </a>
+      </li>
+      
+    </ul>
+
   </ul>
 </nav>
 
