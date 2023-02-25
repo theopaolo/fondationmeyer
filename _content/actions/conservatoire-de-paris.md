@@ -13,7 +13,8 @@ Aujourd’hui, six actions majeures bénéficient directement du soutien de la F
 
 Enjeu de premier ordre dans la vie du Conservatoire de Paris, le partenariat avec la Fondation Meyer a permis, à ce jour, à plus de 500 étudiants d’intégrer un parcours professionnel d’excellence et d’accéder à la carrière de leurs rêves.
 
+Dans la continuité de ces actions clés, une bourse d’excellence est inaugurée en 2023, destinée à accueillir les meilleurs talents internationaux non ressortissants de l’Union Européenne au Conservatoire de Paris, dans les disciplines instrumentales, vocales, direction d’orchestre et composition.
+
 > *Je souhaite que perdure la relation avec le Conservatoire. Le soutien de la Fondation a changé la vie de centaines de jeunes musiciens qui n’ont ni le temps ni l'opportunité de trouver un travail durant leurs études. Je trouve très gratifiant de leur permettre de passer leurs diplômes avec plus de sérénité.*
 >
 > Vincent Meyer, Président de la Fondation  Meyer, janvier 2012
-

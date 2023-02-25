@@ -40,12 +40,12 @@ title: beneficiaries
   </div>
 
   <div class="loading" x-cloak x-show="$store.beneficiaries.loading">
-    <p>Loading...</p>
+    <p>Chargement...</p>
   </div>
 
   <div class="beneficiary-list" x-cloak x-show="!$store.beneficiaries.loading">
     <div x-show="$store.beneficiaries.list.length <= 0">
-      <p>No entries matching search criteria</p>
+      <p>Aucune entrée ne correspond aux critères de recherche</p>
     </div>
 
     <template x-for="b in $store.beneficiaries.list">
