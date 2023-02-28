@@ -13,14 +13,19 @@ Maison de la Poésie-Scène littéraire et les Services pénitentiaires d&#39;in
 ### 2022 - <span>Un homme qui marche <br> Mise en scène Héloïse Sérazin</span>
 Orchestre de Chambre de Paris et le Centre pénitentiaire de Meaux-Chauconin Spectacle multiforme, créé d'après l'Histoire du Soldat de Stravinski, qui réunit sur scène des personnes détenues et des artistes professionnels. Cette production pluridisciplinaire fait dialoguer des textes écrits par les détenus et ceux de Ramuz ou Cocteau, et leurs voix avec la musique de Kurt Weill. L’histoire, qui suit le parcours d’un soldat ruiné et anéanti après un pacte avec le diable, permet d’explorer l’impact de l’argent sur nos vies, au moyen de réflexions, témoignages, recherches corporelles, chorégraphiques, théâtrales, vocales et plastiques. <br>
 Représentations les 19 et 20 novembre 2022 à l’Athénée Théâtre Louis-Jouvet, à Paris, et le 10 novembre au Centre pénitentiaire de Meaux-Chauconin. <br>
-Un homme qui marche : [vidéo](https://youtu.be/jIqpT0wJlGQ){target="_blank"}
+
+{% Aside "align-self-end" %}
+  [Un homme qui marche](https://youtu.be/jIqpT0wJlGQ){target="_blank"}
+{% endAside %}
 
 ### 2022 - <span>Watch : réponse festive à des temps fatigués <br> Mise en scène Olivier Fredj</span>
 Paradox Palace en co-production avec le Théâtre du Châtelet<br>
 Olivier Fredj met en scène une nouvelle création de théâtre musical s’appuyant sur une alliance inédite d’écriture collective dans différents lieux de la société. Les participants issus de structures du champ social, Samusocial de Paris, EPHAD de la ville de Paris, unité mobile de soins palliatifs de la Pitié-Salpêtrière et école élémentaire Jeanne d’Arc, Paris 13 ème, sont partie prenante du projet d’écriture en amont du travail de mise en scène au centre pénitentiaire de Meaux-Chauconin. Ce travail est encadré par le metteur en scène Olivier Fredj, la pianiste Shani Diluka, des musiciens professionnels de l’Académie Jaroussky, l’illustrateur Loïc Froissart, le musicien électro Matias Aguayo et trois comédiens professionnels. Le projet a donné lieu à un partenariat avec le groupe Accor, mené de concert avec le Service pénitentiaire d'insertion et de probation de la Seine-et-Marne, conduisant à la conclusion de 4 promesses d'embauche et un projet de formation pour les 6 détenus participant au projet.<br>
 Représentations les 4 et 6 septembre 2022 au Théâtre du Châtelet à Paris et le 26 août 2022 au centre pénitentiaire de Meaux-Chauconin.<br>
 
-Watch : [vidéo](https://www.youtube.com/watch?v=RUCXfrdJmDQ&t=308s){target="_blank"}
+{% Aside "align-self-end" %}
+  [Watch : réponse festive à des temps fatigués](https://www.youtube.com/watch?v=RUCXfrdJmDQ&t=308s){target="_blank"}
+{% endAside %}
 
 ### 2019-2020 - <span>Watch <br> Mise en scène Olivier Fredj</span>
 
