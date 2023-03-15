@@ -1,5 +1,15 @@
 {% extends 'base.njk' %}
-<h1>News single</h1>
 {% block content %}
-  {{ content | safe }}
+  <div class='content'>
+    {{ content | safe }}
+  </div>
+  <aside class="row-start-1 align-self-start">
+    <ul role="list">
+      {% for news_item in collections.news  | reverse %}
+        <li>
+            <a href="{{ news_item.url }}" target="{{news_item.target}}">{{ news_item.data.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </aside>
 {% endblock %}

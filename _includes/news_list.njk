@@ -1,10 +1,20 @@
 {% extends 'base.njk' %}
 
 {% block content %}
-  {# {% for news_item in collections.news  | reverse %}
+  {% for news_item in collections.news  | reverse %}
     <div>
         <p>{{ news_item.templateContent | safe }}</p>
         <a href="{{ news_item.url }}">{{ news_item.data.title }}</a>
     </div>
-  {% endfor %} #}
+  {% endfor %}
+
+  <aside class="row-start-1 align-self-start">
+    <ul role="list">
+      {% for news_item in collections.news  | reverse %}
+        <li>
+            <a href="{{ news_item.url }}" target="{{news_item.target}}">{{ news_item.data.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </aside>
 {% endblock %}
