@@ -3,6 +3,8 @@
 {% block content %}
   {% for news_item in collections.news  | reverse %}
     <div>
+        <h2> {{ news_item.data.menu }} </h2>
+        <br>
         <p>{{ news_item.templateContent | safe }}</p>
         <a href="{{ news_item.url }}">{{ news_item.data.title }}</a>
     </div>
