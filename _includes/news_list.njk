@@ -12,7 +12,7 @@
     <ul role="list">
       {% for news_item in collections.news  | reverse %}
         <li>
-            <a href="{{ news_item.url }}" target="{{news_item.target}}">{{ news_item.data.title }}</a>
+            <a href="{{ news_item.url }}" target="{{news_item.target}}">{{ news_item.data.menu }}</a>
         </li>
       {% endfor %}
     </ul>
