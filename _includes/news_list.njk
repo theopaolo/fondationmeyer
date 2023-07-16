@@ -1,10 +1,10 @@
 {% extends 'base.njk' %}
 
 {% block content %}
-  {# {% for news_item in collections.news  | reverse %}
+  {% for news_item in collections.news  | reverse %}
     <div>
         <p>{{ news_item.templateContent | safe }}</p>
         <a href="{{ news_item.url }}">{{ news_item.data.title }}</a>
     </div>
-  {% endfor %} #}
+  {% endfor %}
 {% endblock %}
