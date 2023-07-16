@@ -5,9 +5,6 @@ date: 2023-07-16
 layout: news_single
 ---
 
-### Musique pour tous
-<br>
-
 *Compositeur et chef d’orchestre à la carrière internationale, Bruno Mantovani a été directeur du Conservatoire national supérieur de musique et de danse de Paris de 2010 à 2019.*
 
 Les préjugés ont la vie dure. Il n’est pas rare d’entendre dire que la musique classique ne s’adresse qu’aux *happy few* – elle serait élitiste, au sens où elle ne serait réservée qu’à une catégorie sociale privilégiée. Compositeur et chef d’orchestre reconnu, Bruno Mantovani, qui dirige aujourd’hui le conservatoire à rayonnement régional de Saint- Maur-des-Fossés, l’Ensemble orchestral contemporain de Saint-Étienne et qui est également directeur artistique du festival Printemps des arts de Monte-Carlo, s’inscrit en faux contre cette idée reçue qui, à son grand dam, est parfois entretenue *« pour des raisons démagogiques »*. Celui qui fut à la tête du Conservatoire national supérieur de musique et de danse de Paris durant trois mandats consécutifs (2010-2019) rappelle que quasi un tiers des élèves y sont boursiers. Lui-même est l’incarnation de cette « culture élitaire pour tous », pour reprendre la formule d’Antoine Vitez poursuivant l’idée de son complice du Théâtre national populaire (TNP) Jean Vilar d’un « théâtre pour tous ».
