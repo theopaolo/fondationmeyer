@@ -19,8 +19,8 @@ Cela étant, l’exigence formelle est primordiale chez le metteur en scène de 
 <br><br>
 Qu’elle existe, qu’elle ait droit de cité, est en soi politique.
 <br><br>
-Sean Rose
-<br><br>
 *(1) Iliade, d’après Homère et Alessandro Barrico*, au Théâtre Paris-Villette, 2016
 <br>
 *(2) Homère, Iliade*, d’Alessandro Barrico (éd. Albin Michel, 2006), texte initialement écrit pour la lecture, a été à son tour adapté aux besoins de la scène avec des ajouts extraits de l’original grec traduit par Pierre Judet de la Combe.
+<br><br>
+*Sean Rose*

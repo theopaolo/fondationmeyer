@@ -1,6 +1,6 @@
 ---
 title: L’excellence française dans la recherche
-menu: Iliopoulos
+menu: L’excellence française dans la recherche
 date: 2023-05-08
 layout: news_single
 ---
