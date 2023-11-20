@@ -2,7 +2,6 @@
 title: Matteo Gualandi, ou le plaisir de la composition
 menu : Matteo Gualandi, ou le plaisir de la composition
 date: 2023-11-20T22:01:54.352Z
-draft: false
 layout: news_single
 ---
 
