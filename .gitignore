@@ -144,3 +144,7 @@ _site
 _site/*
 
 .DS_Store
+frontmatter.json
+.frontmatter/database/pinnedItemsDb.json
+.frontmatter/database/taxonomyDb.json
+.vscode/settings.json

@@ -1,21 +1,26 @@
-const markdownIt = require("markdown-it")
-
-const markdownItAttrs = require("markdown-it-attrs")
-const {outdent} = require("outdent")
+const markdownIt = require("markdown-it");
+const markdownItAttrs = require("markdown-it-attrs");
+const { outdent } = require("outdent");
 
 module.exports = (config) => {
-
-  // set custom markdown
+  // Existing markdown-it options
   const mdOptions = {
     html: true,
     breaks: false,
     linkify: true,
-  }
+  };
 
+  // Set up markdown-it with existing options and plugins
   const markdownLib = markdownIt(mdOptions)
     .use(markdownItAttrs)
     .disable("code")
+    .use(function(md) {
+      // Custom rule for bold text
+      md.renderer.rules.strong_open = () => '<span class="bold">';
+      md.renderer.rules.strong_close = () => '</span>';
+  });
 
+  // Set Eleventy to use the customized markdown-it library
   config.setLibrary("md", markdownLib)
 
   // watching styles folder to gen sass
@@ -77,12 +82,11 @@ module.exports = (config) => {
     markdownTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
-    // pathPrefix: "/fondationmeyer.test/",
     dir: {
       includes: '../_includes/',
       data: '../_data',
       input: '_content',
       output: '_site'
     }
-  }
-}
+  };
+};
