@@ -5,7 +5,7 @@ date: 2023-11-20T22:01:54.352Z
 layout: news_single
 ---
 
-[Les textes qui suivent, accompagnent un nouveau programme de résidence créé à Marseille par la Fondation Meyer, à destination de créateurs développant une pratique d’écriture dans le domaine de la littérature, du cinéma, de la musique, de la danse... Trois résidents ont été sélectionnés en 2023, en partenariat avec le Conservatoire national supérieur de musique et de danse de Paris, la CinéFabrique de Lyon et le festival Actoral de Marseille.]
+Les trois textes qui suivent qui suivent, accompagnent un nouveau programme de résidence créé à Marseille par la Fondation Meyer, à destination de créateurs développant une pratique d’écriture dans le domaine de la littérature, du cinéma, de la musique, de la danse... Trois résidents ont été sélectionnés en 2023, en partenariat avec le Conservatoire national supérieur de musique et de danse de Paris, la CinéFabrique de Lyon et le festival Actoral de Marseille.
 <br><br>
 **L’un des trois lauréats de la résidence marseillaise, le compositeur Matteo Gualandi a proposé d’écrire une œuvre pour ensemble, s’inscrivant dans la continuation de son cycle « Archéologie de la mémoire ». Elle sera donnée à l’Ircam en janvier 2024.**
 <br><br>

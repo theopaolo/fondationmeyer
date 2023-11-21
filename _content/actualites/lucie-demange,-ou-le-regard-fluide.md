@@ -5,7 +5,6 @@ date: 2023-11-20T21:34:54.373Z
 layout: news_single
 ---
 
-[Les textes qui suivent accompagnent un nouveau programme de résidence créé à Marseille par la Fondation Meyer à destination de créateurs développant une pratique d’écriture dans le domaine de la littérature, du cinéma, de la musique, de la danse... Trois résidents ont été sélectionnés en 2023, en partenariat avec le Conservatoire national supérieur de musique et de danse de Paris, la CinéFabrique de Lyon et le festival Actoral xde Marseille. ]
 <br><br>
 **En résidence au Couvent de la Cômerie, à Marseille, Lucie Demange, après un documentaire sur la difficulté de sa mère à accepter son identité non-binaire, travaille sur un film autour d’un pèlerinage à Lourdes impliquant une personne queer et une personne de foi.**
 <br><br>
