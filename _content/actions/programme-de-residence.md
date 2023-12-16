@@ -3,7 +3,7 @@ title: Programme de résidence
 order: 9
 ---
 
-Depuis 2023, associée au Conservatoire national de musique et de danse de Paris (CNSMD), à la CinéFabrique de Lyon et au festival Actoral de Marseille, la Fondation Meyer développe un programme de résidence dédié aux jeunes créateurs dans le champ des écritures. En 2024, ces partenariats d’élargissent au Musée des civilisations de l’Europe et de la Méditerranée (MUCEM) de Marseille et à l’École de journalisme et de communication d’Aix Marseille Université (EJCAM-AMU).
+Depuis 2023, associée au Conservatoire national de musique et de danse de Paris (CNSMD), à la CinéFabrique de Lyon et au festival Actoral de Marseille, la Fondation Meyer développe un programme de résidence dédié aux jeunes créateurs dans le champ des écritures. En 2024, ces partenariats s’élargissent au Musée des civilisations de l’Europe et de la Méditerranée (MUCEM) de Marseille et l’École supérieure de journalisme de Lille à la place de celle d’Aix Marseille Université (EJCAM-AMU).
 
 Ce programme s’adresse à des professionnels qui souhaitent développer un projet d’écriture dans le domaine de la musique ou de la danse, du cinéma, de la littérature, de la recherche ou du journalisme.
 
