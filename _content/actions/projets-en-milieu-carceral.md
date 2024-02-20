@@ -7,6 +7,53 @@ Dans le prolongement de ses actions, la Fondation Meyer soutient depuis 2017 des
 
 Ces ateliers d’écriture, de musique et de production, les temps de rencontres et les représentations publiques sont menés avec des artistes professionnels issus de champs disciplinaires tels que le spectacle vivant, la musique, les arts visuels, la danse ou la littérature. Ils sont réalisés en accord avec les missions d'insertion et de prévention de la récidive de l'administration pénitentiaire du ministère de la Justice.
 
+### 2023 - <span>EVANESCENCE(S) <br>ATELIER DE CRÉATION DIRIGÉ PAR FLORENCE COSNEFROY, THOMAS B. REVERDY & ARNO BERTINA<span>
+Maison de la Poésie-Scène littéraire et SPIP des Hauts-de-Seine et de Paris.
+Ce projet interdisciplinaire est conçu comme un espace d’échanges et d’expressions, dans un constant aller et retour entre les établissements, mais aussi entre les disciplines : la lecture donne lieu à un travail plastique qui à son tour se redéploye en texte dans l’atelier d’écriture. Le travail plastique nourrit le travail d’écriture et le prolonge. L’atelier repose sur les souvenirs et les émotions des participants en lien avec leurs histoires personnelles ou imaginaires, faisant émerger des fragments d’histoire, de mémoire, de couleurs et de lieux par des récits et par les arts plastiques. Restitution le 14 décembre 2023 à la Maison de la Poésie à Paris et présentation des œuvres dans les maisons d’arrêt.
+https://maisondelapoesieparis.com/  programme/evanescences/
+
+
+### 2023 - <span>LE CORPS DES HOMMES <br>ATELIERS DE CRÉATION DIRIGÉS PAR JEAN-PIERRE CHRÉTIEN-GONI, HÉLÈNE LABADIE ET ANTONY QUENET, METTEUR(E)S EN SCÈNE POUR LA COMPAGNIE LE VENT SE LÈVE!<span>
+Association l’Impossible - Le Vent se Lève ! et SPIP Paris.
+Ce projet réalisé avec des personnes détenues de la maison d’arrêt de la Santé à Paris s’adresse à des personnes engagées dans un nouveau dispositif de Quartier intermédiaire sortant (ou «QIS»). Il s’agit de préparer les détenus terminant leur peine à réintégrer la vie du dehors dans les meilleures conditions. Le thème du corps conduit les participants à se confronter à la représentation du corps et de soi dans un travail de création et de performance.
+
+### 2023 - <span>A VOIX HAUTE <br>ATELIER DE CRÉATION AUDIO DIRIGÉ PAR CLARA LANG EZEKIEL, PLASTICIENNE, ESME PLANCHON, CONTEUSE ET ANNA SALZBERG, CINÉASTE<span>
+Association Mémoire de l’Avenir et SPIP de Seine Saint-Denis.
+Ce projet est centré sur la nécessité de maintenir le lien parental hors du contexte de détention. La création d’un livre audio pour son enfant permet ainsi de reconstituer un espace de dialogue, de proximité et d’affection. Il implique les pères de sa conception à sa fabrication en mettant l’enfant au cœur de leur attention. Les enfants disposent d’une œuvre unique qui les aide à préserver le lien d’attachement avec le père et maintient un contact presque grâce à l’écoute de la voix enregistrée sur la bande sonore.
+
+### 2023 - <span>SYMPHONIE FANTASTIQUE <br>ATELIER PARTICIPATIF UTILISANT LE LANGAGE DE SOUNDPAINTING DIRIGÉ PAR JULIE MARTIGNY, METTEUSE EN SCÈNE<span>
+Orchestre National d’Ile-de-France et SPIP du Val de Marne. Ce projet vise à faire découvrir un univers musical par l’apprentissage du langage universel du Soundpainting, autour de la « Symphonie Fantastique » de Berlioz. Il permet également d’ouvrir sur le monde de l’orchestre symphonique et le répertoire qu’il interprète. Enfin, les détenus ont l’opportunité d’entrer dans la peau de l’interprète et de vivre l’expérience d’être sur scène auprès des professionnels devant un public. Représentation en lever de rideau du concert de l’ONDIF du 10 octobre 2023 à la Philharmonie de Paris.
+
+### 2023 - <span>THÉÂTRE D’IMPROVISATION <br>ATELIER DIRIGÉ PAR LE COMÉDIEN ARNAUD DUVALHOF<span>
+Association LIDEE de Cergy et SPIP du Val d’Oise. Le théâtre d’improvisation permet par le biais de jeux et scénettes, de développer les aptitudes personnelles des participants en matière d’oralité, d’éloquence et de confiance en soi. Il offre également la possibilité d’élargir leurs connaissances et leur culture en abordant de nouveaux auteurs et de grands courants littéraires.
+
+### 2023 - <span>BESTIOLES ÉLECTRONIQUES <br>INSTALLATION D’UN JARDIN PÉDAGOGIQUE ÉLECTRONIQUE ET SONORE DANS UNE COUR DE PROMENADE DIRIGÉE PAR L’ARTISTE SONORE MARYLOU PETOT<span>
+Château Éphémère et SPIP des Yvelines. Le projet s’adresse aux personnes condamnées à de très longues peines pour leur permettre de repenser le vivant. La création de bestioles interactives lumineuses et sonores dans une cour de promenade accessible à tous, reconnecte les détenus aux problématiques de l’écologie et de la biodiversité et permet aux participants d’acquérir de nouvelles compétences artistiques et techniques. La présentation de l’installation a lieu le 7 février 2024.
+
+### 2023 - <span>MOBY DICK, UN VOYAGE<br>ATELIERS DE PRATIQUE THÉÂTRALE ET D’ARTS APPLIQUÉS DIRIGÉE PAR SANDRINE LANNO, METTEUSE EN SCÈNE<span>
+Indicible Compagnie et SPIP de Seine-et-Marne.
+Le projet s’appuie sur l’œuvre originale d’Herman Melville et sur l’adaptation graphique de Christophe Chabouté afin de permettre à chacun des participants de découvrir l’aventure homérique emblématique de ce texte. Les ateliers croisent deux pratiques artistiques, le théâtre et le photocollage laissant aux participants la possibilité de s’approprier le projet en fonction de leur goût et de leur aisance dans un des deux domaines.
+Restitution à l’occasion du festival Vis-à-Vis programmé par le Théâtre Paris-Villette en mai 2024.
+
+### 2023 - <span>FLOUZ, LE CIRQUE FINANCIER <br>MISE EN SCÈNE OLIVIER FREDJ<span>
+Paradox Palace en co-réalisation avec le Théâtre du Châtelet.
+Deuxième partie du cycle entamé avec Watch, Flouz met en lumière notre relation à l’argent, avec le regard aiguisé d’un collectif issu des principales structures sociales de notre société : la prison, l’hôpital, l’école, les établissements d’hébergement pour personnes âgées dépendantes (Ehpad)... Les travaux des différents ateliers sont présentés lors d’un spectacle rythmé par la musique de Shani Diluka et Matias Aguayo, avec la participation de l'ensemble intercontemporain. Le partenariat conclu avec le groupe ACCOR en 2022, mené avec le SPIP 77, s’est poursuivi en 2023. Plusieurs recruteurs du Groupe Accor ont assisté au spectacle et se sont rendus en détention pour proposer des emplois aux participants.
+Représentations du 8 au 10 septembre 2023 au Théâtre du Châtelet à Paris.
+
+{% Aside "align-self-end" %}
+  [Flouz, le cirque financier](https://www.youtube.com/watch?v=lMvCfZ0iq9U&amp;t=26s){target="_blank"}
+{% endAside %}
+
+### 2023 - <span>FESTIVAL VIS-À-VIS <br>TEMPS FORT DE LA CRÉATION ARTISTIQUE EN MILIEU CARCÉRAL EN RÉGION PACA, SCÈNE NATIONALE DE CHÂTEAUVALLON-LIBERTÉ, THÉÂTRE PARIS-VILLETTE<span>
+Initié en 2016 par le Théâtre Paris-Villette, le Festival Vis-à-Vis, évènement unique en France, permet la valorisation et la présentation au grand public de projets artistiques et culturels
+menés dans les établissements pénitentiaires (théâtre, danse, musique, vidéo, photo,...).  Dans le cadre du développement national de Vis-à-vis, le Scène nationale de Châteauvallon-
+Liberté a organisé en juin 2023 une première édition du festival mettant à l’honneur les projets artistiques et culturels des centres pénitentiaires de la région PACA et de Corse.
+Festival du 31 mai au 2 juin 2023 à la Scène nationale de Châteauvallon-Liberté.
+
+{% Aside "align-self-end" %}
+  [Festival vis-à-vis](https://www.chateauvallon-liberte.fr/evenementfestival-vis-a-vis/){target="_blank"}
+{% endAside %}
+
 ### 2022 - <span>La Collection <br> Ateliers dirigés par Florence Cosnefroy, Thomas B. Reverdy, Arno Bertina</span>
 Maison de la Poésie-Scène littéraire et les Services pénitentiaires d&#39;insertion et de probation des Hauts-de-Seine et de Paris L’atelier propose à de jeunes détenus de se réinventer dans l’écriture et les arts plastiques. L’attention est portée sur un objet qui cristallise les souvenirs. De cet objet naissent des fragments d’histoire, de mémoire, de couleurs et de lieux que le travail plastique nourrit et prolonge. La rencontre sur scène des participants des deux établissements pénitentiaires renforce la dimension d’échange et d’expression de la création dans un aller-retour entre les disciplines et les établissements. Représentation le 16 décembre 2022 à la Maison de la Poésie à Paris. Présentation du travail plastique dans les maisons d’arrêt.
 
