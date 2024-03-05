@@ -10,7 +10,11 @@ Ces ateliers d’écriture, de musique et de production, les temps de rencontres
 ### 2023 - <span>EVANESCENCE(S) <br>ATELIER DE CRÉATION DIRIGÉ PAR FLORENCE COSNEFROY, THOMAS B. REVERDY & ARNO BERTINA<span>
 Maison de la Poésie-Scène littéraire et SPIP des Hauts-de-Seine et de Paris.
 Ce projet interdisciplinaire est conçu comme un espace d’échanges et d’expressions, dans un constant aller et retour entre les établissements, mais aussi entre les disciplines : la lecture donne lieu à un travail plastique qui à son tour se redéploye en texte dans l’atelier d’écriture. Le travail plastique nourrit le travail d’écriture et le prolonge. L’atelier repose sur les souvenirs et les émotions des participants en lien avec leurs histoires personnelles ou imaginaires, faisant émerger des fragments d’histoire, de mémoire, de couleurs et de lieux par des récits et par les arts plastiques. Restitution le 14 décembre 2023 à la Maison de la Poésie à Paris et présentation des œuvres dans les maisons d’arrêt.
-https://maisondelapoesieparis.com/  programme/evanescences/
+
+{% Aside "align-self-end" %}
+  [EVANESCENCE(S)](https://maisondelapoesieparis.com/programme/evanescences/){target="_blank"}
+{% endAside %}
+
 
 
 ### 2023 - <span>LE CORPS DES HOMMES <br>ATELIERS DE CRÉATION DIRIGÉS PAR JEAN-PIERRE CHRÉTIEN-GONI, HÉLÈNE LABADIE ET ANTONY QUENET, METTEUR(E)S EN SCÈNE POUR LA COMPAGNIE LE VENT SE LÈVE!<span>
@@ -51,7 +55,7 @@ Liberté a organisé en juin 2023 une première édition du festival mettant à 
 Festival du 31 mai au 2 juin 2023 à la Scène nationale de Châteauvallon-Liberté.
 
 {% Aside "align-self-end" %}
-  [Festival vis-à-vis](https://www.chateauvallon-liberte.fr/evenementfestival-vis-a-vis/){target="_blank"}
+  [Festival vis-à-vis](https://www.chateauvallon-liberte.fr/evenement/festival-vis-a-vis/){target="_blank"}
 {% endAside %}
 
 ### 2022 - <span>La Collection <br> Ateliers dirigés par Florence Cosnefroy, Thomas B. Reverdy, Arno Bertina</span>

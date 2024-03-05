@@ -13,7 +13,7 @@ Les conférences sont organisées annuellement par l’Institut Jean-Nicod, Unit
 
 ### 2023 - <span>NANCY KANWISHER (MIT)</span>
 
-Le prix est attribué à Nancy Kanwisher pour sa recherche intitule : Functional Organization of the Human Brain : A Window into the Architecture of the Mind. Nancy Kanwisher a obtenu sa licence et son doctorat au MIT, où elle a travaillé avec le professeur Molly Potter.
+Le prix est attribué à Nancy Kanwisher pour sa recherche intitulée : Functional Organization of the Human Brain : A Window into the Architecture of the Mind. Nancy Kanwisher a obtenu sa licence et son doctorat au MIT, où elle a travaillé avec le professeur Molly Potter.
 
 {% Aside "align-self-end" %}
   [Nancy Kanwisher](http://www.institutnicod.org/seminaires-colloques/prix-jean-nicod/conferences-et-prix-jean-nicod-2023/article/conferences-et-prix-jean-nicod-2023?lang=en&amp;var_mode=calcul){target="_blank"}
