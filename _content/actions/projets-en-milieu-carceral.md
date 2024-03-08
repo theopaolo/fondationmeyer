@@ -12,7 +12,7 @@ Maison de la Poésie-Scène littéraire et SPIP des Hauts-de-Seine et de Paris.
 Ce projet interdisciplinaire est conçu comme un espace d’échanges et d’expressions, dans un constant aller et retour entre les établissements, mais aussi entre les disciplines : la lecture donne lieu à un travail plastique qui à son tour se redéploye en texte dans l’atelier d’écriture. Le travail plastique nourrit le travail d’écriture et le prolonge. L’atelier repose sur les souvenirs et les émotions des participants en lien avec leurs histoires personnelles ou imaginaires, faisant émerger des fragments d’histoire, de mémoire, de couleurs et de lieux par des récits et par les arts plastiques. Restitution le 14 décembre 2023 à la Maison de la Poésie à Paris et présentation des œuvres dans les maisons d’arrêt.
 
 {% Aside "align-self-end" %}
-  [EVANESCENCE(S)](https://maisondelapoesieparis.com/programme/evanescences/){target="_blank"}
+  [Evanescence(s)](https://maisondelapoesieparis.com/programme/evanescences/){target="_blank"}
 {% endAside %}
 
 
