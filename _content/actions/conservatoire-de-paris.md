@@ -17,4 +17,4 @@ Dans la continuité de ces actions clés, une bourse d’excellence est inaugur�
 
 > *Je souhaite que perdure la relation avec le Conservatoire. Le soutien de la Fondation a changé la vie de centaines de jeunes musiciens qui n’ont ni le temps ni l'opportunité de trouver un travail durant leurs études. Je trouve très gratifiant de leur permettre de passer leurs diplômes avec plus de sérénité.*
 >
-> Vincent Meyer, Président de la Fondation  Meyer, janvier 2012
+> Vincent Meyer, Président de la Fondation Meyer.

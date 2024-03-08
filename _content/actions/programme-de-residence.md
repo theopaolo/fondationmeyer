@@ -22,9 +22,9 @@ A l’issue de la résidence, les lauréats disposent de 3 mois pour restituer l
   [Elitza Georguieva](/actualites/elitza-gueorguieva,-ou-la-langue-en-jeu){target="_blank"}
 {% endAside %}
 
-### <span>Lucie Demande</span>
+### <span>Lucie Demange</span>
 {% Aside "align-self-end" %}
-  [Lucie Demande](/actualites/lucie-demange,-ou-le-regard-fluide){target="_blank"}
+  [Lucie Demange](/actualites/lucie-demange,-ou-le-regard-fluide){target="_blank"}
 {% endAside %}
 
 ### <span>Matteo Gualandi</span>
