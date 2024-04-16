@@ -2,9 +2,10 @@ import Alpine from 'https://unpkg.com/alpinejs@3.2.1/dist/module.esm.js'
 import Dexie from './dexie.mjs'
 
 function getYears(list) {
-  const years = list.map((y) => y.annee).filter((elem, index, self) => {
-    return index == self.indexOf(elem)
-  })
+  const years = list.map((y) => y.annee)
+    .filter((elem, index, self) => {
+      return index == self.indexOf(elem)
+    })
 
   return years
 }
@@ -14,8 +15,8 @@ document.addEventListener('alpine:init', () => {
     db: new Dexie('BENE_DB'),
     list: [],
     years: [],
-    selectedYear: 1996,
-    previousYear: 1996,
+    selectedYear: null,
+    previousYear: null,
     searching: false,
     searchString: '',
     loading: false,
@@ -25,6 +26,8 @@ document.addEventListener('alpine:init', () => {
         this.loading = true
         const { years } = await this.setupDB(this.db)
         this.years = [ ...years ]
+        this.selectedYear = years[years.length - 1]
+        this.previousYear = this.selectedYear
         this.selectYear(this.selectedYear)
       } catch (err) {
         console.error(err)
