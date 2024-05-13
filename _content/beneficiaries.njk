@@ -21,7 +21,7 @@ title: beneficiaries
 
       <div class="year-scroller" x-cloak x-show="!$store.beneficiaries.searching">
         <div class="year-list">
-          <template x-for="y in $store.beneficiaries.years">
+          <template x-for="y in $store.beneficiaries.years.sort((a, b) => b - a)">
             <a class="year" :href="y" :data-year="y" :class="y == $store.beneficiaries.selectedYear ? 'selected' : ''"
               @click.prevent="$store.beneficiaries.selectYear(y, $el)" x-text="y"></a>
           </template>
