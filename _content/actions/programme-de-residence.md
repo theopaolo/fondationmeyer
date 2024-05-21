@@ -15,27 +15,25 @@ Les lauréats s’engagent à mettre en pause leur activité professionnelle ré
 
 A l’issue de la résidence, les lauréats disposent de 3 mois pour restituer leur travail d’écriture auprès de la Fondation dans le format de leur choix : partition, manuscrit, scénario, article, publication ou toute autre forme hybride.
 
-## lauréats 2024
+## lauréats
 
-### <span>ALIÉNOR CARRIÈRE (JOURNALISME)</span>
+### 2024 - <span>ALIÉNOR CARRIÈRE (JOURNALISME)</span>
 
-### <span>ADRIEN MORAT (JOURNALISME)</span>
+### 2024 - <span>ADRIEN MORAT (JOURNALISME)</span>
 
-### <span>MEGUMI OKUDA (MUSIQUE)</span>
+### 2024 - <span>MEGUMI OKUDA (MUSIQUE)</span>
 
-### <span>RACHIDA BRAHIM (RECHERCHE)</span>
+### 2024 - <span>RACHIDA BRAHIM (RECHERCHE)</span>
 
-### <span>GORGE BATAILLE (LITTÉRATURE)</span>
+### 2024 - <span>GORGE BATAILLE (LITTÉRATURE)</span>
 
-### <span>ROBIN FAYMONVILLE (LITTÉRATURE)</span>
+### 2024 - <span>ROBIN FAYMONVILLE (LITTÉRATURE)</span>
 
-### <span>DIALA ALHINDAOUI (CINÉMA)</span>
+### 2024 - <span>DIALA ALHINDAOUI (CINÉMA)</span>
 
-### <span>HUGO PICHON-MARTIN (CINÉMA)</span>
+### 2024 - <span>HUGO PICHON-MARTIN (CINÉMA)</span>
 
-## lauréats 2023
-
-### <span>Elitza Georguieva</span>
+### 2023 - <span>Elitza Georguieva</span>
 
 Née à Sofia, Bulgarie, Elitza Gueorguieva vit et travaille en France depuis 2000 où elle se consacre à des projets de cinéma, d’écriture et de performances.
 
@@ -47,7 +45,7 @@ Elle a réalisé plusieurs films documentaires dont _Chaque mur_ est une porte p
 [Elitza Georguieva](/actualites/elitza-gueorguieva,-ou-la-langue-en-jeu){target="\_blank"}
 {% endAside %}
 
-### <span>Lucie Demange</span>
+### 2023 - <span>Lucie Demange</span>
 
 Lucie Demange a suivi une formation de jeu au Conservatoire de Saint-Etienne, elle a intégré le fastueux groupe de « drama-rock » _Les poulets sans têtes_, été formé.e à l’image au sein de la CinéFabrique, École nationale supérieure de cinéma à Lyon. Elle elle a aussi initié _La Charbon Paillettes_, soirée queer stéphanoise aux multiples éditions. Lucie a réalisé pendant ses études, son premier court documentaire intitulé _Sainté Capitale des Queers_. Plus récemment, elle a réalisé Quitter Chouchou, sélectionné notamment au festival Cinéma du Réel en 2023. Elle travaille actuellement à l'écriture d'un nouveau film qui mêlera queerness et catholicisme, toujours en tentant d'aborder des sujets de « société » par le biais de l'intime et sur un ton tragi-comique qui lui est cher.
 
@@ -55,7 +53,7 @@ Lucie Demange a suivi une formation de jeu au Conservatoire de Saint-Etienne, el
 [Lucie Demange](/actualites/lucie-demange,-ou-le-regard-fluide){target="\_blank"}
 {% endAside %}
 
-### <span>Matteo Gualandi</span>
+### 2023 - <span>Matteo Gualandi</span>
 
 Né en 1995 à Rome où il a grandi, Matteo Gualandi commence à étudier la composition dans cette ville. Il poursuit sa formation entre la Haute école de musique de Genève où il obtient le prix Contrechamps en 2020, le Conservatoire nationale supérieur de musique et de danse de Paris et l’Ircam. Ses compositions ont été interprétées dans plusieurs festivals tels que la Biennale de Venise, ManiFeste, festival de l’Ircam à Paris et Gaudeamus Muziekweek à Utrecht, par des formations telles que l'ensemble Intercontemporain ou l'ensemble Contrechamps. Sa musique nait d'une réflexion sur le son, la poésie et la mémoire ; elle est marquée par l'économie de moyens et une attention constante à la perception sensorielle.
 
