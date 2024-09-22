@@ -20,7 +20,6 @@ A l’issue de la résidence, les lauréats disposent de 3 mois pour restituer l
 ### 2024 - <span>ALIÉNOR CARRIÈRE (JOURNALISME)</span>
 
 Aliénor Carrière est une journaliste indépendante et réalisatrice de documentaires pour Arte et France Télévisions née en 1990. Elle donne la parole aux femmes et aux personnes à la marge de nos sociétés, des prostituées françaises aux enfants soldats de Côte d’Ivoire, des jeunes victimes de violences conjugales aux précaires mineurs de charbon en Pologne. Lauréate d'une dizaine de prix (SCAM, Lagardère, Rotary, Graine de Doc...) elle s'est aussi formée au Cross-Border Journalism grâce à différents programmes européens et américains.
-
 Assumant un prisme féministe intersectionnel, ses films visent à déconstruire les discriminations qui imprègnent nos sociétés. En tant que gender-éditrice freelance, elle donne des formations en école de journalisme et auprès des professionnels des médias et de la Culture pour aider les prochaines générations à mieux parler des violences sexistes et sexuelles.
 
 ### 2024 - <span>ADRIEN MORAT (JOURNALISME)</span>
@@ -30,7 +29,6 @@ Adrien Morat est né en 1989. Diplômé de l’ESJ Lille en master journalisme s
 ### 2024 - <span>MEGUMI OKUDA (MUSIQUE)</span>
 
 Megumi Okuda est une compositrice instrumentale et électronique née en 1993. Après avoir étudié la composition à l’Université nationale de musique de Bucarest, elle a poursuivi ses études au Conservatoire national supérieur de musique et de danse de Paris de 2017 à 2023. En 2020 et 2021, elle a approfondi ses connaissances en composition et en informatique musicale à l’IRCAM. Lauréate de plusieurs bourses, elle a été récompensée par le prix Monique Gabus de la Fondation de France en 2023, et par le prix Hervé Dugardin décerné par la SACEM, dans le cadre du dispositif Pulsations Contemporaines.
-
 Sa musique explore diverses directions expressives, s'inspirant de thèmes récurrents tels que la personnification, l’anthropomorphisme, les souvenirs et les histoires imaginaires. Elle s'est aussi investie dans des projets multidisciplinaires, collaborant avec des artistes visuels, des danseurs, des créateurs de mode et s'engageant dans la direction artistique.
 
 ### 2024 - <span>RACHIDA BRAHIM (RECHERCHE)</span>
@@ -48,13 +46,11 @@ Robin Faymonville est né en 1995. Il vit et travaille à Bruxelles. Après une 
 ### 2024 - <span>DIALA ALHINDAOUI (CINÉMA)</span>
 
 Diala Al Hindaoui, née en 1997, est une scénariste et réalisatrice syrienne résidant à Paris depuis 2016. Elle est titulaire d'un diplôme en études cinématographiques de l'Université Paris 8 et de l'Université de Lyon 2, ainsi que d'un diplôme de la Cinéfabrique, École supérieure de cinéma de Lyon, en département scénario.
-
 Diala a participé en tant que scénariste à plusieurs projets et travaillé en tant que scripte sur plusieurs films. Elle a réalisé son premier court-métrage documentaire intitulé "Deux morceaux de mémoire", remportant le prix du public au Festival du film Arabe de Noisy-le-sec. En 2023, elle a réalisé un court-métrage documentaire intitulé “Fatmé"”, recevant le Prix de Jeune création au Fipadoc, ainsi que le Prix du public au Cinéma du Réel. Elle occupe actuellement le poste de responsable du département cinéma chez Al-Ayoun, où elle organise de nombreuses projections de films syriens. Elle travaille également sur son premier long-métrage documentaire.
 
 ### 2024 - <span>HUGO PICHON-MARTIN (CINÉMA)</span>
 
 Hugo Martin Pichon est né à Grenoble en 2000 où il se forme à la musique et poursuit un cursus littéraire. Après deux ans de classe préparatoire en littérature et en sciences humaines, il intègre la CinéFabrique, École nationale supérieure de cinéma à Lyon, dont il ressort diplômé en 2023 en département montage. Parallèlement à une carrière d'assistant de post-production, il monte plusieurs courts-métrages primés, tels que "Fatmé" de Diala Al Hindaoui, prix de la Jeune Création au FIPADOC 2024 et prix du Public au Cinéma du Réel 2024, ou encore "Fille" de Lili Cazals, mention d'interprétation au Festival du Film Court de Brest 2023. En collaboration avec Clémence Garnier, il monte aussi "Bacata" de Fanny Liatard et Jérémy Trouilh ("Gagarine", 2019).
-
 Il a réalisé deux courts-métrages, "Erreur 2305", mention honorable au Student World Impact Film Festival 2023, et "Tue l'amour", avec Gaëtan Garcia et Noé Laussedat. Il développe aujourd'hui un film documentaire, tout en continuant à monter des courts-métrages."
 
 ### 2023 - <span>Elitza Georguieva (LITTÉRATURE)</span>
